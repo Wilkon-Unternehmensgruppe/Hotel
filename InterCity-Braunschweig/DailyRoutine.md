@@ -109,11 +109,11 @@
     - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **14.015** ↓ *click* Search ↓ *in Report Name double click* Breakfast... ↓ *uncheck* Non Deduct ↓ Print
 ## **Extending Nights for PM** 
    - *click* Front Desk ↓ *click* In House Guests ↓ *click* Advanced ↓ Check Due Out  ↓ *click* Search ↓ *in each* found PM
-     - *double click* PM ↓ *in Nights* extend nights *AMAP* ↓ Ok
+     - *double click* PM ↓ *in Nights* extend nights *AMAP* ↓ Ok [<sup>[1]</sup>](#Note1)
        - > **_NOTE_** *same above-mentioned step for Each PM*
 ## **Canceling 6PM Guests**
    - *click* Front Desk ↓ *click* Arrivals ↓ *In arrivals Guests* ↓ *find Guest with the Status 6PM* ↓ *Click on Guest Name* ↓ Cancel ↓ *Answer of the Question Reason?* No Guaranteed. 
-     - > **_NOTE_** *Mainly before  Closing Cashier*[^1]
+     - > **_NOTE_** *Mainly before  Closing Cashier*
 
      - > **_NOTE_** *ONLY if the Guest is a Self-Paying with no Credit Card*
 ## **End Of Day Preparation**
@@ -280,4 +280,4 @@
   - [**930000**](#930000)
   - *Then Collected bitte Überweisen Sie Invoices from Desk Paper Storage in Wilkon Desk*
 
-[^1]:first
+<span id="Note1">[1]</span> same above-mentionedstepforEachPM
