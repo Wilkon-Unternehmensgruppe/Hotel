@@ -58,7 +58,7 @@
 |BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
 |STU|Studio|
 
-# End Of Day
+## End Of Day
 # **Order of END OF DAY**
   - **14.015** Breakfast List for the Kitchen ↓ *PLEASE NON Deduct Out*
   - **PMS** *NIGHTS EXTENSION* 
