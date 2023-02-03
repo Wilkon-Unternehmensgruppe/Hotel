@@ -106,8 +106,7 @@
 #  <a name='EndOfDay'></a>**Before End Of Day**
 ## **Breakfast List for the Kitchen**
   - **14.015**
-    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **14.015** ↓ *click* Search ↓
-> **_NOTE_** *Please uncheck out NON Deduct*
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **14.015** ↓ *click* Search ↓ *in Report name double click* Breakfast... ↓ *uncheck* Non Deduct ↓ Print
 ## **Extending Nights for PM** 
    - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search 
 > **_NOTE_** *extend each one of The found PM*
