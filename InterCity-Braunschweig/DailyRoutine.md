@@ -1,17 +1,13 @@
 - [**Before End Of Day**](#before-end-of-day)
   - [**Breakfast List for the Kitchen**](#breakfast-list-for-the-kitchen)
-    - [**14.015**](#14015)
   - [**Extending Nights for PM**](#extending-nights-for-pm)
   - [**Canceling 6PM Guests**](#canceling-6pm-guests)
   - [**End Of Day Preparation**](#end-of-day-preparation)
     - [**Noting down All No Show Guests**](#noting-down-all-no-show-guests)
   - [**Reports**](#reports)
       - [**Kiosk**](#kiosk)
-        - [**Location**](#location)
       - [**Under No Show**](#under-no-show)
-        - [**Location**](#location-1)
       - [**Closing Account 9999 *Restaurant***](#closing-account-9999-restaurant)
-        - [**Location**](#location-2)
       - [**User Activity Log**](#user-activity-log)
         - [**12.048**](#12048)
       - [**Credit Cards Reports**](#credit-cards-reports)
@@ -78,10 +74,12 @@
       - [**Reservation Entered on And By = Reservation Made Yesterday**](#reservation-entered-on-and-by--reservation-made-yesterday)
       - [**Negative Posting**](#negative-posting)
       - [**CC Kontrolle**](#cc-kontrolle)
+        - [**Kiosk**](#kiosk-1)
         - [**12.029j Journal By Manual Credit Cards**](#12029j-journal-by-manual-credit-cards)
         - [**Excel**](#excel)
         - [**Terminal Reciept**](#terminal-reciept)
       - [**No Show**](#no-show-1)
+        - [**Under No Show**](#under-no-show-1)
       - [**Cashier Closure**](#cashier-closure)
       - [**425\_12.029**](#425_12029-1)
         - [**Amex**](#amex-1)
@@ -107,9 +105,9 @@
 
 #  <a name='EndOfDay'></a>**Before End Of Day**
 ## **Breakfast List for the Kitchen**
-   ### **14.015**
-   - Miscellaneous ↓ Reporst ↓ **14.015**
-> **_NOTE_** *Please uncheck out NON Deduct* 
+  - **14.015**
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **14.015** ↓ *click* Search ↓
+> **_NOTE_** *Please uncheck out NON Deduct*
 ## **Extending Nights for PM** 
    - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search 
 > **_NOTE_** *extend each one of The found PM*
@@ -126,22 +124,10 @@
 ## **Reports**
    #### **Kiosk**
   - Miscellaneous ↓ Reports ↓ **12.029b** ↓ Double Click  ↓ Transaction Code  ↓ Description : %KIOSK  ↓ Select All  ↓ Print
-   ##### **Location**
-  - In TA-Folder ↓ CC Kontrolle
-  
-  <a href="#top">Back to top</a>
    #### **Under No Show**
   - Miscellaneous ↓ Reports ↓ 24.053a
-   ##### **Location**
-  - In TA-Folder ↓ Now Show
-  
-  <a href="#top">Back to top</a>
    #### **Closing Account 9999 *Restaurant***
   - Cashiering ↓ Billing ↓ Type log In Date ↓ Search room 9999 ↓ Double Click ↓ Check out
-   ##### **Location**
-  - IN TA-Folder ↓ Cash
-  
-  <a href="#top">Back to top</a>
    #### **User Activity Log**
    ##### **12.048**
   -  Miscellaneous ↓ Reports ↓ **12.048** ↓ Double Click ↓ *first* Date type : -1 ↓ *Second* Date type : -1 ↓ Print 
@@ -234,11 +220,6 @@
   - **HSK Mgmt Report** (Rooms Management ↓ Housekeeping ↓ Housekeeping Mgmt. ↓ Report)
   #### **Housekeeping Task Assignment**
   - **HSK Task Assignment** ↓ Auto ↓ Ok ↓ Report ↓ Print 
-  
-  - **NOTE**
-      - In TA Folder :
-        - Wire Transfer Slide is for Papers where it's written **Überweisung**
-  
 # **Order Printed Reports in TA-Folder**
   ## **TA - Reporting Paket**
   - Found Under Desktop 
@@ -260,10 +241,12 @@
   #### [**Negative Posting**](#12031) 
   - Negative Posting By Cashier ( All Three 425201,425202,425203 )
   #### **CC Kontrolle**
+  ##### [**Kiosk**](#kiosk)
   ##### [**12.029j Journal By Manual Credit Cards**](#12029j)
   ##### [**Excel**](#excel-table-cc-control)
   ##### [**Terminal Reciept**](#cc-terminal-reciept)
   #### [**No Show**](#no-show)
+  ##### [**Under No Show**](#under-no-show)
   #### [**Cashier Closure**](#cashier-shift-close) 
   > *_NOTE_* *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
   > *_NOTE_* *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*
