@@ -112,8 +112,8 @@
      - *double click* PM ↓ *in Nights* extend nights *AMAP* ↓ Ok
        - > **_NOTE_** *same above-mentioned step for Each PM*
 ## **Canceling 6PM Guests**
-   - *click* Front Desk ↓ *click* Arrivals ↓ *In arrivals Guest* ↓ *find Guest with the Status 6PM* ↓ *Click on Guest Name* ↓ Cancel ↓ *Answer of the Question Reason?* No Guaranteed 
-     - > **_NOTE_** *Mainly before  Closing Cashier*
+   - *click* Front Desk ↓ *click* Arrivals ↓ *In arrivals Guests* ↓ *find Guest with the Status 6PM* ↓ *Click on Guest Name* ↓ Cancel ↓ *Answer of the Question Reason?* No Guaranteed. 
+     - > **_NOTE_** *Mainly before  Closing Cashier*[^1]
 
      - > **_NOTE_** *ONLY if the Guest is a Self-Paying with no Credit Card*
 ## **End Of Day Preparation**
@@ -279,3 +279,5 @@
   #### **City Ledger**
   - [**930000**](#930000)
   - *Then Collected bitte Überweisen Sie Invoices from Desk Paper Storage in Wilkon Desk*
+
+[^1]:first
