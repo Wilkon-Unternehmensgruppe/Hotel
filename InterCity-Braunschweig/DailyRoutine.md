@@ -3,16 +3,6 @@
     - [Extending Nights for PM](#extending-nights-for-pm)
     - [Canceling 6PM Guests](#canceling-6pm-guests)
     - [End Of Day Preparation](#end-of-day-preparation)
-      - [Noting down All No Show Guests](#noting-down-all-no-show-guests)
-      - [Reports](#reports)
-        - [Kiosk](#kiosk)
-          - [Location](#location)
-        - [Under No Show](#under-no-show)
-          - [Location](#location-1)
-        - [**Closing Account 9999 *Restaurant***](#closing-account-9999-restaurant)
-          - [Location](#location-2)
-        - [**User Activity Log**](#user-activity-log)
-          - [Location](#location-3)
     - [Folder Order of END OF DAY](#folder-order-of-end-of-day)
 
 <!-- vscode-markdown-toc-config
@@ -43,34 +33,34 @@
  <a href="#top">Back to top</a>
 
 ### End Of Day Preparation
-  #### Noting down All No Show Guests 
-  - Write down all Rates of unarrived Guests before beginning of End Of Day 
+  - #### **Noting down All No Show Guests** 
+    - Write down all Rates of unarrived Guests before beginning of End Of Day 
   > **_NOTE_** *OR take a look at the No Show report after End Of Day*
   
    <a href="#top">Back to top</a>
-  #### Reports
-  ##### Kiosk
-  - Miscellaneous ↓ Reports ↓ **12.029b** ↓ Double Click  ↓ Transaction Code  ↓ Description : %KIOSK  ↓ Select All  ↓ Print
-  ###### Location
-  - In TA-Folder ↓ CC Kontrolle
+  - #### **Reports**
+    - ##### **Kiosk**
+      - Miscellaneous ↓ Reports ↓ **12.029b** ↓ Double Click  ↓ Transaction Code  ↓ Description : %KIOSK  ↓ Select All  ↓ Print
+    - ###### **Location**
+      - In TA-Folder ↓ CC Kontrolle
   
   <a href="#top">Back to top</a>
-  ##### Under No Show
-  - miscellaneous ↓ Reports ↓ 24.053a
-  ###### Location
-  - In TA-Folder ↓ Now Show
+    - ##### **Under No Show**
+      - miscellaneous ↓ Reports ↓ 24.053a
+    - ###### **Location**
+      - In TA-Folder ↓ Now Show
   
   <a href="#top">Back to top</a>
-  ##### **Closing Account 9999 *Restaurant***
-  - Cashiering ↓ Billing ↓ Type log In Date ↓ Search room 9999 ↓ Double Click ↓ Check out
-  ###### Location
-  - IN TA-Folder ↓ Cash
+    - ##### **Closing Account 9999 *Restaurant***
+      - Cashiering ↓ Billing ↓ Type log In Date ↓ Search room 9999 ↓ Double Click ↓ Check out
+    - ###### **Location**
+      - IN TA-Folder ↓ Cash
   
   <a href="#top">Back to top</a>
-  ##### **User Activity Log** 
-  - miscellaneous ↓ Reports ↓ **12.048** ↓ Double Click ↓ *first* Date type : -1 ↓ *Second* Date type : -1 ↓ Print 
-  ###### Location
-  - In TA-Folder ↓ *first* Slide of TA
+    - ##### **User Activity Log** 
+      - miscellaneous ↓ Reports ↓ **12.048** ↓ Double Click ↓ *first* Date type : -1 ↓ *Second* Date type : -1 ↓ Print 
+    - ###### **Location**
+      - In TA-Folder ↓ *first* Slide of TA
   
   <a href="#top">Back to top</a>
   - **425_12.029** - ***Please at first Preview & ONLY print out, if there is something found***
