@@ -1,4 +1,3 @@
-vscode-markdown-toc -->
 - [End Of Day](#end-of-day)
   - [Breakfast List for the Kitchen](#breakfast-list-for-the-kitchen)
 - [Folder Order of END OF DAY](#folder-order-of-end-of-day)
