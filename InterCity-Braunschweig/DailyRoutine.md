@@ -106,10 +106,11 @@
 #  <a name='EndOfDay'></a>**Before End Of Day**
 ## **Breakfast List for the Kitchen**
   - **14.015**
-    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **14.015** ↓ *click* Search ↓ *in Report name double click* Breakfast... ↓ *uncheck* Non Deduct ↓ Print
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **14.015** ↓ *click* Search ↓ *in Report Name double click* Breakfast... ↓ *uncheck* Non Deduct ↓ Print
 ## **Extending Nights for PM** 
-   - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search 
-> **_NOTE_** *extend each one of The found PM*
+   - *click* Front Desk ↓ *click* In House Guests ↓ *click* Advanced ↓ Check Due Out  ↓ *click* Search ↓ *in each* found PM
+     - *double click* PM ↓ *in Nights* extend nights *AMAP* ↓ Ok
+       - *same above-mentioned step for Each PM*
 ## **Canceling 6PM Guests**
    - Arrival ↓ Search ↓ 6PM ↓ Cancel **
      - (Reason : No Guaranteed) 
