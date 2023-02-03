@@ -1,5 +1,14 @@
+<!-- vscode-markdown-toc -->
+- [Abbreviation](#abbreviation)
+- [ End Of Day](#-end-of-day)
+- [ Folder Order of END OF DAY](#-folder-order-of-end-of-day)
 
-## Abbreviation
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+##  <a name='Abbreviation'></a>Abbreviation
 |Abbr|Info|
 |:--:|:--:|
 |AX|Rate Code without Breakfast|
@@ -18,7 +27,7 @@
 |BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
 |STU|Studio|
 
-##  End Of Day
+##  <a name='EndOfDay'></a> End Of Day
 **Order of END OF DAY**
   - **14.015** Breakfast List for the Kitchen ↓ *PLEASE NON Deduct Out*
   - **PMS** *NIGHTS EXTENSION* 
@@ -70,7 +79,7 @@
       - In TA Folder :
         - Wire Transfer Slide is for Papers where it's written **Überweisung**
 
-##  Folder Order of END OF DAY
+##  <a name='FolderOrderofENDOFDAY'></a> Folder Order of END OF DAY
   - **TA - Reporting Paket**
   - **Checkliste Nachtdienst Rundgang Täglich**
   - **Intercity Hotel Braunschweig**
