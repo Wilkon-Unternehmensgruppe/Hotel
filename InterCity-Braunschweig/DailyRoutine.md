@@ -5,7 +5,7 @@
   - [**Canceling 6PM Guests**](#canceling-6pm-guests)
   - [**End Of Day Preparation**](#end-of-day-preparation)
     - [**Noting down All No Show Guests**](#noting-down-all-no-show-guests)
-    - [**Reports**](#reports)
+  - [**Reports**](#reports)
       - [**Kiosk**](#kiosk)
         - [**Location**](#location)
       - [**Under No Show**](#under-no-show)
@@ -13,7 +13,7 @@
       - [**Closing Account 9999 *Restaurant***](#closing-account-9999-restaurant)
         - [**Location**](#location-2)
       - [**User Activity Log**](#user-activity-log)
-        - [**Location**](#location-3)
+        - [**12.048**](#12048)
       - [**Credit Cards Reports**](#credit-cards-reports)
         - [**425\_12.029**](#425_12029)
         - [**Amex**](#amex)
@@ -30,16 +30,20 @@
           - [**800000**](#800000)
           - [**940000,940500,941000,941100**](#940000940500941000941100)
           - [**930000**](#930000)
-    - [**Count Physical Cash** *PLEASE and then*](#count-physical-cash-please-and-then)
+    - [**Count Physical Cash**](#count-physical-cash)
     - [**Cashier Shift Close**](#cashier-shift-close)
-    - [**12.029j**](#12029j)
+    - [**Journal By Manual Credit Cards**](#journal-by-manual-credit-cards)
+      - [**12.029j**](#12029j)
     - [**Excel Table CC Control**](#excel-table-cc-control)
-      - [X-Bericht , Z-Bericht , CC-Terminal Reciept ,  12.029j](#x-bericht--z-bericht--cc-terminal-reciept---12029j)
+      - [X-Bericht \& Z-Bericht \& CC-Terminal Reciept](#x-bericht--z-bericht--cc-terminal-reciept)
+        - [CC-Terminal Reciept](#cc-terminal-reciept)
+        - [X-Report \& Z-Report](#x-report--z-report)
     - [**12.029f**](#12029f)
     - [**Negative Posting by Cashier**](#negative-posting-by-cashier)
-      - [**425201**](#425201)
-      - [**425202**](#425202)
-      - [**425203**](#425203)
+      - [**12.031**](#12031)
+        - [**425201**](#425201)
+        - [**425202**](#425202)
+        - [**425203**](#425203)
   - [**END OF DAY**](#end-of-day)
 - [**After End Of Day**](#after-end-of-day)
   - [**Breakfast List for Service**](#breakfast-list-for-service)
@@ -57,42 +61,69 @@
       - [**Housekeeping Management Report**](#housekeeping-management-report)
       - [**Housekeeping Task Assignment**](#housekeeping-task-assignment)
 - [**Order Printed Reports in TA-Folder**](#order-printed-reports-in-ta-folder)
+  - [**TA - Reporting Paket**](#ta---reporting-paket)
+  - [**Checkliste Nachtdienst Rundgang Täglich**](#checkliste-nachtdienst-rundgang-täglich)
+    - [**Printed out form *END OF DAY***](#printed-out-form-end-of-day)
+      - [**Intercity Hotel Braunschweig**](#intercity-hotel-braunschweig)
+      - [**Trail Balance**](#trail-balance)
+      - [**Manager Flash**](#manager-flash)
+      - [**Revenue By Transaction Codes Net = Revenue of The Day Net**](#revenue-by-transaction-codes-net--revenue-of-the-day-net)
+      - [**Negative Posting by Transaction Code = Non Revenue by Transaction Code**](#negative-posting-by-transaction-code--non-revenue-by-transaction-code)
+      - [**No Show**](#no-show)
+      - [**Complimentary Rooms In House**](#complimentary-rooms-in-house)
+      - [**Non Revenue by Transaction Codes = Non Revenue / Paidout of the Day**](#non-revenue-by-transaction-codes--non-revenue--paidout-of-the-day)
+      - [**Credit Limit Report**](#credit-limit-report)
+      - [**Paidouts**](#paidouts)
+      - [**User Activity Log**](#user-activity-log-1)
+      - [**Reservation Entered on And By = Reservation Made Yesterday**](#reservation-entered-on-and-by--reservation-made-yesterday)
+      - [**Negative Posting**](#negative-posting)
+      - [**CC Kontrolle**](#cc-kontrolle)
+        - [**12.029j Journal By Manual Credit Cards**](#12029j-journal-by-manual-credit-cards)
+        - [**Excel**](#excel)
+        - [**Terminal Reciept**](#terminal-reciept)
+      - [**No Show**](#no-show-1)
+      - [**Cashier Closure**](#cashier-closure)
+      - [**425\_12.029**](#425_12029-1)
+        - [**Amex**](#amex-1)
+        - [**Mastercard**](#mastercard-1)
+        - [**Visa**](#visa-1)
+        - [**Cash**](#cash-1)
+        - [**VPAY**](#vpay-1)
+        - [**WireTransfer**](#wiretransfer)
+        - [**Maestro**](#maestro-1)
+      - [**Pre Payment Website**](#pre-payment-website)
+      - [**Pre Payment Website (Amex)**](#pre-payment-website-amex)
+      - [**Pre Payment Website (PayPal)**](#pre-payment-website-paypal)
+      - [**Paidout**](#paidout)
+      - [**Voucher**](#voucher)
+      - [**City Ledger**](#city-ledger-1)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
+ <a href="#top">Back to top</a>
 
 #  <a name='EndOfDay'></a>**Before End Of Day**
 ## **Breakfast List for the Kitchen**
    ### **14.015**
    - Miscellaneous ↓ Reporst ↓ **14.015**
-     - > **_NOTE_** *Please uncheck out NON Deduct*
-
- <a href="#top">Back to top</a>
- 
+> **_NOTE_** *Please uncheck out NON Deduct* 
 ## **Extending Nights for PM** 
-   - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search
-     - > **_NOTE_** *and extend each one of The found PM*
-
-   <a href="#top">Back to top</a>
+   - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search 
+> **_NOTE_** *extend each one of The found PM*
 ## **Canceling 6PM Guests**
    - Arrival ↓ Search ↓ 6PM ↓ Cancel **
      - (Reason : No Guaranteed) 
      - > **_NOTE_** *Mainly before  Closing Cashier*
 
      - > **_NOTE_** *ONLY if the Guest is a Self-Paying with no Credit Card*
-
- <a href="#top">Back to top</a>
-
 ## **End Of Day Preparation**
    ### **Noting down All No Show Guests** 
   - Write down all Rates of unarrived Guests before beginning of End Of Day 
     - > **_NOTE_** *OR take a look at the No Show report after End Of Day*
-  
-   <a href="#top">Back to top</a>*
-   ### **Reports**
+## **Reports**
    #### **Kiosk**
   - Miscellaneous ↓ Reports ↓ **12.029b** ↓ Double Click  ↓ Transaction Code  ↓ Description : %KIOSK  ↓ Select All  ↓ Print
    ##### **Location**
@@ -111,12 +142,9 @@
   - IN TA-Folder ↓ Cash
   
   <a href="#top">Back to top</a>
-   #### **User Activity Log** 
+   #### **User Activity Log**
+   ##### **12.048**
   -  Miscellaneous ↓ Reports ↓ **12.048** ↓ Double Click ↓ *first* Date type : -1 ↓ *Second* Date type : -1 ↓ Print 
-   ##### **Location**
-  - In TA-Folder ↓ *first* Slide of TA
-  
-  <a href="#top">Back to top</a>
    #### **Credit Cards Reports**
    ##### **425_12.029**
    - Miscellaneous ↓ Reports ↓ **425_12.029**
@@ -149,54 +177,43 @@
   - Type 952000,953000 ↓ Print
    ###### **930000**
   - Type 952000,953000 ↓ Print
-  
-  <a href="#top">Back to top</a>
-  ### **Count Physical Cash** *PLEASE and then*
+  ### **Count Physical Cash**
   - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash
-  - > **_NOTE_** *Cash Count should be ZERO*
-  
-  <a href="#top">Back to top</a>
+  > **_NOTE_** *Cash Count should be ZERO*
+  > **_NOTE_** *Firstly Count Physical Cash and Then Cashier Shift Close*
   ### **Cashier Shift Close**
   - Cashiering ↓ Cashier Shift Close
-  -  > **_NOTE_** *This step happenes after Counting Physical Cash*
-  
-  <a href="#top">Back to top</a>
-  ### **12.029j**
+  > **_NOTE_** *This step happenes after Counting Physical Cash*
+  ### **Journal By Manual Credit Cards** 
+  #### **12.029j**
   - Miscellaneous ↓ Reports ↓ **12.029j**
-  
-  <a href="#top">Back to top</a>
   ### **Excel Table CC Control**
   -  One Click Excel Icon in Desktop ↓ Double Click CC Kontrolle
-
-  <a href="#top">Back to top</a>
-  #### X-Bericht , Z-Bericht , CC-Terminal Reciept ,  12.029j 
-
-  <a href="#top">Back to top</a>
+  #### X-Bericht & Z-Bericht & CC-Terminal Reciept
+  ##### CC-Terminal Reciept 
+  - Go to the Bar and Pull out Reciept from the small Terminal
+  ##### X-Report & Z-Report
+  - Go to the Bar and Pull out Reciept form the IPAD
   ### **12.029f**
   - Miscellaneous ↓ Reports ↓ **12.029f** 
-  ### **Negative Posting by Cashier** 
+  ### **Negative Posting by Cashier**
+  #### **12.031**
   - Miscellaneuos ↓ Reports ↓ **12.031** 
   - Double Click on **12.031**
     - ↓ Cashier
-  #### **425201**
+  ##### **425201**
   - Type 425201 ↓ Print
-  #### **425202**
+  ##### **425202**
   - Type 425202 ↓ Print
-  #### **425203**
+  ##### **425203**
   - Type 425203 ↓ Print
-  
-  <a href="#top">Back to top</a>
   ## **END OF DAY**
   - End Of Day ↓ Night Audit ↓ Login
-
-  <a href="#top">Back to top</a>
 #  <a name='EndOfDay'></a>**After End Of Day**
   ## **Breakfast List for Service**
   ### **15.033g**
   - Miscellaneous ↓ Reports ↓ **15.033g** ↓ Print
     - By Packages Select All and Print
-  
-  <a href="#top">Back to top</a>
   ## **From 6 O'Clock**
   ### **Traces FO Status *For FO***
   #### **15.023e**
@@ -223,33 +240,60 @@
         - Wire Transfer Slide is for Papers where it's written **Überweisung**
   
 # **Order Printed Reports in TA-Folder**
-  - **TA - Reporting Paket**
-  - **Checkliste Nachtdienst Rundgang Täglich**
-  - **Intercity Hotel Braunschweig**
-  - **Trail Balance**
-  - **Manager Flash**
-  - **Revenue By Transaction Codes Net = Revenue of The Day Net**
-  - **Negative Posting by Transaction Code = Non Revenue by Transaction Code**
-  - **No Show ( comes under No Show Slide )**
-  - **Complimentary Rooms In House**
-  - **Non Revenue by Transaction Codes = Non Revenue / Paidout of the Day**
-  - **Credit Limit Report**
-  - **Paidouts**
-  - **User Activity Log**
-  - **Reservation Entered on And By = Reservation Made Yesterday**
-  - **Negative Posting** 
-    - Negative Posting By Cashier ( All Three 425201,425202,425203 )
-  - **CC Kontrolle** 
-    - 12.029j Journal By Manual Credit Cards
-    - Excel and Terminal Reciept 
-    - Guest Terminal Check-In *That comes at 3 O'Clock in the Email*
-  - **No Show**
-  - **Cashier Closure** ( In Following : Night,Late,Morning ) and at the End of Each Kassenzälung 
-  - **Amex, Mastercard, Visa Card** .. Firstly the 425_12.029 and then the Rechnungen Under Each
-  - **Journal By Cashier Cash , then 9999 ↓ Cash**
-  - **9520,9530** ↓ Pre Payment Website
-  - **9521,9531** ↓ Pre Payment Website ( Amex )
-  - **9522,9532** ↓ Pre Payment Website ( Paypal )
-  - **80000** ↓ Paidout
-  - **All 94** ↓ Voucher
-  - **930000 & bitte Überweisen Sie** ↓ City Ledger
+  ## **TA - Reporting Paket**
+  - Found Under Desktop 
+  ## **Checkliste Nachtdienst Rundgang Täglich**
+  - Found Under Desktop
+  ### **Printed out form *END OF DAY***
+  #### **Intercity Hotel Braunschweig**
+  #### **Trail Balance**
+  #### **Manager Flash**
+  #### **Revenue By Transaction Codes Net = Revenue of The Day Net**
+  #### **Negative Posting by Transaction Code = Non Revenue by Transaction Code**
+  #### **No Show**
+  #### **Complimentary Rooms In House**
+  #### **Non Revenue by Transaction Codes = Non Revenue / Paidout of the Day**
+  #### **Credit Limit Report**
+  #### **Paidouts**
+  #### [**User Activity Log**](#12048)
+  #### **Reservation Entered on And By = Reservation Made Yesterday**
+  #### [**Negative Posting**](#12031) 
+  - Negative Posting By Cashier ( All Three 425201,425202,425203 )
+  #### **CC Kontrolle**
+  ##### [**12.029j Journal By Manual Credit Cards**](#12029j)
+  ##### [**Excel**](#excel-table-cc-control)
+  ##### [**Terminal Reciept**](#cc-terminal-reciept)
+  #### [**No Show**](#no-show)
+  #### [**Cashier Closure**](#cashier-shift-close) 
+  > *_NOTE_* *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
+  > *_NOTE_* *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*
+  #### **425_12.029**
+  ##### [**Amex**](#amex)
+  - *Then Collected Amex Invoices from Desk Paper Storage in Wilkon Desk*
+  ##### [**Mastercard**](#mastercard)
+  - *Then Collected MasterCardInvoices from Desk Paper Storage in Wilkon Desk*
+  ##### [**Visa**](#visa)
+  - *Then Collected VISAInvoices from Desk Paper Storage in Wilkon Desk*
+  ##### [**Cash**](#cash)
+  - *Then Collected CASH Invoices from Desk Paper Storage in Wilkon Desk*
+  - *Then [Closing Account 9999 Restaurant](#closing-account-9999-restaurant)*
+  ##### [**VPAY**](#vpay)
+  - *Then Collected VPAY Invoices from Desk Paper Storage in Wilkon Desk*
+  ##### [**WireTransfer**](#wire-transfer)
+  - *Then Collected Wire Transfer Invoices from Desk Paper Storage in Wilkon Desk*
+  - *Then Collected Überweisung Invoices from Desk Papar Storage in Wilkon Desk*
+  ##### [**Maestro**](#maestro)
+  - *Then Collected Maestro Invoices from Desk Paper Storage in Wilkon Desk*
+  #### **Pre Payment Website**
+  - [**952000,953000**](#952000953000)
+  #### **Pre Payment Website (Amex)**
+  - [**952100,953100**](#952100953100)
+  #### **Pre Payment Website (PayPal)**
+  - [**952200,953200**](#952200953200)
+  #### **Paidout**
+  - [**800000**](#800000)
+  #### **Voucher**
+  - [**940000,940500,941000,941100**](#940000940500941000941100)
+  #### **City Ledger**
+  - [**930000**](#930000)
+  - *Then Collected bitte Überweisen Sie Invoices from Desk Paper Storage in Wilkon Desk*
