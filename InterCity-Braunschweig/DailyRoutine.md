@@ -110,10 +110,9 @@
 ## **Extending Nights for PM** 
    - *click* Front Desk ↓ *click* In House Guests ↓ *click* Advanced ↓ Check Due Out  ↓ *click* Search ↓ *in each* found PM
      - *double click* PM ↓ *in Nights* extend nights *AMAP* ↓ Ok
-       - *same above-mentioned step for Each PM*
+       - > **_NOTE_** *same above-mentioned step for Each PM*
 ## **Canceling 6PM Guests**
-   - Arrival ↓ Search ↓ 6PM ↓ Cancel **
-     - (Reason : No Guaranteed) 
+   - *click* Front Desk ↓ *click* Arrivals ↓ *In arrivals Guest* ↓ *find Guest with the Status 6PM* ↓ *Click on Guest Name* ↓ Cancel ↓ *Answer of the Question Reason?* No Guaranteed 
      - > **_NOTE_** *Mainly before  Closing Cashier*
 
      - > **_NOTE_** *ONLY if the Guest is a Self-Paying with no Credit Card*
