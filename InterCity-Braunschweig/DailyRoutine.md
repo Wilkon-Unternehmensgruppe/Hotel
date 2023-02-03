@@ -1,8 +1,8 @@
 - [End Of Day](#end-of-day)
-  - [Breakfast List for the Kitchen](#breakfast-list-for-the-kitchen)
-  - [Extending Nights for PM](#extending-nights-for-pm)
-  - [Canceling 6PM Guests](#canceling-6pm-guests)
-  - [Folder Order of END OF DAY](#folder-order-of-end-of-day)
+      - [Breakfast List for the Kitchen](#breakfast-list-for-the-kitchen)
+      - [Extending Nights for PM](#extending-nights-for-pm)
+      - [Canceling 6PM Guests](#canceling-6pm-guests)
+      - [Folder Order of END OF DAY](#folder-order-of-end-of-day)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -10,11 +10,11 @@
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 #  <a name='EndOfDay'></a>End Of Day
-## Breakfast List for the Kitchen 
+#### Breakfast List for the Kitchen 
    - miscellaneous ↓ Reports ↓ **14.015** *PLEASE NON Deduct Out*
-## Extending Nights for PM 
+#### Extending Nights for PM 
    - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search ↓ *and extend each*
-## Canceling 6PM Guests
+#### Canceling 6PM Guests
    - Arrival ↓ Search ↓ 6PM ↓ Cancel (Reason : No Guaranteed) 
   > **_NOTE:_**  Mainly before  Closing Cashier
 
@@ -66,7 +66,7 @@
       - In TA Folder :
         - Wire Transfer Slide is for Papers where it's written **Überweisung**
 
-## <a name='FolderOrderofENDOFDAY'></a>Folder Order of END OF DAY
+#### <a name='FolderOrderofENDOFDAY'></a>Folder Order of END OF DAY
   - **TA - Reporting Paket**
   - **Checkliste Nachtdienst Rundgang Täglich**
   - **Intercity Hotel Braunschweig**
