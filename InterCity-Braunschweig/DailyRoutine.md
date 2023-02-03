@@ -59,7 +59,7 @@
 |STU|Studio|
 
 ## End Of Day
-# **Order of END OF DAY**
+**Order of END OF DAY**
   - **14.015** Breakfast List for the Kitchen ↓ *PLEASE NON Deduct Out*
   - **PMS** *NIGHTS EXTENSION* 
     - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search ↓ *and extend each*
