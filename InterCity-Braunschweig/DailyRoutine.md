@@ -1,18 +1,5 @@
-<!-- vscode-markdown-toc -->
-* 1. [Abbreviation](#Abbreviation)
-* 2. [End Of Day](#EndOfDay)
-* 3. [**Folder Order of END OF DAY**](#FolderOrderofENDOFDAY)
 
-<!-- vscode-markdown-toc-config
-	numbering=false
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc --><!-- vscode-markdown-toc -->
-* 1. [Abbreviation](#Abbreviation)
-* 2. [End Of Day](#EndOfDay)
-* 3. [**Folder Order of END OF DAY**](#FolderOrderofENDOFDAY)
-
-##  1. <a name='Abbreviation'></a>Abbreviation
+## Abbreviation
 |Abbr|Info|
 |:--:|:--:|
 |AX|Rate Code without Breakfast|
@@ -31,43 +18,7 @@
 |BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
 |STU|Studio|
 
-|Abbr|Info|
-|:--:|:--:|
-|AX|Rate Code without Breakfast|
-|AB|Rate Code with Breakfast|
-|BB|Bed and Breakfast|
-|BO|Bed Only|
-|CC|Credit Card|
-|KÜ|Kostenübernahme|
-|VCC|Virtual Credit Card|
-|SZ|Selbstzahler|
-|Acto PM|Monatsrechnung|
-|Acto CC|
-|Acto VCC|
-|BUD|Double bed Matrace|
-|BUT|2 Matrace and big as Double bed matrace and you can seperate them|
-|BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
-|STU|Studio|
-
-|Abbr|Info|
-|:--:|:--:|
-|AX|Rate Code without Breakfast|
-|AB|Rate Code with Breakfast|
-|BB|Bed and Breakfast|
-|BO|Bed Only|
-|CC|Credit Card|
-|KÜ|Kostenübernahme|
-|VCC|Virtual Credit Card|
-|SZ|Selbstzahler|
-|Acto PM|Monatsrechnung|
-|Acto CC|
-|Acto VCC|
-|BUD|Double bed Matrace|
-|BUT|2 Matrace and big as Double bed matrace and you can seperate them|
-|BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
-|STU|Studio|
-
-##  2. <a name='EndOfDay'></a>End Of Day
+##  End Of Day
 **Order of END OF DAY**
   - **14.015** Breakfast List for the Kitchen ↓ *PLEASE NON Deduct Out*
   - **PMS** *NIGHTS EXTENSION* 
@@ -119,11 +70,7 @@
       - In TA Folder :
         - Wire Transfer Slide is for Papers where it's written **Überweisung**
 
-
-
-
-
-##  3. <a name='FolderOrderofENDOFDAY'></a>**Folder Order of END OF DAY**
+##  Folder Order of END OF DAY
   - **TA - Reporting Paket**
   - **Checkliste Nachtdienst Rundgang Täglich**
   - **Intercity Hotel Braunschweig**
