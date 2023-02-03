@@ -1,9 +1,9 @@
-# Table of Contents
-[Abbreviation](#Abbreviation)
+<!-- vscode-markdown-toc -->
+* 1. [Abbreviation](#Abbreviation)
+* 2. [End Of Day](#EndOfDay)
+* 3. [**Folder Order of END OF DAY**](#FolderOrderofENDOFDAY)
 
-[End Of Day](#EndOfDay)
-
-## Abbreviation
+##  1. <a name='Abbreviation'></a>Abbreviation
 |Abbr|Info|
 |:--:|:--:|
 |AX|Rate Code without Breakfast|
@@ -58,7 +58,7 @@
 |BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
 |STU|Studio|
 
-## End Of Day
+##  2. <a name='EndOfDay'></a>End Of Day
 **Order of END OF DAY**
   - **14.015** Breakfast List for the Kitchen ↓ *PLEASE NON Deduct Out*
   - **PMS** *NIGHTS EXTENSION* 
@@ -114,7 +114,7 @@
 
 
 
-## **Folder Order of END OF DAY**
+##  3. <a name='FolderOrderofENDOFDAY'></a>**Folder Order of END OF DAY**
   - **TA - Reporting Paket**
   - **Checkliste Nachtdienst Rundgang Täglich**
   - **Intercity Hotel Braunschweig**
