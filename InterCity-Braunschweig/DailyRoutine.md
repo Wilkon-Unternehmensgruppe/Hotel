@@ -1,35 +1,17 @@
-<!-- vscode-markdown-toc -->
-- [Abbreviation](#abbreviation)
-- [ End Of Day](#-end-of-day)
-- [ Folder Order of END OF DAY](#-folder-order-of-end-of-day)
+vscode-markdown-toc -->
+- [End Of Day](#end-of-day)
+  - [Breakfast List for the Kitchen](#breakfast-list-for-the-kitchen)
+- [Folder Order of END OF DAY](#folder-order-of-end-of-day)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-##  <a name='Abbreviation'></a>Abbreviation
-|Abbr|Info|
-|:--:|:--:|
-|AX|Rate Code without Breakfast|
-|AB|Rate Code with Breakfast|
-|BB|Bed and Breakfast|
-|BO|Bed Only|
-|CC|Credit Card|
-|KÜ|Kostenübernahme|
-|VCC|Virtual Credit Card|
-|SZ|Selbstzahler|
-|Acto PM|Monatsrechnung|
-|Acto CC|
-|Acto VCC|
-|BUD|Double bed Matrace|
-|BUT|2 Matrace and big as Double bed matrace and you can seperate them|
-|BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
-|STU|Studio|
-
-##  <a name='EndOfDay'></a> End Of Day
+##  <a name='EndOfDay'></a>End Of Day
 **Order of END OF DAY**
-  - **14.015** Breakfast List for the Kitchen ↓ *PLEASE NON Deduct Out*
+### Breakfast List for the Kitchen 
+- miscellaneous ↓ Reports ↓ **14.015** *PLEASE NON Deduct Out*
   - **PMS** *NIGHTS EXTENSION* 
     - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search ↓ *and extend each*
   - Arrival ↓ Search ↓ 6PM ↓ Cancel (Reason : No Guaranteed) *Mainly before  Kassenabschluss AND ONLY IF HE IS A SZ WITH NO CREDIT CARD*
@@ -79,7 +61,7 @@
       - In TA Folder :
         - Wire Transfer Slide is for Papers where it's written **Überweisung**
 
-##  <a name='FolderOrderofENDOFDAY'></a> Folder Order of END OF DAY
+## <a name='FolderOrderofENDOFDAY'></a>Folder Order of END OF DAY
   - **TA - Reporting Paket**
   - **Checkliste Nachtdienst Rundgang Täglich**
   - **Intercity Hotel Braunschweig**
