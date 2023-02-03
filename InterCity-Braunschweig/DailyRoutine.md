@@ -1,32 +1,78 @@
-- [End Of Day](#end-of-day)
-      - [Breakfast List for the Kitchen](#breakfast-list-for-the-kitchen)
-      - [Extending Nights for PM](#extending-nights-for-pm)
-      - [Canceling 6PM Guests](#canceling-6pm-guests)
-      - [Folder Order of END OF DAY](#folder-order-of-end-of-day)
+- [Before End Of Day](#before-end-of-day)
+    - [Breakfast List for the Kitchen](#breakfast-list-for-the-kitchen)
+    - [Extending Nights for PM](#extending-nights-for-pm)
+    - [Canceling 6PM Guests](#canceling-6pm-guests)
+    - [End Of Day Preparation](#end-of-day-preparation)
+      - [Noting down All No Show Guests](#noting-down-all-no-show-guests)
+      - [Reports](#reports)
+        - [Kiosk](#kiosk)
+          - [Location](#location)
+        - [Under No Show](#under-no-show)
+          - [Location](#location-1)
+        - [**Closing Account 9999 *Restaurant***](#closing-account-9999-restaurant)
+          - [Location](#location-2)
+        - [**User Activity Log**](#user-activity-log)
+          - [Location](#location-3)
+    - [Folder Order of END OF DAY](#folder-order-of-end-of-day)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-#  <a name='EndOfDay'></a>End Of Day
-#### Breakfast List for the Kitchen 
-   - miscellaneous ↓ Reports ↓ **14.015** *PLEASE NON Deduct Out*
-#### Extending Nights for PM 
-   - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search ↓ *and extend each*
-#### Canceling 6PM Guests
-   - Arrival ↓ Search ↓ 6PM ↓ Cancel (Reason : No Guaranteed) 
-  > **_NOTE:_**  Mainly before  Closing Cashier
 
-  > **_NOTE:_** ONLY if the Guest is a Self-Paying with no Credit Card
+#  <a name='EndOfDay'></a>Before End Of Day
+### Breakfast List for the Kitchen 
+   - Miscellaneous ↓ Reports ↓ **14.015** 
+  > **_NOTE_** *Please uncheck out NON Deduct*
 
-  - For End Of Day  Preparation : Write down all Rates of unarrived Guests before beginning of End Of Day . *OR TAKE A LOOK AT No Show from End Of Day*
-  - 12.029b ↓ Double Click  ↓ Transaction Code  ↓ Description : %KIOSK  ↓ Select All  ↓ Print ... Under CC Kontrolle
-  - 24.053a ... Under Now Show
-  - **9999 Restaurant Account schließen**
-    - Cashiering ↓ Billing ↓ Id and Password ↓ Search room 9999 ↓ Double Click ↓ Check out
-  - **12.048**
-    - Date ↓ -1 and -1
+ <a href="#top">Back to top</a>
+ 
+### Extending Nights for PM 
+   - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search
+  > **_NOTE_** *and extend each one of The found PM*
+
+   <a href="#top">Back to top</a>
+### Canceling 6PM Guests
+   - Arrival ↓ Search ↓ 6PM ↓ Cancel 
+     - (Reason : No Guaranteed) 
+  > **_NOTE_** *Mainly before  Closing Cashier*
+
+  > **_NOTE_** *ONLY if the Guest is a Self-Paying with no Credit Card*
+
+ <a href="#top">Back to top</a>
+
+### End Of Day Preparation
+  #### Noting down All No Show Guests 
+  - Write down all Rates of unarrived Guests before beginning of End Of Day 
+  > **_NOTE_** *OR take a look at the No Show report after End Of Day*
+  
+   <a href="#top">Back to top</a>
+  #### Reports
+  ##### Kiosk
+  - Miscellaneous ↓ Reports ↓ **12.029b** ↓ Double Click  ↓ Transaction Code  ↓ Description : %KIOSK  ↓ Select All  ↓ Print
+  ###### Location
+  - In TA-Folder ↓ CC Kontrolle
+  
+  <a href="#top">Back to top</a>
+  ##### Under No Show
+  - miscellaneous ↓ Reports ↓ 24.053a
+  ###### Location
+  - In TA-Folder ↓ Now Show
+  
+  <a href="#top">Back to top</a>
+  ##### **Closing Account 9999 *Restaurant***
+  - Cashiering ↓ Billing ↓ Type log In Date ↓ Search room 9999 ↓ Double Click ↓ Check out
+  ###### Location
+  - IN TA-Folder ↓ Cash
+  
+  <a href="#top">Back to top</a>
+  ##### **User Activity Log** 
+  - miscellaneous ↓ Reports ↓ **12.048** ↓ Double Click ↓ *first* Date type : -1 ↓ *Second* Date type : -1 ↓ Print 
+  ###### Location
+  - In TA-Folder ↓ *first* Slide of TA
+  
+  <a href="#top">Back to top</a>
   - **425_12.029** - ***Please at first Preview & ONLY print out, if there is something found***
     - Amex
     - Mastercard
@@ -66,7 +112,7 @@
       - In TA Folder :
         - Wire Transfer Slide is for Papers where it's written **Überweisung**
 
-#### <a name='FolderOrderofENDOFDAY'></a>Folder Order of END OF DAY
+### <a name='FolderOrderofENDOFDAY'></a>Folder Order of END OF DAY
   - **TA - Reporting Paket**
   - **Checkliste Nachtdienst Rundgang Täglich**
   - **Intercity Hotel Braunschweig**
@@ -97,3 +143,5 @@
   - **80000** ↓ Paidout
   - **All 94** ↓ Voucher
   - **930000 & bitte Überweisen Sie** ↓ City Ledger
+  
+ <a href="#top">Back to top</a>
