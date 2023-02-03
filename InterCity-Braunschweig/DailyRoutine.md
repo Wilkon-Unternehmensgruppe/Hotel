@@ -1,19 +1,25 @@
 - [End Of Day](#end-of-day)
   - [Breakfast List for the Kitchen](#breakfast-list-for-the-kitchen)
-- [Folder Order of END OF DAY](#folder-order-of-end-of-day)
+  - [Extending Nights for PM](#extending-nights-for-pm)
+  - [Canceling 6PM Guests](#canceling-6pm-guests)
+  - [Folder Order of END OF DAY](#folder-order-of-end-of-day)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-##  <a name='EndOfDay'></a>End Of Day
-**Order of END OF DAY**
-### Breakfast List for the Kitchen 
-- miscellaneous ↓ Reports ↓ **14.015** *PLEASE NON Deduct Out*
-  - **PMS** *NIGHTS EXTENSION* 
-    - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search ↓ *and extend each*
-  - Arrival ↓ Search ↓ 6PM ↓ Cancel (Reason : No Guaranteed) *Mainly before  Kassenabschluss AND ONLY IF HE IS A SZ WITH NO CREDIT CARD*
+#  <a name='EndOfDay'></a>End Of Day
+## Breakfast List for the Kitchen 
+   - miscellaneous ↓ Reports ↓ **14.015** *PLEASE NON Deduct Out*
+## Extending Nights for PM 
+   - In House Guests ↓ Advanced ↓ Check Due Out  ↓ Search ↓ *and extend each*
+## Canceling 6PM Guests
+   - Arrival ↓ Search ↓ 6PM ↓ Cancel (Reason : No Guaranteed) 
+  > **_NOTE:_**  Mainly before  Closing Cashier
+
+  > **_NOTE:_** ONLY if the Guest is a Self-Paying with no Credit Card
+
   - For End Of Day  Preparation : Write down all Rates of unarrived Guests before beginning of End Of Day . *OR TAKE A LOOK AT No Show from End Of Day*
   - 12.029b ↓ Double Click  ↓ Transaction Code  ↓ Description : %KIOSK  ↓ Select All  ↓ Print ... Under CC Kontrolle
   - 24.053a ... Under Now Show
