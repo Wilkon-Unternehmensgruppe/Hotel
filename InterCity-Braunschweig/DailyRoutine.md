@@ -5,55 +5,25 @@
   - [**End Of Day Preparation**](#end-of-day-preparation)
     - [**Noting down All No Show Guests**](#noting-down-all-no-show-guests)
   - [**Reports**](#reports)
-      - [**Kiosk**](#kiosk)
-      - [**Under No Show**](#under-no-show)
-      - [**Closing Account 9999 *Restaurant***](#closing-account-9999-restaurant)
-      - [**User Activity Log**](#user-activity-log)
-        - [**12.048**](#12048)
+    - [**User Activity Log**](#user-activity-log)
       - [**Credit Cards Reports**](#credit-cards-reports)
-        - [**425\_12.029**](#425_12029)
-        - [**Amex**](#amex)
-        - [**Mastercard**](#mastercard)
-        - [**Visa**](#visa)
-        - [**Cash**](#cash)
-        - [**VPay**](#vpay)
-        - [**Wire Transfer**](#wire-transfer)
-        - [**Maestro**](#maestro)
-        - [**City Ledger**](#city-ledger)
-          - [**952000,953000**](#952000953000)
-          - [**952100,953100**](#952100953100)
-          - [**952200,953200**](#952200953200)
-          - [**800000**](#800000)
-          - [**940000,940500,941000,941100**](#940000940500941000941100)
-          - [**930000**](#930000)
     - [**Count Physical Cash**](#count-physical-cash)
     - [**Cashier Shift Close**](#cashier-shift-close)
     - [**Journal By Manual Credit Cards**](#journal-by-manual-credit-cards)
-      - [**12.029j**](#12029j)
-    - [**Excel Table CC Control**](#excel-table-cc-control)
-      - [X-Bericht \& Z-Bericht \& CC-Terminal Reciept](#x-bericht--z-bericht--cc-terminal-reciept)
-        - [CC-Terminal Reciept](#cc-terminal-reciept)
-        - [X-Report \& Z-Report](#x-report--z-report)
-    - [**12.029f**](#12029f)
+    - [**Excel Table \& Credit Card Control**](#excel-table--credit-card-control)
+      - [**X-Bericht \& Z-Bericht \& CC-Terminal Reciept**](#x-bericht--z-bericht--cc-terminal-reciept)
+      - [**CC-Terminal Reciept**](#cc-terminal-reciept)
+      - [**X-Report \& Z-Report**](#x-report--z-report)
+      - [**12.029f**](#12029f)
     - [**Negative Posting by Cashier**](#negative-posting-by-cashier)
-      - [**12.031**](#12031)
-        - [**425201**](#425201)
-        - [**425202**](#425202)
-        - [**425203**](#425203)
   - [**END OF DAY**](#end-of-day)
 - [**After End Of Day**](#after-end-of-day)
   - [**Breakfast List for Service**](#breakfast-list-for-service)
-    - [**15.033g**](#15033g)
   - [**From 6 O'Clock**](#from-6-oclock)
     - [**Traces FO Status *For FO***](#traces-fo-status-for-fo)
-      - [**15.023e**](#15023e)
     - [**Event List *For FO***](#event-list-for-fo)
-      - [**11.005**](#11005)
     - [**Housekeeping List**](#housekeeping-list)
-      - [**15.023c**](#15023c)
       - [**List of Room Moves**](#list-of-room-moves)
-        - [**15.031**](#15031)
-      - [**16.005**](#16005)
       - [**Housekeeping Management Report**](#housekeeping-management-report)
       - [**Housekeeping Task Assignment**](#housekeeping-task-assignment)
 - [**Order Printed Reports in TA-Folder**](#order-printed-reports-in-ta-folder)
@@ -74,27 +44,27 @@
       - [**Reservation Entered on And By = Reservation Made Yesterday**](#reservation-entered-on-and-by--reservation-made-yesterday)
       - [**Negative Posting**](#negative-posting)
       - [**CC Kontrolle**](#cc-kontrolle)
-        - [**Kiosk**](#kiosk-1)
+        - [**Kiosk**](#kiosk)
         - [**12.029j Journal By Manual Credit Cards**](#12029j-journal-by-manual-credit-cards)
         - [**Excel**](#excel)
         - [**Terminal Reciept**](#terminal-reciept)
       - [**No Show**](#no-show-1)
-        - [**Under No Show**](#under-no-show-1)
+        - [**Under No Show**](#under-no-show)
       - [**Cashier Closure**](#cashier-closure)
-      - [**425\_12.029**](#425_12029-1)
-        - [**Amex**](#amex-1)
-        - [**Mastercard**](#mastercard-1)
-        - [**Visa**](#visa-1)
-        - [**Cash**](#cash-1)
-        - [**VPAY**](#vpay-1)
+      - [**425\_12.029**](#425_12029)
+        - [**Amex**](#amex)
+        - [**Mastercard**](#mastercard)
+        - [**Visa**](#visa)
+        - [**Cash**](#cash)
+        - [**VPAY**](#vpay)
         - [**WireTransfer**](#wiretransfer)
-        - [**Maestro**](#maestro-1)
+        - [**Maestro**](#maestro)
       - [**Pre Payment Website**](#pre-payment-website)
       - [**Pre Payment Website (Amex)**](#pre-payment-website-amex)
       - [**Pre Payment Website (PayPal)**](#pre-payment-website-paypal)
       - [**Paidout**](#paidout)
       - [**Voucher**](#voucher)
-      - [**City Ledger**](#city-ledger-1)
+      - [**City Ledger**](#city-ledger)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -110,111 +80,81 @@
 ## **Extending Nights for PM** 
    - *click* Front Desk ↓ *click* In House Guests ↓ *click* Advanced ↓ Check Due Out  ↓ *click* Search ↓ *in each* found PM
      - *double click* PM ↓ *in Nights* extend nights *AMAP* ↓ Ok [<sup>[1]</sup>](#Note1)
-       - > **_NOTE_** *same above-mentioned step for Each PM*
 ## **Canceling 6PM Guests**
-   - *click* Front Desk ↓ *click* Arrivals ↓ *In arrivals Guests* ↓ *find Guest with the Status 6PM* ↓ *Click on Guest Name* ↓ Cancel ↓ *Answer of the Question Reason?* No Guaranteed. 
-     - > **_NOTE_** *Mainly before  Closing Cashier*
-
-     - > **_NOTE_** *ONLY if the Guest is a Self-Paying with no Credit Card*
+   - *click* Front Desk ↓ *click* Arrivals ↓ *In arrivals Guests* ↓ *find Guest with the Status 6PM* ↓ *Click on Guest Name* ↓ Cancel ↓ *Answer of the Question Reason?* No Guaranteed [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
 ## **End Of Day Preparation**
    ### **Noting down All No Show Guests** 
-  - Write down all Rates of unarrived Guests before beginning of End Of Day 
-    - > **_NOTE_** *OR take a look at the No Show report after End Of Day*
+  - Write down all Rates of unarrived Guests before beginning of End Of Day [<sup>[4]</sup>](#Note4)
 ## **Reports**
-   #### **Kiosk**
-  - Miscellaneous ↓ Reports ↓ **12.029b** ↓ Double Click  ↓ Transaction Code  ↓ Description : %KIOSK  ↓ Select All  ↓ Print
-   #### **Under No Show**
-  - Miscellaneous ↓ Reports ↓ 24.053a
-   #### **Closing Account 9999 *Restaurant***
-  - Cashiering ↓ Billing ↓ Type log In Date ↓ Search room 9999 ↓ Double Click ↓ Check out
-   #### **User Activity Log**
-   ##### **12.048**
-  -  Miscellaneous ↓ Reports ↓ **12.048** ↓ Double Click ↓ *first* Date type : -1 ↓ *Second* Date type : -1 ↓ Print 
+  - **Kiosk**
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **12.029b** ↓ *click* Search ↓ *in Report Name double click* Kiosk ↓ *in* Transaction Code  ↓ Description ↓ *type* %KIOSK  ↓ Select All  ↓ Print
+  - **Under No Show**
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* 24.053a
+  - **Closing Account 9999 *Restaurant***
+    - *click* Cashiering ↓ *click* Billing ↓ *type* log In Data ↓ *search* Room 9999 ↓ *double click* Room 9999 ↓ *click* Check out
+   ### **User Activity Log**
+   - **12.048**
+     - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **12.048** ↓ *click* Search ↓ *in Report Name double click* User Activity Log ↓ *in first date type yesterday's Date* -1 ↓ *in second date type yesterdays's Date* -1 ↓ *click* Print 
    #### **Credit Cards Reports**
-   ##### **425_12.029**
-   - Miscellaneous ↓ Reports ↓ **425_12.029**
-   ##### **Amex**
-   - Double Click **Amex** ↓ Print
-   ##### **Mastercard**
-   - Double Click **Mastercard** ↓ Print
-   ##### **Visa**
-   - Double Click **Visa** ↓ Print
-   ##### **Cash**
-   - Double Click **Cash** ↓ Print
-   ##### **VPay**
-   - Double Click **VPay** ↓ Print
-   ##### **Wire Transfer**
-   - Double Click **Wire Transfer** ↓ Print
-   ##### **Maestro**
-   - Double Click **Maestro** ↓ Print
-   ##### **City Ledger**
-  - Double Click on **City Ledger** 
-    - ↓ Transaction Codes
-   ###### **952000,953000**
-  - Type 952000,953000 ↓ Print
-   ###### **952100,953100**
-  - Type 952000,953000 ↓ Print
-   ###### **952200,953200**
-  - Type 952000,953000 ↓ Print
-   ###### **800000**
-  - Type 952000,953000 ↓ Print
-   ###### **940000,940500,941000,941100**
-  - Type 952000,953000 ↓ Print
-   ###### **930000**
-  - Type 952000,953000 ↓ Print
+   - **425_12.029**
+     - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **425_12.029** ↓ *click* Search ↓ *in Report Name double click* 
+      - **Amex** ↓ Print
+      - **Mastercard** ↓ Print
+      - **Visa** ↓ Print
+      - **Cash** ↓ Print
+      - **VPay** ↓ Print
+      - **Wire Transfer** ↓ Print
+      - **Maestro** ↓ Print
+      - **City Ledger**
+        - *in* Transaction Codes ↓ *type*
+          - **952000,953000** ↓ Print
+          - **952100,953100** ↓ Print
+          - **952200,953200** ↓ Print
+          - **800000** ↓ Print
+          - **940000,940500,941000,941100** ↓ Print
+          - **930000** ↓ Print
   ### **Count Physical Cash**
-  - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash
-  > **_NOTE_** *Cash Count should be ZERO*
-  > **_NOTE_** *Firstly Count Physical Cash and Then Cashier Shift Close*
+  - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash[<sup>[5]</sup>](#Note5) [<sup>[6]</sup>](#Note6)
   ### **Cashier Shift Close**
-  - Cashiering ↓ Cashier Shift Close
-  > **_NOTE_** *This step happenes after Counting Physical Cash*
+  - Cashiering ↓ Cashier Shift Close[<sup>[7]</sup>](#Note7)
   ### **Journal By Manual Credit Cards** 
-  #### **12.029j**
-  - Miscellaneous ↓ Reports ↓ **12.029j**
-  ### **Excel Table CC Control**
-  -  One Click Excel Icon in Desktop ↓ Double Click CC Kontrolle
-  #### X-Bericht & Z-Bericht & CC-Terminal Reciept
-  ##### CC-Terminal Reciept 
+  - **12.029j**
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **12.029j** ↓ *click* Search ↓ *in Report Name double click* **12.029j** ↓ Print
+  ### **Excel Table & Credit Card Control**
+  - One Click Excel Icon in Desktop ↓ Double Click CC Kontrolle
+  #### **X-Bericht & Z-Bericht & CC-Terminal Reciept**
+  #### **CC-Terminal Reciept**
   - Go to the Bar and Pull out Reciept from the small Terminal
-  ##### X-Report & Z-Report
+  #### **X-Report & Z-Report**
   - Go to the Bar and Pull out Reciept form the IPAD
-  ### **12.029f**
+  #### **12.029f**
   - Miscellaneous ↓ Reports ↓ **12.029f** 
   ### **Negative Posting by Cashier**
-  #### **12.031**
-  - Miscellaneuos ↓ Reports ↓ **12.031** 
-  - Double Click on **12.031**
-    - ↓ Cashier
-  ##### **425201**
-  - Type 425201 ↓ Print
-  ##### **425202**
-  - Type 425202 ↓ Print
-  ##### **425203**
-  - Type 425203 ↓ Print
+  - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **12.031** ↓ *click* Search ↓ *in Report Name double click* **12.029j** ↓ *in* Cashier ↓ *type* 
+    - **425201** ↓ Print
+    - **425202** ↓ Print
+    - **425203** ↓ Print
   ## **END OF DAY**
   - End Of Day ↓ Night Audit ↓ Login
 #  <a name='EndOfDay'></a>**After End Of Day**
   ## **Breakfast List for Service**
-  ### **15.033g**
-  - Miscellaneous ↓ Reports ↓ **15.033g** ↓ Print
-    - By Packages Select All and Print
+  - **15.033g**
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **15.033g** ↓ *click* Search ↓ *in Report Name double click* **15.033g** ↓ *select ALL* by Packages ↓ Print
   ## **From 6 O'Clock**
   ### **Traces FO Status *For FO***
-  #### **15.023e**
-  - Miscellaneous ↓ Reports ↓ **15.023e** ↓ Print
+  - **15.023e**
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **15.023e** ↓ *click* Search ↓ *in Report Name double click* **15.023e** ↓ Print
   ### **Event List *For FO***
-  #### **11.005**
-  - Miscellaneous ↓ Reports ↓ **11.005** ↓ Print
-  > *_NOTE_* *ENTER TODAY'S DATE , REALLY TODAY'S DATE NOT FROM SHIFT WORK*
+  - **11.005**
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **11.005** ↓ *click* Search ↓ *in Report Name double click* **11.005** ↓ Print[<sup>[8]</sup>](#Note8)
   ### **Housekeeping List** 
-  #### **15.023c**
-  - Miscellaneous ↓ Reports ↓ **15.23c** ↓ Print
+  - **15.023c**
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **15.023c** ↓ *click* Search ↓ *in Report Name double click* **15.023c**
   #### **List of Room Moves** 
-  ##### **15.031**
-  - Miscellaneous ↓ Reports ↓ **15.031** ↓ Print
-  #### **16.005**
-  - Miscellaneous ↓ Reports ↓ **16.005** ↓ Print 
+  - **15.031**
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **15.031** ↓ *click* Search ↓ *in Report Name double click* **15.031**
+  - **16.005**
+    - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **16.005** ↓ *click* Search ↓ *in Report Name double click* **16.005** 
   #### **Housekeeping Management Report**
   - **HSK Mgmt Report** (Rooms Management ↓ Housekeeping ↓ Housekeeping Mgmt. ↓ Report)
   #### **Housekeeping Task Assignment**
@@ -280,4 +220,19 @@
   - [**930000**](#930000)
   - *Then Collected bitte Überweisen Sie Invoices from Desk Paper Storage in Wilkon Desk*
 
-<span id="Note1">[1]</span> same above-mentionedstepforEachPM
+---
+<span id="Note1">[1]</span> same above-mentioned step for Each PM
+
+<span id="Note2">[2]</span> Mainly before  Closing Cashier
+
+<span id="Note3">[3]</span> ONLY if the Guest is a Self-Paying with no Credit Card
+
+<span id="Note4">[4]</span> OR take a look at the No Show report after End Of Day
+
+<span id="Note5">[5]</span> Cash Count should be ZERO
+
+<span id="Note6">[6]</span> Firstly Count Physical Cash and Then Cashier Shift Close
+
+<span id="Note7">[7]</span> This step happenes after Counting Physical Cash
+
+<span id="Note8">[8]</span> Enter Today's Date , really Today's Date not from shift work
