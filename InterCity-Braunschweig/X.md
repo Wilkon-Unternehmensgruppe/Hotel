@@ -5,6 +5,7 @@
   - [Note down ALL *No Show* Guests](#note-down-all-no-show-guests)
   - [Reports](#reports)
 - [End Of Day](#end-of-day)
+- [After End Of Day](#after-end-of-day)
 ## Before End Of Day
    - **Breakfast List for the Kitchen**
      - **14.015**
@@ -70,9 +71,34 @@
      - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click* **12.029j** > *in Cashier* > *type* 
        - **425201** > *Print*
        - **425202** > *Print*
-      * - **42520*3** > *Prin*t*
+       - **42520*3** > *Print*
   ## End Of Day
   - *End Of Day* > *Night Audit* > *Login*
+  ## After End Of Day
+  - **Breakfast List for Service**
+    - **15.033g**
+      - *Miscellaneous* > *Reports* > *Report* > **15.033g** > *Search* > *in Report Name double click* **15.033g** > *select ALL by Packages* > *Print*
+  - **From 6 O'Clock**
+    - **Traces FO Status *For FO***
+    - **15.023e**
+      - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click* **15.023e** > *Print*
+    - **Event List *For FO***
+    - **11.005**
+      - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click* **11.005** > *Under Date Type*
+        - *Enter Today's Date , Relly Today's Date not from shift work* > *Print*
+  - **Housekeeping List** 
+    - **15.023c**
+      - *Miscellaneous* > ** *Reports* > *Report* > ***15.023c** > *Search* > *in Report Name double click* **15.023c** > *Print*
+    - **List of Room Moves** 
+      - **15.031**
+        - *Miscellaneous* > ** *Reports* > *Report* > ***15.031** > *Search* > *in Report Name double click* **15.031**
+      - **16.005** > *Print*
+      - *Miscellaneous* > ** *Reports* > *Report* > ***16.005** > *click* Search > *in Report Name double click* **16.005** > *Print* 
+  - **Housekeeping Management Report**
+    - **HSK Mgmt Report**
+      - *Rooms Management* > *Housekeeping* > *Housekeeping Mgmt.* > *Report*
+  - **Housekeeping Task Assignment**
+    - **HSK Task Assignment** > Auto > Ok > Report > Print 
 ---
 <span id="Note1">[1]</span> same above-mentioned step for Each PM
 
