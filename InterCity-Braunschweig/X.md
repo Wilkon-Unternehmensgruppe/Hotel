@@ -3,8 +3,14 @@
 - [Preparation End Of Day](#preparation-end-of-day)
   - [Note down ALL *No Show* Guests](#note-down-all-no-show-guests)
   - [Reports](#reports)
-    - [**Kiosk**](#kiosk)
-    - [**Under No Show**](#under-no-show)
+    - [Kiosk](#kiosk)
+    - [Under No Show](#under-no-show)
+    - [User Activity Log](#user-activity-log)
+    - [Credit Cards Reports](#credit-cards-reports)
+    - [Count Physical Cash](#count-physical-cash)
+    - [Cashier Shift Closure](#cashier-shift-closure)
+    - [Excel Table \& Credit Card Control](#excel-table--credit-card-control)
+    - [Negative Posting by Cashier](#negative-posting-by-cashier)
 - [End Of Day](#end-of-day)
 - [After End Of Day](#after-end-of-day)
 <!-- vscode-markdown-toc-config
@@ -30,27 +36,27 @@
 ### Note down ALL *No Show* Guests
    - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[4]</sup>](#Note4)
 ### Reports
-#### **Kiosk**
+#### Kiosk
    - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Kiosk* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
-#### **Under No Show**
+#### Under No Show
    - *Miscellaneous > *Reports > *Report* > **24.053a** > *Print*
    - **Closing Account 9999 *Restaurant***
      - *Cashiering > *Billing > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
-   - **User Activity Log**
-     - **12.048**
-       - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
-   - **Credit Cards Reports**
-     - **425_12.029**
-       - *Miscellaneous* > *Reports* > *Report* > *type* 
-         - **425_12.029** > *Search* > *in Report Name double click* 
-           - **Amex** > *Print*
-           - **Mastercard** > *Print*
-           - **Visa** > *Print*
-           - **Cash** > *Print*
-           - **VPay** > *Print*
-           - **Wire Transfer** > *Print*
-           - **Maestro** > *Print*
-           - **City Ledger**
+#### User Activity Log
+   - **12.048**
+     - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
+#### Credit Cards Reports
+   - **425_12.029**
+     - *Miscellaneous* > *Reports* > *Report* > *type* 
+       - **425_12.029** > *Search* > *in Report Name double click* 
+         - **Amex** > *Print*
+         - **Mastercard** > *Print*
+         - **Visa** > *Print*
+         - **Cash** > *Print*
+         - **VPay** > *Print*
+         - **Wire Transfer** > *Print*
+         - **Maestro** > *Print*
+         - **City Ledger**
              - *in Transaction Codes* > *type*
                - **952000,953000** > *Print*
                - **952100,953100** > *Print*
@@ -58,15 +64,15 @@
                - **800000** > *Print*
                - **940000,940500,941000,941100** > *Print*
                - **930000** > *Print*
-   - **Count Physical Cash**
-     - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash[<sup>[5]</sup>](#Note5) [<sup>[6]</sup>](#Note6)
-   - **Cashier Shift Close**
-     - *Cashiering* > *Cashier Shift Close*[<sup>[7]</sup>](#Note7)
-   - **Journal By Manual Credit Cards** 
-     - **12.029j**
-       - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click* **12.029j** > *Print*
-   - **Excel Table & Credit Card Control**
-     - One Click Excel Icon in Desktop > Double Click CC Kontrolle
+#### Count Physical Cash
+   - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash[<sup>[5]</sup>](#Note5) [<sup>[6]</sup>](#Note6)
+#### Cashier Shift Closure
+   - *Cashiering* > *Cashier Shift Close*[<sup>[7]</sup>](#Note7)
+     - **Journal By Manual Credit Cards** 
+       - **12.029j**
+         - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click* **12.029j** > *Print*
+#### Excel Table & Credit Card Control
+   - One Click Excel Icon in Desktop > Double Click CC Kontrolle
    - **X-Bericht & Z-Bericht & CC-Terminal Reciept**
    - **CC-Terminal Reciept**
      - Go to the Bar and Pull out Reciept from the small Terminal
@@ -74,11 +80,11 @@
      - Go to the Bar and Pull out Reciept form the IPAD
    - **12.029f**
      - *Miscellaneous* > *Reports* > **12.029f** 
-   - **Negative Posting by Cashier**
-     - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click* **12.029j** > *in Cashier* > *type* 
-       - **425201** > *Print*
-       - **425202** > *Print*
-       - **42520*3** > *Print*
+#### Negative Posting by Cashier
+   - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click* **12.029j** > *in Cashier* > *type* 
+     - **425201** > *Print*
+     - **425202** > *Print*
+     - **42520*3** > *Print*
   ## End Of Day
   - *End Of Day* > *Night Audit* > *Login*
   ## After End Of Day
