@@ -12,6 +12,29 @@
     - [Excel Table \& Credit Card Control](#excel-table--credit-card-control)
     - [Negative Posting by Cashier](#negative-posting-by-cashier)
 - [End Of Day](#end-of-day)
+- [Order Of End Of Day Folder](#order-of-end-of-day-folder)
+    - [**CC Kontrolle**](#cc-kontrolle)
+      - [**Kiosk**](#kiosk-1)
+      - [**12.029j Journal By Manual Credit Cards**](#12029j-journal-by-manual-credit-cards)
+      - [**Excel**](#excel)
+      - [**Terminal Reciept**](#terminal-reciept)
+    - [**No Show**](#no-show)
+      - [**Under No Show**](#under-no-show-1)
+    - [**Cashier Closure**](#cashier-closure)
+    - [**425\_12.029**](#425_12029)
+      - [**Amex**](#amex)
+      - [**Mastercard**](#mastercard)
+      - [**Visa**](#visa)
+      - [**Cash**](#cash)
+      - [**VPAY**](#vpay)
+      - [**WireTransfer**](#wiretransfer)
+      - [**Maestro**](#maestro)
+    - [**Pre Payment Website**](#pre-payment-website)
+    - [**Pre Payment Website (Amex)**](#pre-payment-website-amex)
+    - [**Pre Payment Website (PayPal)**](#pre-payment-website-paypal)
+    - [**Paidout**](#paidout)
+    - [**Voucher**](#voucher)
+    - [**City Ledger**](#city-ledger)
 - [After End Of Day](#after-end-of-day)
   - [Breakfast List for Service](#breakfast-list-for-service)
   - [From 6 O'Clock](#from-6-oclock)
@@ -97,6 +120,69 @@
 
   ## End Of Day
   - *End Of Day* > *Night Audit* > *Login*
+
+<a href="#top">Back to top</a>
+
+  ## Order Of End Of Day Folder
+  - **TA - Reporting Paket**
+    - Found Under Desktop 
+  - **Checkliste Nachtdienst Rundgang Täglich**
+    - Found Under Desktop
+  - **Printed out form *END OF DAY***
+    - **Intercity Hotel Braunschweig**
+    - **Trail Balance**
+    - **Manager Flash**
+    - **Revenue By Transaction Codes Net = Revenue of The Day Net**
+    - **Negative Posting by Transaction Code = Non Revenue by Transaction Code**
+    - **No Show**
+    - **Complimentary Rooms In House**
+    - **Non Revenue by Transaction Codes = Non Revenue / Paidout of the Day**
+    - **Credit Limit Report**
+    - **Paidouts**
+    - [**User Activity Log**](#user-activity-log)
+    - **Reservation Entered on And By = Reservation Made Yesterday**
+    - [**Negative Posting**](#12031) 
+  - Negative Posting By Cashier ( All Three 425201,425202,425203 )
+  #### **CC Kontrolle**
+  ##### [**Kiosk**](#kiosk)
+  ##### [**12.029j Journal By Manual Credit Cards**](#12029j)
+  ##### [**Excel**](#excel-table-cc-control)
+  ##### [**Terminal Reciept**](#cc-terminal-reciept)
+  #### [**No Show**](#no-show)
+  ##### [**Under No Show**](#under-no-show)
+  #### [**Cashier Closure**](#cashier-shift-close) 
+  > *_NOTE_* *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
+  > *_NOTE_* *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*
+  #### **425_12.029**
+  ##### [**Amex**](#amex)
+  - *Then Collected Amex Invoices from Desk Paper Storage in Wilkon Desk*
+  ##### [**Mastercard**](#mastercard)
+  - *Then Collected MasterCardInvoices from Desk Paper Storage in Wilkon Desk*
+  ##### [**Visa**](#visa)
+  - *Then Collected VISAInvoices from Desk Paper Storage in Wilkon Desk*
+  ##### [**Cash**](#cash)
+  - *Then Collected CASH Invoices from Desk Paper Storage in Wilkon Desk*
+  - *Then [Closing Account 9999 Restaurant](#closing-account-9999-restaurant)*
+  ##### [**VPAY**](#vpay)
+  - *Then Collected VPAY Invoices from Desk Paper Storage in Wilkon Desk*
+  ##### [**WireTransfer**](#wire-transfer)
+  - *Then Collected Wire Transfer Invoices from Desk Paper Storage in Wilkon Desk*
+  - *Then Collected Überweisung Invoices from Desk Papar Storage in Wilkon Desk*
+  ##### [**Maestro**](#maestro)
+  - *Then Collected Maestro Invoices from Desk Paper Storage in Wilkon Desk*
+  #### **Pre Payment Website**
+  - [**952000,953000**](#952000953000)
+  #### **Pre Payment Website (Amex)**
+  - [**952100,953100**](#952100953100)
+  #### **Pre Payment Website (PayPal)**
+  - [**952200,953200**](#952200953200)
+  #### **Paidout**
+  - [**800000**](#800000)
+  #### **Voucher**
+  - [**940000,940500,941000,941100**](#940000940500941000941100)
+  #### **City Ledger**
+  - [**930000**](#930000)
+  - *Then Collected bitte Überweisen Sie Invoices from Desk Paper Storage in Wilkon Desk*
 
 <a href="#top">Back to top</a>
 
