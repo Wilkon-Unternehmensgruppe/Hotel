@@ -60,8 +60,8 @@
    - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Kiosk* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
 #### Under No Show
    - *Miscellaneous > *Reports > *Report* > **24.053a** > *Print*
-   - **Closing Account 9999 *Restaurant***
-     - *Cashiering > *Billing > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
+- ##### **Closing Account 9999 *Restaurant***
+  - *Cashiering > *Billing > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
 #### User Activity Log
    - **12.048**
      - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
@@ -125,7 +125,7 @@
     - **Manager Flash**
     - **Revenue By Transaction Codes Net = Revenue of The Day Net**
     - **Negative Posting by Transaction Code = Non Revenue by Transaction Code**
-    - **No Show**
+    - ##### **No Show**
     - **Complimentary Rooms In House**
     - **Non Revenue by Transaction Codes = Non Revenue / Paidout of the Day**
     - **Credit Limit Report**
