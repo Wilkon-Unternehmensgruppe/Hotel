@@ -1,12 +1,16 @@
-## Table Of Content
----
-- [Table Of Content](#table-of-content)
+### Table Of Content
 - [Before End Of Day](#before-end-of-day)
 - [Preparation End Of Day](#preparation-end-of-day)
   - [Note down ALL *No Show* Guests](#note-down-all-no-show-guests)
   - [Reports](#reports)
 - [End Of Day](#end-of-day)
 - [After End Of Day](#after-end-of-day)
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
 ## Before End Of Day
    - **Breakfast List for the Kitchen**
      - **14.015**
