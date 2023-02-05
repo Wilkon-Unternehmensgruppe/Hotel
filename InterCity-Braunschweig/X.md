@@ -72,8 +72,7 @@
        - **425202** > *Print*
       * - **42520*3** > *Prin*t*
   ## End Of Day
-    - *End Of Day* > *Night Audit* > *Login*
-
+  - *End Of Day* > *Night Audit* > *Login*
 ---
 <span id="Note1">[1]</span> same above-mentioned step for Each PM
 
