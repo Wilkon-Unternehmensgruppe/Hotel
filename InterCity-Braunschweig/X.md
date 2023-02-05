@@ -4,7 +4,7 @@
 - [Preparation End Of Day](#preparation-end-of-day)
   - [Note down ALL *No Show* Guests](#note-down-all-no-show-guests)
   - [Reports](#reports)
-- [\***END OF DAY**](#end-of-day)
+- [End Of Day](#end-of-day)
 ## Before End Of Day
    - **Breakfast List for the Kitchen**
      - **14.015**
@@ -71,7 +71,7 @@
        - **425201** > *Print*
        - **425202** > *Print*
       * - **42520*3** > *Prin*t*
-  ## ***END OF DAY**
+  ## End Of Day
     - *End Of Day* > *Night Audit* > *Login*
 
 ---
