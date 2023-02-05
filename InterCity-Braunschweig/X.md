@@ -89,12 +89,12 @@
 #### Cashier Shift Closure
    - *Cashiering* > *Cashier Shift Close*[<sup>[7]</sup>](#Note7)
      - **Journal By Manual Credit Cards** 
-       - **12.029j**
+       - ##### **12.029j**
          - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click* **12.029j** > *Print*
 #### Excel Table & Credit Card Control
    - One Click Excel Icon in Desktop > Double Click CC Kontrolle
    - **X-Bericht & Z-Bericht & CC-Terminal Reciept**
-   - **CC-Terminal Reciept**
+   - ##### **CC-Terminal Reciept**
      - Go to the Bar and Pull out Reciept from the small Terminal
    - **X-Report & Z-Report**
      - Go to the Bar and Pull out Reciept form the IPAD
@@ -138,7 +138,7 @@
   ##### CC Kontrolle *Slide*
   - [**Kiosk**](#kiosk)
   - [**12.029j Journal By Manual Credit Cards**](#12029j)
-  - [**Excel**](#excel-table-cc-control)
+  - [**Excel**](#excel-table--credit-card-control)
   - [**Terminal Reciept**](#cc-terminal-reciept)
   ##### No Show *Slide*
   - [**No Show**](#no-show)
