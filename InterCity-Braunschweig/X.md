@@ -14,11 +14,11 @@
 - [End Of Day](#end-of-day)
 - [Order Of End Of Day Folder](#order-of-end-of-day-folder)
   - [End Of Day *Slide*](#end-of-day-slide)
-  - [Negative Posting *Slide*](#negative-posting-slide)
-  - [CC Kontrolle *Slide*](#cc-kontrolle-slide)
-  - [No Show *Slide*](#no-show-slide)
-  - [**Cashier Closure**](#cashier-closure)
-  - [**425\_12.029**](#425_12029)
+      - [Negative Posting *Slide*](#negative-posting-slide)
+      - [CC Kontrolle *Slide*](#cc-kontrolle-slide)
+      - [No Show *Slide*](#no-show-slide)
+      - [**Cashier Closure**](#cashier-closure)
+      - [**425\_12.029**](#425_12029)
   - [**Pre Payment Website**](#pre-payment-website)
   - [**Pre Payment Website (Amex)**](#pre-payment-website-amex)
   - [**Pre Payment Website (PayPal)**](#pre-payment-website-paypal)
@@ -132,21 +132,21 @@
     - **Paidouts**
     - [**User Activity Log**](#user-activity-log)
     - **Reservation Entered on And By = Reservation Made Yesterday**
-  ### Negative Posting *Slide*
-    - [**Negative Posting**](#negative-posting-by-cashier) 
-      - *firstly 425203, then 425202 and lastly 425203*
-  ### CC Kontrolle *Slide*
+  ##### Negative Posting *Slide*
+  - [**Negative Posting**](#negative-posting-by-cashier) 
+    - *firstly 425203, then 425202 and lastly 425203*
+  ##### CC Kontrolle *Slide*
     - [**Kiosk**](#kiosk)
     - [**12.029j Journal By Manual Credit Cards**](#12029j)
     - [**Excel**](#excel-table-cc-control)
     - [**Terminal Reciept**](#cc-terminal-reciept)
-  ### No Show *Slide*
+  ##### No Show *Slide*
     - [**No Show**](#no-show)
     - [**Under No Show**](#under-no-show)
-  ### [**Cashier Closure**](#cashier-shift-close) 
+  ##### [**Cashier Closure**](#cashier-shift-close) 
   > *_NOTE_* *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
   > *_NOTE_* *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*
-  ### **425_12.029**
+  ##### **425_12.029**
   - [**Amex**](#amex)
     - *Then Collected Amex Invoices from Desk Paper Storage in Wilkon Desk*
   - [**Mastercard**](#mastercard)
