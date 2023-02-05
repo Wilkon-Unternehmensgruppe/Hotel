@@ -10,6 +10,7 @@
     - [Credit Cards Reports](#credit-cards-reports)
     - [Count Physical Cash](#count-physical-cash)
     - [Cashier Shift Closure](#cashier-shift-closure)
+    - [Journal By Manual Credit Cards](#journal-by-manual-credit-cards)
     - [Excel Table \& Credit Card Control](#excel-table--credit-card-control)
     - [Negative Posting by Cashier](#negative-posting-by-cashier)
 - [End Of Day](#end-of-day)
@@ -60,9 +61,9 @@
 #### Kiosk
    - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Kiosk* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
 #### Under No Show
-   - *Miscellaneous > *Reports > *Report* > **24.053a** > *Print*
+   - *Miscellaneous* > *Reports* > *Report* > **24.053a** > *Print*
 #### Closing Account 9999 *Restaurant*
-   - *Cashiering > *Billing > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
+   - *Cashiering* > *Billing* > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
 #### User Activity Log
    - **12.048**
      - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
@@ -89,9 +90,9 @@
    - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash[<sup>[5]</sup>](#Note5) [<sup>[6]</sup>](#Note6)
 #### Cashier Shift Closure
    - *Cashiering* > *Cashier Shift Close*[<sup>[7]</sup>](#Note7)
-     - **Journal By Manual Credit Cards** 
-       - ##### **12.029j**
-         - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click* **12.029j** > *Print*
+#### Journal By Manual Credit Cards 
+   - ##### **12.029j**
+     - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click* **12.029j** > *Print*
 #### Excel Table & Credit Card Control
    - One Click Excel Icon in Desktop > Double Click CC Kontrolle
    - **X-Bericht & Z-Bericht & CC-Terminal Reciept**
