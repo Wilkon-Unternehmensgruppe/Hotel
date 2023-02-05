@@ -56,13 +56,13 @@
  <a href="#top">Back to top</a>
 
 ###  <a name='EndOfDay'></a>**Before End Of Day**
-## **Breakfast List for the Kitchen**
+### **Breakfast List for the Kitchen**
   - **14.015**
     - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **14.015** ↓ *click* Search ↓ *in Report Name double click* Breakfast... ↓ *uncheck* Non Deduct ↓ Print
-## **Extending Nights for PM** 
+### **Extending Nights for PM** 
    - *click* Front Desk ↓ *click* In House Guests ↓ *click* Advanced ↓ Check Due Out  ↓ *click* Search ↓ *in each* found PM
      - *double click* PM ↓ *in Nights* extend nights *AMAP* ↓ Ok [<sup>[1]</sup>](#Note1)
-## **Canceling 6PM Guests**
+### **Canceling 6PM Guests**
    - *click* Front Desk ↓ *click* Arrivals ↓ *In arrivals Guests* ↓ *find Guest with the Status 6PM* ↓ *Click on Guest Name* ↓ Cancel ↓ *Answer of the Question Reason?* No Guaranteed [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
 ## **End Of Day Preparation**
    ### **Noting down All No Show Guests** 
