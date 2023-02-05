@@ -18,7 +18,7 @@
       - [CC Kontrolle *Slide*](#cc-kontrolle-slide)
       - [No Show *Slide*](#no-show-slide)
       - [**Cashier Closure**](#cashier-closure)
-      - [**425\_12.029**](#425_12029)
+      - [**Credit Cards By Name**](#credit-cards-by-name)
       - [**Pre Payment Website**](#pre-payment-website)
       - [**Pre Payment Website (Amex)**](#pre-payment-website-amex)
       - [**Pre Payment Website (PayPal)**](#pre-payment-website-paypal)
@@ -146,7 +146,7 @@
   ##### [**Cashier Closure**](#cashier-shift-close) 
   > *_NOTE_* *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
   > *_NOTE_* *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*
-  ##### **425_12.029**
+  ##### **Credit Cards By Name**
   - [**Amex**](#amex)
     - *Then Collected Amex Invoices from Desk Paper Storage in Wilkon Desk*
   - [**Mastercard**](#mastercard)
