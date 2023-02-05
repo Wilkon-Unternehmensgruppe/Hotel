@@ -1,23 +1,4 @@
 ## Table of Content
-- [**Before End Of Day**](#before-end-of-day)
-  - [**Breakfast List for the Kitchen**](#breakfast-list-for-the-kitchen)
-  - [**Extending Nights for PM**](#extending-nights-for-pm)
-  - [**Canceling 6PM Guests**](#canceling-6pm-guests)
-  - [**End Of Day Preparation**](#end-of-day-preparation)
-    - [**Noting down All No Show Guests**](#noting-down-all-no-show-guests)
-  - [**Reports**](#reports)
-    - [**User Activity Log**](#user-activity-log)
-      - [**Credit Cards Reports**](#credit-cards-reports)
-    - [**Count Physical Cash**](#count-physical-cash)
-    - [**Cashier Shift Close**](#cashier-shift-close)
-    - [**Journal By Manual Credit Cards**](#journal-by-manual-credit-cards)
-    - [**Excel Table \& Credit Card Control**](#excel-table--credit-card-control)
-      - [**X-Bericht \& Z-Bericht \& CC-Terminal Reciept**](#x-bericht--z-bericht--cc-terminal-reciept)
-      - [**CC-Terminal Reciept**](#cc-terminal-reciept)
-      - [**X-Report \& Z-Report**](#x-report--z-report)
-      - [**12.029f**](#12029f)
-    - [**Negative Posting by Cashier**](#negative-posting-by-cashier)
-  - [**END OF DAY**](#end-of-day)
 - [**After End Of Day**](#after-end-of-day)
   - [**Breakfast List for Service**](#breakfast-list-for-service)
   - [**From 6 O'Clock**](#from-6-oclock)
@@ -74,7 +55,7 @@
 <!-- /vscode-markdown-toc -->
  <a href="#top">Back to top</a>
 
-#  <a name='EndOfDay'></a>**Before End Of Day**
+##  <a name='EndOfDay'></a>**Before End Of Day**
 ## **Breakfast List for the Kitchen**
   - **14.015**
     - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **14.015** ↓ *click* Search ↓ *in Report Name double click* Breakfast... ↓ *uncheck* Non Deduct ↓ Print
