@@ -3,6 +3,8 @@
 - [Preparation End Of Day](#preparation-end-of-day)
   - [Note down ALL *No Show* Guests](#note-down-all-no-show-guests)
   - [Reports](#reports)
+    - [**Kiosk**](#kiosk)
+    - [**Under No Show**](#under-no-show)
 - [End Of Day](#end-of-day)
 - [After End Of Day](#after-end-of-day)
 <!-- vscode-markdown-toc-config
@@ -28,10 +30,10 @@
 ### Note down ALL *No Show* Guests
    - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[4]</sup>](#Note4)
 ### Reports
-   - **Kiosk**
-     - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Kiosk* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
-   - **Under No Show**
-     - *Miscellaneous > *Reports > *Report* > **24.053a** > *Print*
+#### **Kiosk**
+   - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Kiosk* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
+#### **Under No Show**
+   - *Miscellaneous > *Reports > *Report* > **24.053a** > *Print*
    - **Closing Account 9999 *Restaurant***
      - *Cashiering > *Billing > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
    - **User Activity Log**
