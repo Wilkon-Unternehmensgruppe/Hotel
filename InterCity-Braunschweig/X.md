@@ -1,12 +1,9 @@
 ## Table of Content
-- [Before End Of Day](#Before-End-Of-Day)
-- [Preparation End Of Day](#Preparetion-End-Of-Day)
-  - [Reports](#Reports)
-    - [Closing 9999 Acount *Restaureant*](#Closing-9999-Account-*Restaurant*)
-    - [Counting Physical Cash](#Counting-Physical-Cash)
-    - [Cashier Shift Closure](#Cashier-Shift-Closure)
-- [End Of Day](#End-Of-Day)
-- [After End Of Day](#After-End-Of-Day)
+- [Table of Content](#table-of-content)
+- [Before End Of Day](#before-end-of-day)
+- [Preparation End Of Day](#preparation-end-of-day)
+  - [Note down ALL *No Show* Guests](#note-down-all-no-show-guests)
+  - [Reports](#reports)
 
 ## Before End Of Day
    - **Breakfast List for the Kitchen**
@@ -22,8 +19,8 @@
   [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
    - **Print Registeration Cards**
 ## Preparation End Of Day
-   - **Noting down ALL *No Show* Guests**
-     - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[4]</sup>](#Note4)
+### Note down ALL *No Show* Guests
+   - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[4]</sup>](#Note4)
 ### Reports
 
 
