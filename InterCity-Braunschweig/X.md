@@ -13,7 +13,7 @@
     - [Negative Posting by Cashier](#negative-posting-by-cashier)
 - [End Of Day](#end-of-day)
 - [After End Of Day](#after-end-of-day)
-    - [Breakfast List for Service](#breakfast-list-for-service)
+  - [Breakfast List for Service](#breakfast-list-for-service)
   - [From 6 O'Clock](#from-6-oclock)
     - [Traces FO Status *For FO*](#traces-fo-status-for-fo)
     - [Housekeeping List](#housekeeping-list)
@@ -92,7 +92,7 @@
   ## End Of Day
   - *End Of Day* > *Night Audit* > *Login*
   ## After End Of Day
-#### Breakfast List for Service
+### Breakfast List for Service
    - **15.033g**
      - *Miscellaneous* > *Reports* > *Report* > **15.033g** > *Search* > *in Report Name double click* **15.033g** > *select ALL by Packages* > *Print*
 ### From 6 O'Clock
