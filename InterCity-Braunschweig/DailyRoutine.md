@@ -55,8 +55,8 @@
 <!-- /vscode-markdown-toc -->
  <a href="#top">Back to top</a>
 
-###  <a name='EndOfDay'></a>**Before End Of Day**
-#### **Breakfast List for the Kitchen**
+##  <a name='EndOfDay'></a>**Before End Of Day**
+### **Breakfast List for the Kitchen**
   - **14.015**
     - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **14.015** ↓ *click* Search ↓ *in Report Name double click* Breakfast... ↓ *uncheck* Non Deduct ↓ Print
 ### **Extending Nights for PM** 
@@ -118,8 +118,9 @@
     - **425203** ↓ Print
   ## **END OF DAY**
   - End Of Day ↓ Night Audit ↓ Login
-###  <a name='EndOfDay'></a>**After End Of Day**
-#### **Breakfast List for Service**
+#  <a name='EndOfDay'></a>**After End Of Day**
+
+  ## **Breakfast List for Service**
   - **15.033g**
     - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **15.033g** ↓ *click* Search ↓ *in Report Name double click* **15.033g** ↓ *select ALL* by Packages ↓ Print
   ## **From 6 O'Clock**
