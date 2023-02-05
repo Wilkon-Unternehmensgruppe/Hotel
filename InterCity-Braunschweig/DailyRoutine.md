@@ -1,6 +1,6 @@
 #### Table of Content
 - [**After End Of Day**](#after-end-of-day)
-  - [**Breakfast List for Service**](#breakfast-list-for-service)
+      - [**Breakfast List for Service**](#breakfast-list-for-service)
   - [**From 6 O'Clock**](#from-6-oclock)
     - [**Traces FO Status *For FO***](#traces-fo-status-for-fo)
     - [**Event List *For FO***](#event-list-for-fo)
@@ -56,7 +56,7 @@
  <a href="#top">Back to top</a>
 
 ###  <a name='EndOfDay'></a>**Before End Of Day**
-### **Breakfast List for the Kitchen**
+#### **Breakfast List for the Kitchen**
   - **14.015**
     - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **14.015** ↓ *click* Search ↓ *in Report Name double click* Breakfast... ↓ *uncheck* Non Deduct ↓ Print
 ### **Extending Nights for PM** 
@@ -118,8 +118,8 @@
     - **425203** ↓ Print
   ## **END OF DAY**
   - End Of Day ↓ Night Audit ↓ Login
-#  <a name='EndOfDay'></a>**After End Of Day**
-  ## **Breakfast List for Service**
+###  <a name='EndOfDay'></a>**After End Of Day**
+#### **Breakfast List for Service**
   - **15.033g**
     - *click* Miscellaneous ↓ *click* Reports ↓ *in* Report ↓ *type* **15.033g** ↓ *click* Search ↓ *in Report Name double click* **15.033g** ↓ *select ALL* by Packages ↓ Print
   ## **From 6 O'Clock**
