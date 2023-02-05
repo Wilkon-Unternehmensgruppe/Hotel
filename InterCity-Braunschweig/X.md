@@ -36,6 +36,7 @@
        - *Answer of the Question Reason?* > *Not Guaranteed*
   [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
    - **Print Registeration Cards**
+ <a href="#top">Back to top</a>
 ## Preparation End Of Day
 ### Note down ALL *No Show* Guests
    - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[4]</sup>](#Note4)
