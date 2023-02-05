@@ -22,7 +22,34 @@
 ### Note down ALL *No Show* Guests
    - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[4]</sup>](#Note4)
 ### Reports
-
+  - **Kiosk**
+    - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Kiosk* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
+  - **Under No Show**
+    - *Miscellaneous > *Reports > *Report* > **24.053a** > *Print*
+  - **Closing Account 9999 *Restaurant***
+    - *Cashiering > *Billing > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
+  - **User Activity Log**
+    - **12.048**
+      - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
+  - **Credit Cards Reports**
+    - **425_12.029**
+      - *Miscellaneous* > *Reports* > *Report* > *type* 
+        - **425_12.029** > *Search* > *in Report Name double click* 
+          - **Amex** > *Print*
+          - **Mastercard** > *Print*
+          - **Visa** > *Print*
+          - **Cash** > *Print*
+          - **VPay** > *Print*
+          - **Wire Transfer** > *Print*
+          - **Maestro** > *Print*
+          - **City Ledger**
+            - *in Transaction Codes* > *type*
+              - **952000,953000** > *Print*
+              - **952100,953100** > *Print*
+              - **952200,953200** > *Print*
+              - **800000** > *Print*
+              - **940000,940500,941000,941100** > *Print*
+              - **930000** > *Print*
 
 
 ---
