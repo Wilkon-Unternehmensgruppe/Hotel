@@ -12,3 +12,13 @@
    - **Breakfast List for the Kitchen**
      - **14.015**
        - *Miscellaneous* > *Reports* > *Report* > *type* **14.015** > *Search* > *Breakfast...* > *uncheck Non Deduct* > *Print*
+   - **Extending PM Night's**
+     - *Front Desk* > *In House Guests* > *Advanced* > *Check Due Out*  > *Search* > *in each found PM*
+       - *double click PM* > *in Nights extend nights AMAP* > *Ok*
+  [<sup>[1]</sup>](#Note1)
+
+
+
+
+---
+<span id="Note1">[1]</span> same above-mentioned step for Each PM
