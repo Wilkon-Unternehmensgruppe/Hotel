@@ -148,34 +148,34 @@
   > *_NOTE_* *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
   > *_NOTE_* *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*
   ##### **Credit Cards By Name**
-  - [**Amex**](#amex)
+  - [**Amex**](#credit-cards-reports)
     - *Then Collected Amex Invoices from Desk Paper Storage in Wilkon Desk*
-  - [**Mastercard**](#mastercard)
+  - [**Mastercard**](#credit-cards-reports)
     - *Then Collected MasterCardInvoices from Desk Paper Storage in Wilkon Desk*
-  - [**Visa**](#visa)
+  - [**Visa**](#credit-cards-reports)
     - *Then Collected VISAInvoices from Desk Paper Storage in Wilkon Desk*
-  - [**Cash**](#cash)
+  - [**Cash**](#credit-cards-reports)
     - *Then Collected CASH Invoices from Desk Paper Storage in Wilkon Desk*
     - *Then [Closing Account 9999 Restaurant](#closing-account-9999-restaurant)*
-  - [**VPAY**](#vpay)
+  - [**VPAY**](#credit-cards-reports)
     - *Then Collected VPAY Invoices from Desk Paper Storage in Wilkon Desk*
-  - [**WireTransfer**](#wire-transfer)
+  - [**WireTransfer**](#credit-cards-reports)
     - *Then Collected Wire Transfer Invoices from Desk Paper Storage in Wilkon Desk*
     - *Then Collected Überweisung Invoices from Desk Papar Storage in Wilkon Desk*
-  - [**Maestro**](#maestro)
+  - [**Maestro**](#credit-cards-reports)
     - *Then Collected Maestro Invoices from Desk Paper Storage in Wilkon Desk*
   ##### **Pre Payment Website**
-  - [**952000,953000**](#952000953000)
+  - [**952000,953000**](#credit-cards-reports)
   ##### **Pre Payment Website (Amex)**
-  - [**952100,953100**](#952100953100)
+  - [**952100,953100**](#credit-cards-reports)
   ##### **Pre Payment Website (PayPal)**
-  - [**952200,953200**](#952200953200)
+  - [**952200,953200**](#credit-cards-reports)
   ##### **Paidout**
-  - [**800000**](#800000)
+  - [**800000**](#credit-cards-reports)
   ##### **Voucher**
-  - [**940000,940500,941000,941100**](#940000940500941000941100)
+  - [**940000,940500,941000,941100**](#credit-cards-reports)
   ##### **City Ledger**
-  - [**930000**](#930000)
+  - [**930000**](#credit-cards-reports)
   - *Then Collected bitte Überweisen Sie Invoices from Desk Paper Storage in Wilkon Desk*
 
 <a href="#top">Back to top</a>
