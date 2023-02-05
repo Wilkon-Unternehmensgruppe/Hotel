@@ -36,7 +36,9 @@
        - *Answer of the Question Reason?* > *Not Guaranteed*
   [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
    - **Print Registeration Cards**
- <a href="#top">Back to top</a>
+
+<a href="#top">Back to top</a>
+
 ## Preparation End Of Day
 ### Note down ALL *No Show* Guests
    - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[4]</sup>](#Note4)
@@ -90,8 +92,14 @@
      - **425201** > *Print*
      - **425202** > *Print*
      - **42520*3** > *Print*
+
+<a href="#top">Back to top</a>
+
   ## End Of Day
   - *End Of Day* > *Night Audit* > *Login*
+
+<a href="#top">Back to top</a>
+
   ## After End Of Day
 ### Breakfast List for Service
    - **15.033g**
@@ -116,7 +124,10 @@
     - **HSK Mgmt Report**
       - *Rooms Management* > *Housekeeping* > *Housekeeping Mgmt.* > *Report*
   - **Housekeeping Task Assignment**
-    - **HSK Task Assignment** > Auto > Ok > Report > Print 
+    - **HSK Task Assignment** > *Auto* > *Ok* > *Report* > *Print*
+
+<a href="#top">Back to top</a>
+
 ---
 <span id="Note1">[1]</span> same above-mentioned step for Each PM
 
