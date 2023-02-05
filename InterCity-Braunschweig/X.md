@@ -20,7 +20,11 @@
      - *Front Desk* > *Arrivals* > *Find Guests with 6pm Status* > *Double Click Guest Name* > *Cancel*
        - *Answer of the Question Reason?* > *Not Guaranteed*
   [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
-
+   - **Print Registeration Cards**
+## Preparation End Of Day
+   - **Noting down ALL *No Show* Guests**
+     - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[4]</sup>](#Note4)
+### Reports
 
 
 
@@ -30,3 +34,5 @@
 <span id="Note2">[2]</span> Mainly before  Closing Cashier
 
 <span id="Note3">[3]</span> ONLY if the Guest is a Self-Paying with no Credit Card
+
+<span id="Note4">[4]</span> OR take a look at the No Show report after End Of Day
