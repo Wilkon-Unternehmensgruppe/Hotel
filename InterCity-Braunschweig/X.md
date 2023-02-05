@@ -5,6 +5,7 @@
   - [Reports](#reports)
     - [Kiosk](#kiosk)
     - [Under No Show](#under-no-show)
+    - [Closing Account 9999 *Restaurant*](#closing-account-9999-restaurant)
     - [User Activity Log](#user-activity-log)
     - [Credit Cards Reports](#credit-cards-reports)
     - [Count Physical Cash](#count-physical-cash)
@@ -60,8 +61,8 @@
    - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Kiosk* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
 #### Under No Show
    - *Miscellaneous > *Reports > *Report* > **24.053a** > *Print*
-- ##### **Closing Account 9999 *Restaurant***
-  - *Cashiering > *Billing > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
+#### Closing Account 9999 *Restaurant*
+   - *Cashiering > *Billing > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
 #### User Activity Log
    - **12.048**
      - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
