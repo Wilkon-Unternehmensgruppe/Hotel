@@ -26,5 +26,7 @@
 
 ---
 <span id="Note1">[1]</span> same above-mentioned step for Each PM
+
 <span id="Note2">[2]</span> Mainly before  Closing Cashier
+
 <span id="Note3">[3]</span> ONLY if the Guest is a Self-Paying with no Credit Card
