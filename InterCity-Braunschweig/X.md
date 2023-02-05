@@ -145,8 +145,8 @@
   - [**No Show**](#no-show)
   - [**Under No Show**](#under-no-show)
   ##### [**Cashier Closure**](#cashier-shift-closure) 
-  > *_NOTE_* *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
-  > *_NOTE_* *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*
+  - *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
+  - *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*
   ##### **Credit Cards By Name**
   - [**Amex**](#credit-cards-reports)
     - *Then Collected Amex Invoices from Desk Paper Storage in Wilkon Desk*
