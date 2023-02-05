@@ -1,3 +1,6 @@
+## Table Of Content
+---
+- [Table Of Content](#table-of-content)
 - [Before End Of Day](#before-end-of-day)
 - [Preparation End Of Day](#preparation-end-of-day)
   - [Note down ALL *No Show* Guests](#note-down-all-no-show-guests)
