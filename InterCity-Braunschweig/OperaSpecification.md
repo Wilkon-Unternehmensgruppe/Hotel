@@ -1,9 +1,8 @@
 ### Table Of Content
-- [Table Of Content](#table-of-content)
 - [Abbreviations](#abbreviations)
 - [Codes](#codes)
-  - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
-  - [To Know *How many Vacant Rooms in House*](#to-know-how-many-vacant-rooms-in-house)
+    - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
+    - [To Know *How many Vacant Rooms in House*](#to-know-how-many-vacant-rooms-in-house)
 - [Prices](#prices)
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -11,7 +10,7 @@
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-### Abbreviations
+## Abbreviations
 |Abbr|Info|
 |:--:|:--:|
 |AX|Rate Code without Breakfast|
@@ -31,7 +30,7 @@
 |STU|Studio|
 
 
-### Codes
+## Codes
 #### To Know *How many Check-In in my Shift*
  - *Miscellaneous* > *Reports* > *Report* > **%arrival** *or* **04.013c** > *in Report Name double click Arrivals ...*
 #### To Know *How many Vacant Rooms in House*
@@ -44,7 +43,7 @@
  - %cancel > Reservation Cancellation > From Date : Yesterday > To Date: Yesterday > Cancel Date > Cancel Reason : NGT > check out all the boxes in Display > Sort Order : Cancel Date **on the right side Only** > Ok > Group By : Cancel Date **on the right side only**
 -->
 
-### Prices
+## Prices
 |Item|Price|
 |:--:|:--|
 |Food & Beverage (Booked)|6.75 , 2.25|
