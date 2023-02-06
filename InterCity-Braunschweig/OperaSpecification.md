@@ -1,11 +1,12 @@
 ### Table Of Content
+- [Table Of Content](#table-of-content)
 - [Abbreviations](#abbreviations)
 - [Codes](#codes)
   - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
   - [To Know *How many Vacant Rooms in House*](#to-know-how-many-vacant-rooms-in-house)
 
 
-## Abbreviations
+### Abbreviations
 |Abbr|Info|
 |:--:|:--:|
 |AX|Rate Code without Breakfast|
@@ -25,10 +26,10 @@
 |STU|Studio|
 
 
-## Codes
-### To Know *How many Check-In in my Shift*
+### Codes
+#### To Know *How many Check-In in my Shift*
  - *Miscellaneous* > *Reports* > *Report* > **%arrival** *or* **04.013c** > *in Report Name double click Arrivals ...*
-### To Know *How many Vacant Rooms in House*
+#### To Know *How many Vacant Rooms in House*
  - *Miscellaneous* > *Reports* > *Report* > **%vac** *or* **16.018a** > *check only Vacant and Housekeeping Status ONLY CL*
 
 <!-- 
