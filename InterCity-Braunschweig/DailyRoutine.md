@@ -91,8 +91,8 @@
 #### Cashier Shift Closure
    - *Cashiering* > *Cashier Shift Close*[<sup>[7]</sup>](#Note7)
 #### Journal By Manual Credit Cards 
-   - ##### **12.029j**
-     - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click* **12.029j** > *Print*
+   - ##### **Journal by Manual Credit Cards**
+     - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click Journal by Manual Credit Cards* > *Print*
 #### Excel Table & Credit Card Control
    - One Click Excel Icon in Desktop > Double Click CC Kontrolle
    - **X-Bericht & Z-Bericht & CC-Terminal Reciept**
