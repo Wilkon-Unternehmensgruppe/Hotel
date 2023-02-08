@@ -138,13 +138,13 @@
   - [**Negative Posting**](#negative-posting-by-cashier) 
     - *firstly 425203, then 425202 and lastly 425203*
   ##### CC Kontrolle *Slide*
-  - [**Kiosk**](#kiosk)
-  - [**12.029j Journal By Manual Credit Cards**](#12029j)
+  - [**Journal By Cashier and Creditcards Kiosk**](#journal-by-cashier-and-creditcards-kiosk)
+  - [**Journal By Manual Credit Cards**](#journal-by-manual-credit-cards)
   - [**Excel**](#excel-table--credit-card-control)
   - [**Terminal Reciept**](#cc-terminal-reciept)
   ##### No Show *Slide*
   - [**No Show**](#no-show)
-  - [**Under No Show**](#under-no-show)
+  - [**Upgrade Reason**](#upgrade-reason)
   ##### [**Cashier Closure**](#cashier-shift-closure) 
   - *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
   - *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*
