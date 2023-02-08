@@ -3,8 +3,8 @@
 - [Preparation End Of Day](#preparation-end-of-day)
   - [Note down ALL *No Show* Guests](#note-down-all-no-show-guests)
   - [Reports](#reports)
-    - [Kiosk](#kiosk)
-    - [Under No Show](#under-no-show)
+    - [Journal By Cashier and Creditcards *Kiosk*](#journal-by-cashier-and-creditcards-kiosk)
+    - [Upgrade Reason](#upgrade-reason)
     - [Closing Account 9999 *Restaurant*](#closing-account-9999-restaurant)
     - [User Activity Log](#user-activity-log)
     - [Credit Cards Reports](#credit-cards-reports)
@@ -41,7 +41,7 @@
 ## Before End Of Day
    - **Breakfast List for the Kitchen**
      - **14.015**
-       - *Miscellaneous* > *Reports* > *Report* > *type* **14.015** > *Search* > *Breakfast...* > *uncheck Non Deduct* > *Print*
+       - *Miscellaneous* > *Reports* > *Report* > *type* **14.015** > *Search* > *14.015 Package Forecast* > *uncheck Non Deduct* > *Print*
    - **Extending PM Night's**
      - *Front Desk* > *In House Guests* > *Advanced* > *Check Due Out*  > *Search* > *in each found PM*
        - *double click PM* > *in Nights extend nights AMAP* > *Ok*
@@ -58,9 +58,9 @@
 ### Note down ALL *No Show* Guests
    - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[4]</sup>](#Note4)
 ### Reports
-#### Kiosk
-   - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Kiosk* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
-#### Under No Show
+#### Journal By Cashier and Creditcards *Kiosk*
+   - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Journal By Cashier and Creditcards* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
+#### Upgrade Reason
    - *Miscellaneous* > *Reports* > *Report* > **24.053a** > *Print*
 #### Closing Account 9999 *Restaurant*
    - *Cashiering* > *Billing* > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
