@@ -106,7 +106,7 @@
    - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click* **12.029j** > *in Cashier* > *type* 
      - **425201** > *Print*
      - **425202** > *Print*
-     - **42520*3** > *Print*
+     - **425203** > *Print*
 
 <a href="#top">Back to top</a>
 
