@@ -184,7 +184,7 @@
   ## After End Of Day
 ### Breakfast List for Service
    - **15.033g**
-     - *Miscellaneous* > *Reports* > *Report* > **15.033g** > *Search* > *in Report Name double click* **15.033g** > *select ALL by Packages* > *Print*
+     - *Miscellaneous* > *Reports* > *Report* > **15.033g** > *Search* > *in Report Name double click* **Breakfast List by Room ab 01.07.2020** > *arrow down In Packages* > *click All* > *Click Ok* > *Click Ok for Please note: A large number of codes have been selected!* > *Print*
 ### From 6 O'Clock
 #### Traces FO Status *For FO*
    - **15.023e**
