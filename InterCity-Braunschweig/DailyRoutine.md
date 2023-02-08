@@ -42,7 +42,7 @@
 ## Before End Of Day
    - **Breakfast List for the Kitchen**
      - **14.015**
-       - *Miscellaneous* > *Reports* > *Report* > *type* **14.015** > *Search* > *14.015 Package Forecast* > *uncheck Non Deduct* > *Print*
+       - *Miscellaneous* > *Reports* > *Report* > *type* **14.015** > *Search* > *in Report Name double click Package Forecast* > *uncheck Non Deduct* > *Print*
    - **Extending PM Night's**
      - *Front Desk* > *In House Guests* > *Advanced* > *Check Due Out*  > *Search* > *in each found PM*
        - *double click PM* > *in Nights extend nights AMAP* > *Ok*
@@ -104,7 +104,7 @@
 #### Negative Posting
    - *Miscellaneous* > *Reports* > **12.029f** > *Search* > *in Report Name double click Negative Posting* > *Print*
 #### Negative Posting by Cashier
-   - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click* **12.029j** > *in Cashier* > *type* 
+   - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click Negative Posting by Cashier* > *in Cashier* > *type* 
      - **425201** > *Print*
      - **425202** > *Print*
      - **425203** > *Print*
@@ -189,19 +189,19 @@
 ### From 6 O'Clock
 #### Traces FO Status *For FO*
    - **15.023e**
-     - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click* **15.023e** > *Print*
+     - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click FO Traces INH/Arrivals/Due Outs/PM* > *Print*
    - **Event List *For FO***
    - **11.005**
-     - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click* **11.005** > *Under Date Type*
+     - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click Event Listing Detailed* > *Under Date Type*
         - *Enter Today's Date , Relly Today's Date not from shift work* > *Print*
 #### Housekeeping List 
    - **15.023c**
-     - *Miscellaneous* > ** *Reports* > *Report* > ***15.023c** > *Search* > *in Report Name double click* **15.023c** > *Print*
+     - *Miscellaneous* > ** *Reports* > *Report* > ***15.023c** > *Search* > *in Report Name double click HSK Traces INH/Arrivals/Due Outs* > *Print*
    - **List of Room Moves** 
      - **15.031**
-       - *Miscellaneous* > ** *Reports* > *Report* > ***15.031** > *Search* > *in Report Name double click* **15.031**
+       - *Miscellaneous* > ** *Reports* > *Report* > ***15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
      - **16.005** > *Print*
-       - *Miscellaneous* > ** *Reports* > *Report* > ***16.005** > *click* Search > *in Report Name double click* **16.005** > *Print* 
+       - *Miscellaneous* > ** *Reports* > *Report* > ***16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print* 
   - **Housekeeping Management Report**
     - **HSK Mgmt Report**
       - *Rooms Management* > *Housekeeping* > *Housekeeping Mgmt.* > *Report*
