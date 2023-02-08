@@ -12,7 +12,7 @@
     - [Cashier Shift Closure](#cashier-shift-closure)
     - [Journal By Manual Credit Cards](#journal-by-manual-credit-cards)
     - [Excel Table \& Credit Card Control](#excel-table--credit-card-control)
-    - [**Negative Posting**](#negative-posting)
+    - [Negative Posting](#negative-posting)
     - [Negative Posting by Cashier](#negative-posting-by-cashier)
 - [End Of Day](#end-of-day)
 - [Order Of End Of Day Folder](#order-of-end-of-day-folder)
@@ -101,7 +101,7 @@
      - Go to the Bar and Pull out Reciept from the small Terminal
    - **X-Report & Z-Report**
      - Go to the Bar and Pull out Reciept form the IPAD
-#### **Negative Posting**
+#### Negative Posting
    - *Miscellaneous* > *Reports* > **12.029f** > *Search* > *in Report Name double click Negative Posting* > *Print*
 #### Negative Posting by Cashier
    - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click* **12.029j** > *in Cashier* > *type* 
