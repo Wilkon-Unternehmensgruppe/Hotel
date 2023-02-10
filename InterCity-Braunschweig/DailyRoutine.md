@@ -46,11 +46,11 @@
 ### Breakfast List *Kitchen*
   - **14.015**
        - *Miscellaneous* > *Reports* > *In Report type* > **14.015** > *Search* > *Under Report Name double click* **14.015 Package Forecast** > *uncheck Non Deduct* > *Print*
-![First](/Users/Human/Downloads/1.PNG)
-![Second](/Users/Human/Downloads/2.PNG)
-![Third](/Users/Human/Downloads/3.PNG)
-![Fourth](/Users/Human/Downloads/4.PNG)
-![Fifth](/Users/Human/Downloads/5.PNG)
+![First](/Users/Human/VersionControl/GlobalRepos/Work/Wilkon/Hotel/InterCity-Braunschweig/Images/DailyRoutine/1.PNG)
+![Second](/Users/Human/VersionControl/GlobalRepos/Work/Wilkon/Hotel/InterCity-Braunschweig/Images/DailyRoutine/2.PNG)
+![Third](/Users/Human/VersionControl/GlobalRepos/Work/Wilkon/Hotel/InterCity-Braunschweig/Images/DailyRoutine/3.PNG)
+![Fourth](/Users/Human/VersionControl/GlobalRepos/Work/Wilkon/Hotel/InterCity-Braunschweig/Images/DailyRoutine/4.PNG)
+![Fifth](/Users/Human/VersionControl/GlobalRepos/Work/Wilkon/Hotel/InterCity-Braunschweig/Images/DailyRoutine/5.PNG)
 
 ### Extending PM Night's
   - *Front Desk* > *In House Guests* > *Advanced* > *Under Search Type Check* **Due Out**  > *Search* > *in each found PM*
