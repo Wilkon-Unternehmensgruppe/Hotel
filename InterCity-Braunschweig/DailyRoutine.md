@@ -43,18 +43,18 @@
 <!-- /vscode-markdown-toc -->
 
 ## Before End Of Day
-### **Breakfast List for the Kitchen**
+### Breakfast List for the Kitchen
   - **14.015**
        - *Miscellaneous* > *Reports* > *Report* > *type* **14.015** > *Search* > *in Report Name double click Package Forecast* > *uncheck Non Deduct* > *Print*
-### **Extending PM Night's**
+### Extending PM Night's
   - *Front Desk* > *In House Guests* > *Advanced* > *Check Due Out*  > *Search* > *in each found PM*
        - *double click PM* > *in Nights extend nights AMAP* > *Ok*
   [<sup>[1]</sup>](#Note1)
-### **Canceling 6PM Guests**
+### Canceling 6PM Guests
   - *Front Desk* > *Arrivals* > *Find Guests with 6pm Status* > *Double Click Guest Name* > *Cancel*
        - *Answer of the Question Reason?* > *Not Guaranteed*
   [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
-### **Registeration Cards**
+### Registeration Cards
 
 <a href="#top">Back to top</a>
 
