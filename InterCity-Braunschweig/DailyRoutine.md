@@ -50,11 +50,11 @@
   - *Front Desk* > *In House Guests* > *Advanced* > *Check Due Out*  > *Search* > *in each found PM*
        - *double click PM* > *in Nights extend nights AMAP* > *Ok*
   [<sup>[1]</sup>](#Note1)
-### **Canceling 6pm Guests**
+### **Canceling 6PM Guests**
   - *Front Desk* > *Arrivals* > *Find Guests with 6pm Status* > *Double Click Guest Name* > *Cancel*
        - *Answer of the Question Reason?* > *Not Guaranteed*
   [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
-### **Print Registeration Cards**
+### **Registeration Cards**
 
 <a href="#top">Back to top</a>
 
