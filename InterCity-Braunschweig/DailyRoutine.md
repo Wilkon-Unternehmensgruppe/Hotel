@@ -1,6 +1,6 @@
 ### Table Of Content
 - [Before End Of Day](#before-end-of-day)
-   - [Breakfast List for the Kitchen](#breakfast-list-for-the-kitchen)
+   - [Breakfast List *Kitchen*](#breakfast-list-kitchen)
    - [Extending PM Night's](#extending-pm-nights)
    - [Canceling 6pm Guests](#canceling-6pm-guests)
 - [Preparation End Of Day](#preparation-end-of-day)
