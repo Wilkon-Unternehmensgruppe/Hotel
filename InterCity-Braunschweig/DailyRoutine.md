@@ -46,7 +46,7 @@
 ### Breakfast List *Kitchen*
   - **14.015**
        - *Miscellaneous* > *Reports* > *In Report type* > **14.015** > *Search* > *Under Report Name double click* **14.015 Package Forecast** > *uncheck Non Deduct* > *Print*
-![First](/Users/Human/VersionControl/GlobalRepos/Work/Wilkon/Hotel/InterCity-Braunschweig/Images/DailyRoutine/1.PNG)
+![1.PNG](/Users/Human/VersionControl/GlobalRepos/Work/Wilkon/Hotel/InterCity-Braunschweig/Images/DailyRoutine/1.PNG)
 ![Second](/Users/Human/VersionControl/GlobalRepos/Work/Wilkon/Hotel/InterCity-Braunschweig/Images/DailyRoutine/2.PNG)
 ![Third](/Users/Human/VersionControl/GlobalRepos/Work/Wilkon/Hotel/InterCity-Braunschweig/Images/DailyRoutine/3.PNG)
 ![Fourth](/Users/Human/VersionControl/GlobalRepos/Work/Wilkon/Hotel/InterCity-Braunschweig/Images/DailyRoutine/4.PNG)
