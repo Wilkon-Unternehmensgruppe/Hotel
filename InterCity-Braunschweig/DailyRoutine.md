@@ -43,7 +43,7 @@
 <!-- /vscode-markdown-toc -->
 
 ## Before End Of Day
-### Breakfast List for the Kitchen
+### Breakfast List *Kitchen*
   - **14.015**
        - *Miscellaneous* > *Reports* > *Report* > *type* **14.015** > *Search* > *in Report Name double click Package Forecast* > *uncheck Non Deduct* > *Print*
 ### Extending PM Night's
@@ -57,6 +57,12 @@
 ### Registeration Cards
 
 <a href="#top">Back to top</a>
+
+
+
+
+
+
 
 ## Preparation End Of Day
 ### Note down ALL *No Show* Guests
