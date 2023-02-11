@@ -69,6 +69,11 @@
   [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
 ### Registeration Cards
 
+  - *Reservations* > *Registeration Cards* > *Under Reservation Types Check*
+    - *Individuals*
+    - *Blocks* 
+      - *Arrow Down In Block* > *Click All* > *Click OK* > *Print*
+  [<sup>[4]</sup>](#Note4)
 ![First](Images/DailyRoutine/RegisterationCards/1.PNG)
 ![Second](Images/DailyRoutine/RegisterationCards/2.PNG)
 ![Third](Images/DailyRoutine/RegisterationCards/3.PNG)
@@ -85,7 +90,7 @@
 
 ## Preparation End Of Day
 ### Note down ALL *No Show* Guests
-   - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[4]</sup>](#Note4)
+   - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[5]</sup>](#Note5)
 ### Reports
 #### Journal By Cashier and Creditcards *Kiosk*
    - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Journal By Cashier and Creditcards* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
@@ -116,9 +121,9 @@
                - **940000,940500,941000,941100** > *Print*
                - **930000** > *Print*
 #### Count Physical Cash
-   - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash[<sup>[5]</sup>](#Note5) [<sup>[6]</sup>](#Note6)
+   - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash[<sup>[6]</sup>](#Note6) [<sup>[7]</sup>](#Note7)
 #### Cashier Shift Closure
-   - *Cashiering* > *Cashier Shift Close*[<sup>[7]</sup>](#Note7)
+   - *Cashiering* > *Cashier Shift Close*[<sup>[8]</sup>](#Note8)
 #### Journal By Manual Credit Cards 
    - ##### **Journal by Manual Credit Cards**
      - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click Journal by Manual Credit Cards* > *Print*
@@ -245,10 +250,12 @@
 
 <span id="Note3">[3]</span> ONLY if the Guest is a Self-Paying with no Credit Card
 
-<span id="Note4">[4]</span> OR take a look at the No Show report after End Of Day
+<span id="Note3">[4]</span> There is a special Method for Printing Register Cards for Groups and ...
 
-<span id="Note5">[5]</span> Cash Count should be ZERO
+<span id="Note4">[5]</span> OR take a look at the No Show report after End Of Day
 
-<span id="Note6">[6]</span> Firstly Count Physical Cash and Then Cashier
+<span id="Note5">[6]</span> Cash Count should be ZERO
 
-<span id="Note7">[7]</span> This step happenes after Counting Physical Cash
+<span id="Note6">[7]</span> Firstly Count Physical Cash and Then Cashier
+
+<span id="Note7">[8]</span> This step happenes after Counting Physical Cash
