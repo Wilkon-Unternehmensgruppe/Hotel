@@ -36,6 +36,7 @@
   - [Breakfast List for Service](#breakfast-list-for-service)
   - [From 6 O'Clock](#from-6-oclock)
     - [Traces FO Status *For FO*](#traces-fo-status-for-fo)
+    - [Event List *For FO*](#event-list-for-fo)
     - [Housekeeping List](#housekeeping-list)
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -219,7 +220,7 @@
 ### From 6 O'Clock
 #### Traces FO Status *For FO*
    - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click FO Traces INH/Arrivals/Due Outs/PM* > *Print*
-   - **Event List *For FO***
+#### Event List *For FO***
    - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click Event Listing Detailed* > *Under Date Type*
         - *Enter Today's Date , Relly Today's Date not from shift work* > *Print*
 #### Housekeeping List 
