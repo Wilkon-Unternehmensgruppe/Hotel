@@ -11,6 +11,7 @@
     - [Closing Account 9999 *Restaurant*](#closing-account-9999-restaurant)
     - [User Activity Log](#user-activity-log)
     - [Credit Cards Reports](#credit-cards-reports)
+    - [425_12.029](#425_12029)
     - [Count Physical Cash](#count-physical-cash)
     - [Cashier Shift Closure](#cashier-shift-closure)
     - [Journal By Manual Credit Cards](#journal-by-manual-credit-cards)
@@ -102,7 +103,7 @@
    - **12.048**
      - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
 #### Credit Cards Reports
-   - **425_12.029**
+##### **425_12.029**
      - *Miscellaneous* > *Reports* > *Report* > *type* 
        - **425_12.029** > *Search* > *in Report Name double click* 
          - **Amex** > *Print*
