@@ -231,9 +231,9 @@
      - *Miscellaneous* > ** *Reports* > *Report* > **15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
      - *Miscellaneous* > ** *Reports* > *Report* > **16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print* 
   - **Housekeeping Management Report**
-    - *Rooms Management* > *Housekeeping* > *Housekeeping Mgmt.* > *Report*
+    - *click Rooms Management* > *click Housekeeping* > *click Housekeeping Mgmt.* > *click Report* > *click Print*
   - **Housekeeping Task Assignment**
-    - **HSK Task Assignment** > *Auto* > *Ok* > *Report* > *Print*
+    - *click Rooms Management* > *click Housekeeping* > *click Task Assignment* > *click Auto* > *click Ok* > *click Report* > *click Print*
 
 <a href="#top">Back to top</a>
 
