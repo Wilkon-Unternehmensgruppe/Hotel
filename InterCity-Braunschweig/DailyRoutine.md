@@ -44,9 +44,8 @@
 <!-- /vscode-markdown-toc -->
 
 ## Before End Of Day
-### Breakfast List *Kitchen*
-  - **14.015**
-       - *Miscellaneous* > *Reports* > *In Report type* > **14.015** > *Search* > *Under Report Name double click* **14.015 Package Forecast** > *uncheck Non Deduct* > *Print*
+### Breakfast List *Kitchen* 
+  - *Miscellaneous* > *Reports* > *In Report type* > **14.015** > *Search* > *Under Report Name double click* **14.015 Package Forecast** > *uncheck Non Deduct* > *Print*
 
 ![First](Images/DailyRoutine/Kitchen/1.PNG)
 ![Second](Images/DailyRoutine/Kitchen/2.PNG)
@@ -68,13 +67,14 @@
   - *Front Desk* > *Arrivals* > *Search* > *Find Guests with 6pm Status* > *One Click on Guest Name* > *Cancel*
        - *Answer of the Question Reason?* > *Not Guaranteed*
   [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
-### Registeration Cards
 
+### Registeration Cards
   - *Reservations* > *Registeration Cards* > *Under Reservation Types Check*
     - *Individuals*
     - *Blocks* 
       - *Arrow Down In Block* > *Click All* > *Click OK* > *Print*
   [<sup>[4]</sup>](#Note4)
+
 ![First](Images/DailyRoutine/RegisterationCards/1.PNG)
 ![Second](Images/DailyRoutine/RegisterationCards/2.PNG)
 ![Third](Images/DailyRoutine/RegisterationCards/3.PNG)
@@ -83,15 +83,10 @@
 
 <a href="#top">Back to top</a>
 
-
-
-
-
-
-
 ## Preparation End Of Day
 ### Note down ALL *No Show* Guests
    - *Write down all Rates of unarrived Guests before End Of Day*[<sup>[5]</sup>](#Note5)
+
 ### Reports
 #### Journal By Cashier and Creditcards *Kiosk*
    - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Journal By Cashier and Creditcards* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
@@ -100,8 +95,7 @@
 #### Closing Account 9999 *Restaurant*
    - *Cashiering* > *Billing* > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
 #### User Activity Log
-   - **12.048**
-     - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
+   - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
 #### Credit Cards Reports
 ##### Journal By Creditcards
    - *Miscellaneous* > *Reports* > *Report* > *type* 
@@ -113,7 +107,10 @@
           - **VPay** > *Print*
           - **Wire Transfer** > *Print*
           - **Maestro** > *Print*
-          - **City Ledger**
+          - **Diners** > *Print*
+          - **JCB** > *Print*
+          - **Chinese Union** > *Print*
+          - *Double Click on Journal by Cashier - ***City Ledger**
               - *in Transaction Codes* > *type*
                  - **952000,953000** > *Print*
                  - **952100,953100** > *Print*
@@ -257,6 +254,6 @@
 
 <span id="Note5">[6]</span> Cash Count should be ZERO
 
-<span id="Note6">[7]</span> Firstly Count Physical Cash and Then Cashier
+<span id="Note6">[7]</span> Firstly Count Physical Cash and Then Cashier Shift Close
 
 <span id="Note7">[8]</span> This step happenes after Counting Physical Cash
