@@ -180,10 +180,10 @@
   ##### No Show *Slide*
   - [**No Show**](#no-show)
   - [**Upgrade Reason**](#upgrade-reason)
-  ##### [**Cashier Closure**](#cashier-shift-closure) 
+  ##### [Cashier Closure](#cashier-shift-closure) 
   - *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
   - *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*
-  ##### **Credit Cards By Name**
+  ##### Credit Cards By Name
   - [**Amex**](#credit-cards-reports)
     - *Then Collected Amex Invoices from Desk Paper Storage in Wilkon Desk*
   - [**Mastercard**](#credit-cards-reports)
@@ -200,17 +200,17 @@
     - *Then Collected Überweisung Invoices from Desk Papar Storage in Wilkon Desk*
   - [**Maestro**](#credit-cards-reports)
     - *Then Collected Maestro Invoices from Desk Paper Storage in Wilkon Desk*
-  ##### **Pre Payment Website**
+  ##### Pre Payment Website
   - [**952000,953000**](#credit-cards-reports)
-  ##### **Pre Payment Website (Amex)**
+  ##### Pre Payment Websi (Amex)**
   - [**952100,953100**](#credit-cards-reports)
-  ##### **Pre Payment Website (PayPal)**
+  ##### Pre Payment Webte (PayPal)**
   - [**952200,953200**](#credit-cards-reports)
-  ##### **Paidout**
+  ##### Paidout
   - [**800000**](#credit-cards-reports)
-  ##### **Voucher**
+  ##### Voucher
   - [**940000,940500,941000,941100**](#credit-cards-reports)
-  ##### **City Ledger**
+  ##### City Ledger
   - [**930000**](#credit-cards-reports)
   - *Then Collected (bitte Überweisen Sie) Invoices from Desk Paper Storage in Wilkon Desk*
 
