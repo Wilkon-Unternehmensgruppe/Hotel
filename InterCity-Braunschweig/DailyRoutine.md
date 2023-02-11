@@ -116,25 +116,25 @@
 
    ![First](Images/DailyRoutine/Example/1.PNG)
 
-      - **425_12.029** > *Search* > *in Report Name double click* 
-          - **Journal by Cashier Amex** > *Print*
-          - **Journal by Cashier Mastercard** > *Print*
-          - **Journal by Cashier Visa** > *Print*
-          - **Journal by Cashier Cash** > *Print*
-          - **Journal by Cashier VPay** > *Print*
-          - **Journal by Cashier Wire Transfer** > *Print*
-          - **Journal by Cashier Maestro** > *Print*
-          - **Journal by Cashier Diners** > *Print*
-          - **Journal by Cashier JCB** > *Print*
-          - **Journal by Cashier Chinese Union** > *Print*
-          - *Double Click on Journal by Cashier -* **City Ledger**
-              - *in Transaction Codes* > *type accordingly to each step*
-                 - **952000,953000** > *Print*
-                 - **952100,953100** > *Print*
-                 - **952200,953200** > *Print*
-                 - **800000** > *Print*
-                 - **940000,940500,941000,941100** > *Print*
-                 - **930000** > *Print*
+    - **425_12.029** > *Search* > *in Report Name double click* 
+        - **Journal by Cashier Amex** > *Print*
+        - **Journal by Cashier Mastercard** > *Print*
+        - **Journal by Cashier Visa** > *Print*
+        - **Journal by Cashier Cash** > *Print*
+        - **Journal by Cashier VPay** > *Print*
+        - **Journal by Cashier Wire Transfer** > *Print*
+        - **Journal by Cashier Maestro** > *Print*
+        - **Journal by Cashier Diners** > *Print*
+        - **Journal by Cashier JCB** > *Print*
+        - **Journal by Cashier Chinese Union** > *Print*
+        - *Double Click on Journal by Cashier -* **City Ledger**
+           - *in Transaction Codes* > *type accordingly to each step*
+              - **952000,953000** > *Print*
+              - **952100,953100** > *Print*
+              - **952200,953200** > *Print*
+              - **800000** > *Print*
+              - **940000,940500,941000,941100** > *Print*
+              - **930000** > *Print*
 #### Count Physical Cash
    - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash[<sup>[6]</sup>](#Note6) [<sup>[7]</sup>](#Note7)
 #### Cashier Shift Closure
