@@ -34,9 +34,9 @@
       - [**City Ledger**](#city-ledger)
 - [After End Of Day](#after-end-of-day)
   - [Breakfast List for Service](#breakfast-list-for-service)
+  - [Traces FO Status *For FO*](#traces-fo-status-for-fo)
+  - [Event List *For FO*](#event-list-for-fo)
   - [From 6 O'Clock](#from-6-oclock)
-    - [Traces FO Status *For FO*](#traces-fo-status-for-fo)
-    - [Event List *For FO*](#event-list-for-fo)
     - [Housekeeping List](#housekeeping-list)
 <!-- vscode-markdown-toc-config
 	numbering=true
