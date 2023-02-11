@@ -135,9 +135,9 @@
    - **X-Report & Z-Report**
      - Go to the Bar and Pull out Reciept form the IPAD
 #### Negative Posting
-   - *Miscellaneous* > *Reports* > **12.029f** > *Search* > *in Report Name double click Negative Posting* > *Print*
+   - *Miscellaneous* > *Reports* > **12.029f** > *Search* > *in Report Name double click Negative Postings* > *Print*
 #### Negative Posting by Cashier
-   - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click Negative Posting by Cashier* > *in Cashier* > *type* 
+   - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click Negative Postings by Cashier* > *in Cashier ID* > *type accordingly to each step* 
      - **425201** > *Print*
      - **425202** > *Print*
      - **425203** > *Print*
