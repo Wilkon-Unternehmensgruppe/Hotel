@@ -113,7 +113,7 @@
           - **Journal by Cashier JCB** > *Print*
           - **Journal by Cashier Chinese Union** > *Print*
           - *Double Click on Journal by Cashier -* **City Ledger**
-              - *in Transaction Codes* > *type*
+              - *in Transaction Codes* > *type accordingly to each step*
                  - **952000,953000** > *Print*
                  - **952100,953100** > *Print*
                  - **952200,953200** > *Print*
