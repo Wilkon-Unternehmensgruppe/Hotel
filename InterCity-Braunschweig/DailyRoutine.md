@@ -215,24 +215,18 @@
 
   ## After End Of Day
 ### Breakfast List for Service
-   - **15.033g**
-     - *Miscellaneous* > *Reports* > *Report* > **15.033g** > *Search* > *in Report Name double click* **Breakfast List by Room ab 01.07.2020** > *arrow down In Packages* > *click All* > *Click Ok* > *Click Ok for Please note: A large number of codes have been selected!* > *Print*
+   - *Miscellaneous* > *Reports* > *Report* > **15.033g** > *Search* > *in Report Name double click* **Breakfast List by Room ab 01.07.2020** > *arrow down In Packages* > *click All* > *Click Ok* > *Click Ok for Please note: A large number of codes have been selected!* > *Print*
 ### From 6 O'Clock
 #### Traces FO Status *For FO*
-   - **15.023e**
-     - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click FO Traces INH/Arrivals/Due Outs/PM* > *Print*
+   - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click FO Traces INH/Arrivals/Due Outs/PM* > *Print*
    - **Event List *For FO***
-   - **11.005**
-     - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click Event Listing Detailed* > *Under Date Type*
+   - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click Event Listing Detailed* > *Under Date Type*
         - *Enter Today's Date , Relly Today's Date not from shift work* > *Print*
 #### Housekeeping List 
-   - **15.023c**
-     - *Miscellaneous* > ** *Reports* > *Report* > ***15.023c** > *Search* > *in Report Name double click HSK Traces INH/Arrivals/Due Outs* > *Print*
-   - **List of Room Moves** 
-     - **15.031**
-       - *Miscellaneous* > ** *Reports* > *Report* > ***15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
-     - **16.005** > *Print*
-       - *Miscellaneous* > ** *Reports* > *Report* > ***16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print* 
+   - *Miscellaneous* > *Reports* > *Report* > **15.023c** > *Search* > *in Report Name double click HSK Traces INH/Arrivals/Due Outs* > *Print*
+   - **List of Room Moves**  
+     - *Miscellaneous* > ** *Reports* > *Report* > ***15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
+     - *Miscellaneous* > ** *Reports* > *Report* > ***16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print* 
   - **Housekeeping Management Report**
     - **HSK Mgmt Report**
       - *Rooms Management* > *Housekeeping* > *Housekeeping Mgmt.* > *Report*
