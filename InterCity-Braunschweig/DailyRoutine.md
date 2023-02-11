@@ -123,7 +123,7 @@
 #### Count Physical Cash
    - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash[<sup>[6]</sup>](#Note6) [<sup>[7]</sup>](#Note7)
 #### Cashier Shift Closure
-   - *Cashiering* > *Cashier Shift Close*[<sup>[8]</sup>](#Note8)
+   - *Cashiering* > *Cashier Shift Functions* > *Cashier Shift Close* > *Cashier Log In* > *click OK* > *click OK* > *Please verify your cash drop before closing.Is it correct?* > *click Yes*[<sup>[8]</sup>](#Note8)
 #### Journal By Manual Credit Cards 
    - ##### **Journal by Manual Credit Cards**
      - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click Journal by Manual Credit Cards* > *Print*
