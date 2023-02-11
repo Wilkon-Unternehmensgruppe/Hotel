@@ -145,7 +145,7 @@
 <a href="#top">Back to top</a>
 
   ## End Of Day
-  - *End Of Day* > *Night Audit* > *click Login* > *click Start* > *click Close* > *click Close*
+  - *End Of Day* > *Night Audit* > *click Login* > *click Start* > *click Close* > *click Close* > *End of Day Routine is now Completed* > *click OK*
 
 <a href="#top">Back to top</a>
 
@@ -172,6 +172,7 @@
   - [**Negative Posting**](#negative-posting) 
     - *firstly 425203, then 425202 and lastly 425203*
   ##### CC Kontrolle *Slide*
+  - **transparent Paper**
   - [**Journal By Cashier and Creditcards Kiosk**](#journal-by-cashier-and-creditcards-kiosk)
   - [**Journal By Manual Credit Cards**](#journal-by-manual-credit-cards)
   - [**Excel**](#excel-table--credit-card-control)
