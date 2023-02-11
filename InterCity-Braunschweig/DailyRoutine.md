@@ -219,12 +219,12 @@
   ## After End Of Day
 ### Breakfast List for Service
    - *Miscellaneous* > *Reports* > *Report* > **15.033g** > *Search* > *in Report Name double click* **Breakfast List by Room ab 01.07.2020** > *arrow down In Packages* > *click All* > *Click Ok* > *Click Ok for Please note: A large number of codes have been selected!* > *Print*
-### From 6 O'Clock
-#### Traces FO Status *For FO*
+### Traces FO Status *For FO*
    - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click FO Traces INH/Arrivals/Due Outs/PM* > *Print*
-#### Event List *For FO***
+### Event List *For FO***
    - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click Event Listing Detailed* > *Under Date Type*
         - *Enter Today's Date , Relly Today's Date not from shift work* > *Print*
+### From 6 O'Clock
 #### Housekeeping List 
    - *Miscellaneous* > *Reports* > *Report* > **15.023c** > *Search* > *in Report Name double click HSK Traces INH/Arrivals/Due Outs* > *Print*
    - **List of Room Moves**  
