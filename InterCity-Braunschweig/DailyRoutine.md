@@ -90,9 +90,9 @@
 
 ### Reports
 #### Journal By Cashier and Creditcards *Kiosk*
-   - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Journal By Cashier and Creditcards* > *in Transaction Code* > *Description* > *type %KIOSK*  > *Select All*  > *Print*
+   - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Journal By Cashier and Creditcards* > *Under Transaction Code Arrow down* > *In Description* > *type %KIOSK* > *Search* > *click All*  > *click OK* > *Print*
 #### Upgrade Reason
-   - *Miscellaneous* > *Reports* > *Report* > **24.053a** > *Print*
+   - *Miscellaneous* > *Reports* > *Report* > **24.053a** > *In Report Name double click Upgrade Reason* > *Print*
 #### Closing Account 9999 *Restaurant*
    - *Cashiering* > *Billing* > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
 #### User Activity Log
