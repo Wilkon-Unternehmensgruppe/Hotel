@@ -94,7 +94,8 @@
 #### Upgrade Reason
    - *Miscellaneous* > *Reports* > *Report* > **24.053a** > *In Report Name double click Upgrade Reason* > *Print*
 #### Closing Account 9999 *Restaurant*
-   - *Cashiering* > *Billing* > *type log In Data* > *search Room 9999* > *double click Room 9999* > *Check out*
+   - *Cashiering* > *Billing* > *type log In Data* > *search Room 9999* > *double click Room 9999* > *click Check out* > *click Ok*
+<!-- 2 WINDOWS IN 9999 CLICK YES TO PRRINT SECOND WINDOW , USUALLY IT STARTS PRINTING FROM THE WINDOWN YOU ARE ON !-->
 #### User Activity Log
    - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
 #### Credit Cards Reports
