@@ -104,8 +104,8 @@
      - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
 #### Credit Cards Reports
 ##### **425_12.029**
-     - *Miscellaneous* > *Reports* > *Report* > *type* 
-       - **425_12.029** > *Search* > *in Report Name double click* 
+   - *Miscellaneous* > *Reports* > *Report* > *type* 
+      - **425_12.029** > *Search* > *in Report Name double click* 
          - **Amex** > *Print*
          - **Mastercard** > *Print*
          - **Visa** > *Print*
