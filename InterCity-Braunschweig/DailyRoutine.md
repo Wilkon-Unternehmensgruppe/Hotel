@@ -97,21 +97,21 @@
    - *Cashiering* > *Billing* > *type log In Data* > *search Room 9999* > *double click Room 9999* > *click Check out* > *click Ok*
 <!-- 2 WINDOWS IN 9999 CLICK YES TO PRRINT SECOND WINDOW , USUALLY IT STARTS PRINTING FROM THE WINDOWN YOU ARE ON !-->
 #### User Activity Log
-   - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
+   - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log (Void Folio)* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
 #### Credit Cards Reports
 ##### Journal By Creditcards
    - *Miscellaneous* > *Reports* > *Report* > *type* 
       - **425_12.029** > *Search* > *in Report Name double click* 
-          - **Amex** > *Print*
-          - **Mastercard** > *Print*
-          - **Visa** > *Print*
-          - **Cash** > *Print*
-          - **VPay** > *Print*
-          - **Wire Transfer** > *Print*
-          - **Maestro** > *Print*
-          - **Diners** > *Print*
-          - **JCB** > *Print*
-          - **Chinese Union** > *Print*
+          - **Journal by Cashier Amex** > *Print*
+          - **Journal by Cashier Mastercard** > *Print*
+          - **Journal by Cashier Visa** > *Print*
+          - **Journal by Cashier Cash** > *Print*
+          - **Journal by Cashier VPay** > *Print*
+          - **Journal by Cashier Wire Transfer** > *Print*
+          - **Journal by Cashier Maestro** > *Print*
+          - **Journal by Cashier Diners** > *Print*
+          - **Journal by Cashier JCB** > *Print*
+          - **Journal by Cashier Chinese Union** > *Print*
           - *Double Click on Journal by Cashier - ***City Ledger**
               - *in Transaction Codes* > *type*
                  - **952000,953000** > *Print*
