@@ -37,7 +37,7 @@
   - [Traces FO Status *For FO*](#traces-fo-status-for-fo)
   - [Event List *For FO*](#event-list-for-fo)
   - [From 6 O'Clock](#from-6-oclock)
-    - [Housekeeping List](#housekeeping-list)
+    - [Housekeeping Reports](#housekeeping-reports)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -225,14 +225,13 @@
    - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click Event Listing Detailed* > *Under Date Type*
         - *Enter Today's Date , Relly Today's Date not from shift work* > *Print*
 ### From 6 O'Clock
-#### Housekeeping List 
+#### Housekeeping Reports
    - *Miscellaneous* > *Reports* > *Report* > **15.023c** > *Search* > *in Report Name double click HSK Traces INH/Arrivals/Due Outs* > *Print*
    - **List of Room Moves**  
      - *Miscellaneous* > ** *Reports* > *Report* > **15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
      - *Miscellaneous* > ** *Reports* > *Report* > **16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print* 
   - **Housekeeping Management Report**
-    - **HSK Mgmt Report**
-      - *Rooms Management* > *Housekeeping* > *Housekeeping Mgmt.* > *Report*
+    - *Rooms Management* > *Housekeeping* > *Housekeeping Mgmt.* > *Report*
   - **Housekeeping Task Assignment**
     - **HSK Task Assignment** > *Auto* > *Ok* > *Report* > *Print*
 
