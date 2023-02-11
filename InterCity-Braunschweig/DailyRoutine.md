@@ -145,7 +145,7 @@
 <a href="#top">Back to top</a>
 
   ## End Of Day
-  - *End Of Day* > *Night Audit* > *Login*
+  - *End Of Day* > *Night Audit* > *click Login* > *click Start* > *click Close* > *click Close*
 
 <a href="#top">Back to top</a>
 
