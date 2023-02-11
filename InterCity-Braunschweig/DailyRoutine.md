@@ -46,8 +46,8 @@
 ### Breakfast List *Kitchen*
   - **14.015**
        - *Miscellaneous* > *Reports* > *In Report type* > **14.015** > *Search* > *Under Report Name double click* **14.015 Package Forecast** > *uncheck Non Deduct* > *Print*
-       
-![1.PNG](Images/DailyRoutine/Kitchen/1.PNG)
+
+![First](Images/DailyRoutine/Kitchen/1.PNG)
 ![Second](Images/DailyRoutine/Kitchen/2.PNG)
 ![Third](Images/DailyRoutine/Kitchen/3.PNG)
 ![Fourth](Images/DailyRoutine/Kitchen/4.PNG)
@@ -57,6 +57,12 @@
   - *Front Desk* > *In House Guests* > *Advanced* > *Under Search Type Check* **Due Out**  > *Search* > *in each found PM*
        - *double click PM* > *in Nights extend nights AMAP* > *Ok*
   [<sup>[1]</sup>](#Note1)
+
+![First](Images/DailyRoutine/ExtendingPM/1.PNG)
+![Second](Images/DailyRoutine/ExtendingPM/2.PNG)
+![Third](Images/DailyRoutine/ExtendingPM/3.PNG)
+![Fourth](Images/DailyRoutine/ExtendingPM/4.PNG)
+
 ### Canceling 6PM Guests
   - *Front Desk* > *Arrivals* > *Search* > *Find Guests with 6pm Status* > *One Click on Guest Name* > *Cancel*
        - *Answer of the Question Reason?* > *Not Guaranteed*
