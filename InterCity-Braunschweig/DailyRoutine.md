@@ -46,6 +46,7 @@
 ### Breakfast List *Kitchen*
   - **14.015**
        - *Miscellaneous* > *Reports* > *In Report type* > **14.015** > *Search* > *Under Report Name double click* **14.015 Package Forecast** > *uncheck Non Deduct* > *Print*
+       
 ![1.PNG](Images/DailyRoutine/Kitchen/1.PNG)
 ![Second](Images/DailyRoutine/Kitchen/2.PNG)
 ![Third](Images/DailyRoutine/Kitchen/3.PNG)
