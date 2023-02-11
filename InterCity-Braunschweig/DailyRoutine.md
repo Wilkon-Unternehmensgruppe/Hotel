@@ -69,6 +69,9 @@
        - *Answer of the Question Reason?* > *Not Guaranteed*
   [<sup>[2]</sup>](#Note2) [<sup>[3]</sup>](#Note3)
 
+![First](Images/DailyRoutine/Cancel6PM/1.PNG)
+![Second](Images/DailyRoutine/Cancel6PM/2.PNG)
+
 ### Registeration Cards
   - *Reservations* > *Registeration Cards* > *Under Reservation Types Check*
     - *Individuals*
