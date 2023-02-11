@@ -161,7 +161,7 @@
     - **Manager Flash**
     - **Revenue By Transaction Codes Net = Revenue of The Day Net**
     - **Negative Posting by Transaction Code = Non Revenue by Transaction Code**
-    - ##### **No Show**
+    - #### **No Show**
     - **Complimentary Rooms In House**
     - **Non Revenue by Transaction Codes = Non Revenue / Paidout of the Day**
     - **Credit Limit Report**
