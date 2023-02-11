@@ -228,8 +228,8 @@
 #### Housekeeping List 
    - *Miscellaneous* > *Reports* > *Report* > **15.023c** > *Search* > *in Report Name double click HSK Traces INH/Arrivals/Due Outs* > *Print*
    - **List of Room Moves**  
-     - *Miscellaneous* > ** *Reports* > *Report* > ***15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
-     - *Miscellaneous* > ** *Reports* > *Report* > ***16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print* 
+     - *Miscellaneous* > ** *Reports* > *Report* > **15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
+     - *Miscellaneous* > ** *Reports* > *Report* > **16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print* 
   - **Housekeeping Management Report**
     - **HSK Mgmt Report**
       - *Rooms Management* > *Housekeeping* > *Housekeeping Mgmt.* > *Report*
