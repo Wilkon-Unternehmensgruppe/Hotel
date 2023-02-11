@@ -104,22 +104,23 @@
      - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
 #### Credit Cards Reports
 ##### Journal By Creditcards
-   - *Miscellaneous* > *Reports* > *Report* > *type*Journal By Creditcards**#journal-by-creditcards* > *in Report Name double click* 
-         - **Amex** > *Print*
-         - **Mastercard** > *Print*
-         - **Visa** > *Print*
-         - **Cash** > *Print*
-         - **VPay** > *Print*
-         - **Wire Transfer** > *Print*
-         - **Maestro** > *Print*
-         - **City Ledger**
-             - *in Transaction Codes* > *type*
-               - **952000,953000** > *Print*
-               - **952100,953100** > *Print*
-               - **952200,953200** > *Print*
-               - **800000** > *Print*
-               - **940000,940500,941000,941100** > *Print*
-               - **930000** > *Print*
+   - *Miscellaneous* > *Reports* > *Report* > *type* 
+      - **425_12.029** > *Search* > *in Report Name double click* 
+          - **Amex** > *Print*
+          - **Mastercard** > *Print*
+          - **Visa** > *Print*
+          - **Cash** > *Print*
+          - **VPay** > *Print*
+          - **Wire Transfer** > *Print*
+          - **Maestro** > *Print*
+          - **City Ledger**
+              - *in Transaction Codes* > *type*
+                 - **952000,953000** > *Print*
+                 - **952100,953100** > *Print*
+                 - **952200,953200** > *Print*
+                 - **800000** > *Print*
+                 - **940000,940500,941000,941100** > *Print*
+                 - **930000** > *Print*
 #### Count Physical Cash
    - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash[<sup>[6]</sup>](#Note6) [<sup>[7]</sup>](#Note7)
 #### Cashier Shift Closure
