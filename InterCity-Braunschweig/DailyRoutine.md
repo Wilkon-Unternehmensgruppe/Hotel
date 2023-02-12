@@ -336,7 +336,7 @@
 
 ### Event List *For FO***
    - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click Event Listing Detailed* > *Under Date Type*
-        - *Enter Today's Date , Relly Today's Date not from shift work* > *Print
+        - *Enter Today's Date , Really Today's Date not from shift work* > *Print
     
 ![First](Images/DailyRoutine/Example/1.PNG)
 ![First](Images/DailyRoutine/EventList/1.PNG)
