@@ -328,6 +328,11 @@
    - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click FO Traces INH/Arrivals/Due Outs/PM* > *Print
 
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/TracesFO/1.PNG)
+![Second](Images/DailyRoutine/TracesFO/2.PNG)
+![Third](Images/DailyRoutine/TracesFO/3.PNG)
+
+<a href="#top">Back to top</a>
 
 ### Event List *For FO***
    - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click Event Listing Detailed* > *Under Date Type*
