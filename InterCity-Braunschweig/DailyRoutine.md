@@ -3,6 +3,7 @@
    - [Breakfast List *Kitchen*](#breakfast-list-kitchen)
    - [Extending PM Night's](#extending-pm-nights)
    - [Canceling 6pm Guests](#canceling-6pm-guests)
+   - [Registeration Cards](#registeration-cards)
 - [Preparation End Of Day](#preparation-end-of-day)
   - [Note down ALL *No Show* Guests](#note-down-all-no-show-guests)
   - [Reports](#reports)
