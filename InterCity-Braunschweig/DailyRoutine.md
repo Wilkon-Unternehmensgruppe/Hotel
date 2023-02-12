@@ -366,6 +366,8 @@
 
 ![First](Images/DailyRoutine/Example/1.PNG)
 
+<a href="#top">Back to top</a>
+
   - **Housekeeping Task Assignment**
     - *click Rooms Management* > *click Housekeeping* > *click Task Assignment* > *click Auto* > *click Ok* > *click Report* > *click Print*
 
