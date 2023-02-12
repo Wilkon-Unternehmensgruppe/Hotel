@@ -101,9 +101,9 @@
 ![Second](Images/DailyRoutine/Kiosk/2.PNG)
 ![Third](Images/DailyRoutine/Kiosk/3.PNG)
 ![Fourth](Images/DailyRoutine/Kiosk/4.PNG)
-![Fifth](Images/DailyRoutine/Kiosk/1.PNG)
-![Sixth](Images/DailyRoutine/Kiosk/2.PNG)
-![Seventh](Images/DailyRoutine/Kiosk/3.PNG)
+![Fifth](Images/DailyRoutine/Kiosk/5.PNG)
+![Sixth](Images/DailyRoutine/Kiosk/6.PNG)
+![Seventh](Images/DailyRoutine/Kiosk/7.PNG)
 #### Upgrade Reason
    - *Miscellaneous* > *Reports* > *Report* > **24.053a** > *In Report Name double click Upgrade Reason* > *Print
 
