@@ -228,9 +228,14 @@
      - **425202** > *Print*
      - **425203** > *Print*
 
-<a href="#top">Back to top</>
-
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/NegativePostingByCashier/1.PNG)
+![Second](Images/DailyRoutine/NegativePostingByCashier/2.PNG)
+![Third](Images/DailyRoutine/NegativePostingByCashier/3.PNG)
+![Fourth](Images/DailyRoutine/NegativePostingByCashier/4.PNG)
+![Fifth](Images/DailyRoutine/NegativePostingByCashier/5.PNG)
+![Sixth](Images/DailyRoutine/NegativePostingByCashier/6.PNG)
+<a href="#top">Back to top</a>
 
   ## End Of Day
   - *End Of Day* > *Night Audit* > *click Login* > *click Start* > *click Close* > *click Close* > *End of Day Routine is now Completed* > *click OK*
