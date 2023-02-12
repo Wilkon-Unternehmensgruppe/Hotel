@@ -314,6 +314,15 @@
    - *Miscellaneous* > *Reports* > *Report* > **15.033g** > *Search* > *in Report Name double click* **Breakfast List by Room ab 01.07.2020** > *arrow down In Packages* > *click All* > *Click Ok* > *Click Ok for Please note: A large number of codes have been selected!* > *Print*
 
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/Breakfast/1.PNG)
+![Second](Images/DailyRoutine/Breakfast/2.PNG)
+![Third](Images/DailyRoutine/Breakfast/3.PNG)
+![Fourth](Images/DailyRoutine/Breakfast/4.PNG)
+![Fifth](Images/DailyRoutine/Breakfast/5.PNG)
+![Sixth](Images/DailyRoutine/Breakfast/6.PNG)
+![Seventh](Images/DailyRoutine/Breakfast/7.PNG)
+
+<a href="#top">Back to top</a>
 
 ### Traces FO Status *For FO*
    - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click FO Traces INH/Arrivals/Due Outs/PM* > *Print
