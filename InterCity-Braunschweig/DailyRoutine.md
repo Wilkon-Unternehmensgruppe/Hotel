@@ -339,6 +339,13 @@
         - *Enter Today's Date , Relly Today's Date not from shift work* > *Print
     
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/EventList/1.PNG)
+![Second](Images/DailyRoutine/EventList/2.PNG)
+![Third](Images/DailyRoutine/EventList/3.PNG)
+![Fourth](Images/DailyRoutine/EventList/4.PNG)
+![Fifth](Images/DailyRoutine/EventList/5.PNG)
+
+<a href="#top">Back to top</a>
 
 ### From 6 O'Clock
 #### Housekeeping Reports
