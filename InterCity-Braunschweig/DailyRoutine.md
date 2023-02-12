@@ -118,7 +118,18 @@
 
 #### Closing Account 9999 *Restaurant*
    - *Cashiering* > *Billing* > *type log In Data* > *search Room 9999* > *double click Room 9999* > *click Check out* > *click Ok*
+
+![First](Images/DailyRoutine/9999/1.PNG)
+![Second](Images/DailyRoutine/9999/2.PNG)
+![Third](Images/DailyRoutine/9999/3.PNG)
+![Fourth](Images/DailyRoutine/9999/4.PNG)
+![Fifth](Images/DailyRoutine/9999/5.PNG)
+![Sixth](Images/DailyRoutine/9999/6.PNG)
+![Seventh](Images/DailyRoutine/9999/7.PNG)
 <!-- 2 WINDOWS IN 9999 CLICK YES TO PRRINT SECOND WINDOW , USUALLY IT STARTS PRINTING FROM THE WINDOWN YOU ARE ON !-->
+
+<a href="#top">Back to top</a>
+
 #### User Activity Log
    - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log (Void Folio)* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
 
