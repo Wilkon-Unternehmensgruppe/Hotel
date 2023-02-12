@@ -199,6 +199,11 @@
      - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click Journal by Manual Credit Cards* > *Print*
 
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/JournalByManualCreditCards/1.PNG)
+![Second](Images/DailyRoutine/JournalByManualCreditCards/2.PNG)
+![Third](Images/DailyRoutine/JournalByManualCreditCards/3.PNG)
+
+<a href="#top">Back to top</a>
 
 #### Excel Table & Credit Card Control
    - One Click Excel Icon in Desktop > Double Click CC Kontrolle
