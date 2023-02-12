@@ -98,9 +98,9 @@
 ![First](Images/DailyRoutine/Example/1.PNG)
 
 #### Upgrade Reason
-   - *Miscellaneous* > *Reports* > *Report* > **24.053a** > *In Report Name double click Upgrade Reason* > *Print*
+   - *Miscellaneous* > *Reports* > *Report* > **24.053a** > *In Report Name double click Upgrade Reason* > *Print
 
-   ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/Example/1.PNG)
 
 #### Closing Account 9999 *Restaurant*
    - *Cashiering* > *Billing* > *type log In Data* > *search Room 9999* > *double click Room 9999* > *click Check out* > *click Ok*
@@ -108,33 +108,33 @@
 #### User Activity Log
    - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log (Void Folio)* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
 
-   ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/Example/1.PNG)
 
 #### Credit Cards Reports
 ##### Journal By Creditcards
    - *Miscellaneous* > *Reports* > *Report* > *type* 
+      - **425_12.029** > *Search* > *in Report Name double click* 
+          - **Journal by Cashier Amex** > *Print*
+          - **Journal by Cashier Mastercard** > *Print*
+          - **Journal by Cashier Visa** > *Print*
+          - **Journal by Cashier Cash** > *Print*
+          - **Journal by Cashier VPay** > *Print*
+          - **Journal by Cashier Wire Transfer** > *Print*
+          - **Journal by Cashier Maestro** > *Print*
+          - **Journal by Cashier Diners** > *Print*
+          - **Journal by Cashier JCB** > *Print*
+          - **Journal by Cashier Chinese Union** > *Print*
+          - *Double Click on Journal by Cashier -* **City Ledger**
+             - *in Transaction Codes* > *type accordingly to each step*
+                - **952000,953000** > *Print*
+                - **952100,953100** > *Print*
+                - **952200,953200** > *Print*
+                - **800000** > *Print*
+                - **940000,940500,941000,941100** > *Print*
+                - **930000** > *Print
+            
+![First](Images/DailyRoutine/Example/1.PNG)
 
-   ![First](Images/DailyRoutine/Example/1.PNG)
-
-    - **425_12.029** > *Search* > *in Report Name double click* 
-        - **Journal by Cashier Amex** > *Print*
-        - **Journal by Cashier Mastercard** > *Print*
-        - **Journal by Cashier Visa** > *Print*
-        - **Journal by Cashier Cash** > *Print*
-        - **Journal by Cashier VPay** > *Print*
-        - **Journal by Cashier Wire Transfer** > *Print*
-        - **Journal by Cashier Maestro** > *Print*
-        - **Journal by Cashier Diners** > *Print*
-        - **Journal by Cashier JCB** > *Print*
-        - **Journal by Cashier Chinese Union** > *Print*
-        - *Double Click on Journal by Cashier -* **City Ledger**
-           - *in Transaction Codes* > *type accordingly to each step*
-              - **952000,953000** > *Print*
-              - **952100,953100** > *Print*
-              - **952200,953200** > *Print*
-              - **800000** > *Print*
-              - **940000,940500,941000,941100** > *Print*
-              - **930000** > *Print*
 #### Count Physical Cash
    - Count Physical Cash *in Front Desk* , and Use Excel Table to fill Cash[<sup>[6]</sup>](#Note6) [<sup>[7]</sup>](#Note7)
 #### Cashier Shift Closure
@@ -143,7 +143,7 @@
    - ##### **Journal by Manual Credit Cards**
      - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click Journal by Manual Credit Cards* > *Print*
 
-     ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/Example/1.PNG)
 
 #### Excel Table & Credit Card Control
    - One Click Excel Icon in Desktop > Double Click CC Kontrolle
@@ -155,7 +155,7 @@
 #### Negative Posting
    - *Miscellaneous* > *Reports* > **12.029f** > *Search* > *in Report Name double click Negative Postings* > *Print*
 
-   ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/Example/1.PNG)
 
 #### Negative Posting by Cashier
    - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click Negative Postings by Cashier* > *in Cashier ID* > *type accordingly to each step* 
@@ -163,7 +163,7 @@
      - **425202** > *Print*
      - **425203** > *Print*
 
-<a href="#top">Back to top</a>
+<a href="#top">Back to top</
 
 ![First](Images/DailyRoutine/Example/1.PNG)
 
@@ -243,33 +243,33 @@
 ### Breakfast List for Service
    - *Miscellaneous* > *Reports* > *Report* > **15.033g** > *Search* > *in Report Name double click* **Breakfast List by Room ab 01.07.2020** > *arrow down In Packages* > *click All* > *Click Ok* > *Click Ok for Please note: A large number of codes have been selected!* > *Print*
 
-   ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/Example/1.PNG)
 
 ### Traces FO Status *For FO*
-   - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click FO Traces INH/Arrivals/Due Outs/PM* > *Print*
+   - *Miscellaneous* > *Reports* > *Report* > **15.023e** > *Search* > *in Report Name double click FO Traces INH/Arrivals/Due Outs/PM* > *Print
 
 ![First](Images/DailyRoutine/Example/1.PNG)
 
 ### Event List *For FO***
    - *Miscellaneous* > *Reports* > *Report* > **11.005** > *Search* > *in Report Name double click Event Listing Detailed* > *Under Date Type*
-        - *Enter Today's Date , Relly Today's Date not from shift work* > *Print*
-
+        - *Enter Today's Date , Relly Today's Date not from shift work* > *Print
+    
 ![First](Images/DailyRoutine/Example/1.PNG)
 
 ### From 6 O'Clock
 #### Housekeeping Reports
    - *Miscellaneous* > *Reports* > *Report* > **15.023c** > *Search* > *in Report Name double click HSK Traces INH/Arrivals/Due Outs* > *Print*
 
-   ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/Example/1.PNG)
 
    - **List of Room Moves**  
      - *Miscellaneous* > ** *Reports* > *Report* > **15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
-     - *Miscellaneous* > ** *Reports* > *Report* > **16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print* 
-
+     - *Miscellaneous* > ** *Reports* > *Report* > **16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print*
+  
 ![First](Images/DailyRoutine/Example/1.PNG)
 
   - **Housekeeping Management Report**
-    - *click Rooms Management* > *click Housekeeping* > *click Housekeeping Mgmt.* > *click Report* > *click Print*
+    - *click Rooms Management* > *click Housekeeping* > *click Housekeeping Mgmt.* > *click Report* > *click Print
 
 ![First](Images/DailyRoutine/Example/1.PNG)
 
