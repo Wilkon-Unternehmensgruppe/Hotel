@@ -97,7 +97,13 @@
    - *Miscellaneous* > *Reports* > *Report* > **12.029b** > *Search* > *in Report Name double click Journal By Cashier and Creditcards* > *Under Transaction Code Arrow down* > *In Description* > *type %KIOSK* > *Search* > *click All*  > *click OK* > *Print*
 
 ![First](Images/DailyRoutine/Example/1.PNG)
-
+![First](Images/DailyRoutine/Kiosk/1.PNG)
+![Second](Images/DailyRoutine/Kiosk/2.PNG)
+![Third](Images/DailyRoutine/Kiosk/3.PNG)
+![Fourth](Images/DailyRoutine/Kiosk/4.PNG)
+![Fifth](Images/DailyRoutine/Kiosk/1.PNG)
+![Sixth](Images/DailyRoutine/Kiosk/2.PNG)
+![Seventh](Images/DailyRoutine/Kiosk/3.PNG)
 #### Upgrade Reason
    - *Miscellaneous* > *Reports* > *Report* > **24.053a** > *In Report Name double click Upgrade Reason* > *Print
 
