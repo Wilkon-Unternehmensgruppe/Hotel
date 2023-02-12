@@ -134,6 +134,14 @@
    - *Miscellaneous* > *Reports* > *Report* > **12.048** > *Search* > *in Report Name double click User Activity Log (Void Folio)* > *in first date type yesterday's Date -1* > *in second date type yesterdays's Date -1* > *Print*
 
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/UserActivityLog/1.PNG)
+![Second](Images/DailyRoutine/UserActivityLog/2.PNG)
+![Third](Images/DailyRoutine/UserActivityLog/3.PNG)
+![Fourth](Images/DailyRoutine/UserActivityLog/4.PNG)
+![Fifth](Images/DailyRoutine/UserActivityLog/5.PNG)
+![Sixth](Images/DailyRoutine/UserActivityLog/6.PNG)
+
+<a href="#top">Back to top</a>
 
 #### Credit Cards Reports
 ##### Journal By Creditcards
@@ -188,7 +196,7 @@
      - **425202** > *Print*
      - **425203** > *Print*
 
-<a href="#top">Back to top</
+<a href="#top">Back to top</>
 
 ![First](Images/DailyRoutine/Example/1.PNG)
 
