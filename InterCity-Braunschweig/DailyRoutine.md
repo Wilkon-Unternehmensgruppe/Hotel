@@ -277,10 +277,10 @@
   - **Housekeeping Task Assignment**
     - *click Rooms Management* > *click Housekeeping* > *click Task Assignment* > *click Auto* > *click Ok* > *click Report* > *click Print*
 
-<a href="#top">Back to top</a>
 
 ![First](Images/DailyRoutine/Example/1.PNG)
 
+<a href="#top">Back to top</a>
 ---
 <span id="Note1">[1]</span> same above-mentioned step for Each PM
 
