@@ -216,6 +216,11 @@
    - *Miscellaneous* > *Reports* > **12.029f** > *Search* > *in Report Name double click Negative Postings* > *Print*
 
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/NegativePosting/1.PNG)
+![Second](Images/DailyRoutine/NegativePosting/2.PNG)
+![Third](Images/DailyRoutine/NegativePosting/3.PNG)
+
+<a href="#top">Back to top</a>
 
 #### Negative Posting by Cashier
    - *Miscellaneous* > *Reports* > *Report* > **12.031** > *Search* > *in Report Name double click Negative Postings by Cashier* > *in Cashier ID* > *type accordingly to each step* 
