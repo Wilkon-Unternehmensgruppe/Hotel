@@ -353,6 +353,8 @@
 
 ![First](Images/DailyRoutine/Example/1.PNG)
 
+<a href="#top">Back to top</a>
+
    - **List of Room Moves**  
      - *Miscellaneous* > ** *Reports* > *Report* > **15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
      - *Miscellaneous* > ** *Reports* > *Report* > **16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print*
