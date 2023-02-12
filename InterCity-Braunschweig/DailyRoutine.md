@@ -104,10 +104,17 @@
 ![Fifth](Images/DailyRoutine/Kiosk/5.PNG)
 ![Sixth](Images/DailyRoutine/Kiosk/6.PNG)
 ![Seventh](Images/DailyRoutine/Kiosk/7.PNG)
+
+<a href="#top">Back to top</a>
+
 #### Upgrade Reason
    - *Miscellaneous* > *Reports* > *Report* > **24.053a** > *In Report Name double click Upgrade Reason* > *Print
 
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/UpgradeReason/1.PNG)
+![Second](Images/DailyRoutine/UpgradeReason/2.PNG)
+
+<a href="#top">Back to top</a>
 
 #### Closing Account 9999 *Restaurant*
    - *Cashiering* > *Billing* > *type log In Data* > *search Room 9999* > *double click Room 9999* > *click Check out* > *click Ok*
