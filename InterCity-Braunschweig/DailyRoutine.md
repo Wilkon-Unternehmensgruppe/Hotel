@@ -381,6 +381,10 @@
       - *click Rooms Management* > *click Housekeeping* > *click Housekeeping Mgmt.* > *click Report* > *click Print
 
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/HousekeepingManagementReport/1.PNG)
+![Second](Images/DailyRoutine/HousekeepingManagementReport/2.PNG)
+![Third](Images/DailyRoutine/HousekeepingManagementReport/3.PNG)
+![Fourth](Images/DailyRoutine/HousekeepingManagementReport/4.PNG)
 
 <a href="#top">Back to top</a>
 
@@ -389,7 +393,10 @@
 
 
 ![First](Images/DailyRoutine/Example/1.PNG)
-
+![First](Images/DailyRoutine/HousekeepingAssignment/1.PNG)
+![Second](Images/DailyRoutine/HousekeepingAssignment/2.PNG)
+![Third](Images/DailyRoutine/HousekeepingAssignment/3.PNG)
+![Fourth](Images/DailyRoutine/HousekeepingAssignment/4.PNG)
 <a href="#top">Back to top</a>
 ---
 <span id="Note1">[1]</span> same above-mentioned step for Each PM
