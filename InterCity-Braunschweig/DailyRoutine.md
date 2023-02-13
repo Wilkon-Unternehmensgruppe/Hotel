@@ -362,10 +362,17 @@
      - *Miscellaneous* > ** *Reports* > *Report* > **15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
 
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/15.031/1.PNG)
+![Second](Images/DailyRoutine/15.031/2.PNG)
+![Third](Images/DailyRoutine/15.031/3.PNG)
 
-     - *Miscellaneous* > ** *Reports* > *Report* > **16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print*
+<a href="#top">Back to top</a>
+
+   - *Miscellaneous* > ** *Reports* > *Report* > **16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print*
   
 ![First](Images/DailyRoutine/Example/1.PNG)
+
+<a href="#top">Back to top</a>
 
   - **Housekeeping Management Report**
       - *click Rooms Management* > *click Housekeeping* > *click Housekeeping Mgmt.* > *click Report* > *click Print
@@ -379,6 +386,7 @@
 
 
 ![First](Images/DailyRoutine/Example/1.PNG)
+
 <a href="#top">Back to top</a>
 ---
 <span id="Note1">[1]</span> same above-mentioned step for Each PM
