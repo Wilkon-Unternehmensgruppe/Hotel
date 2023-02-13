@@ -352,11 +352,17 @@
    - *Miscellaneous* > *Reports* > *Report* > **15.023c** > *Search* > *in Report Name double click HSK Traces INH/Arrivals/Due Outs* > *Print*
 
 ![First](Images/DailyRoutine/Example/1.PNG)
+![First](Images/DailyRoutine/Housekeeping/1.PNG)
+![Second](Images/DailyRoutine/Housekeeping/2.PNG)
+![Third](Images/DailyRoutine/Housekeeping/3.PNG)
 
 <a href="#top">Back to top</a>
 
    - **List of Room Moves**  
      - *Miscellaneous* > ** *Reports* > *Report* > **15.031** > *Search* > *in Report Name double click Room Moves* > *Print*
+
+![First](Images/DailyRoutine/Example/1.PNG)
+
      - *Miscellaneous* > ** *Reports* > *Report* > **16.005** > *click* Search > *in Report Name double click Housekeeping VIP'S By Room No.* > *Print*
   
 ![First](Images/DailyRoutine/Example/1.PNG)
@@ -373,7 +379,6 @@
 
 
 ![First](Images/DailyRoutine/Example/1.PNG)
-hI
 <a href="#top">Back to top</a>
 ---
 <span id="Note1">[1]</span> same above-mentioned step for Each PM
