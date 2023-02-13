@@ -368,14 +368,14 @@
 ![First](Images/DailyRoutine/Example/1.PNG)
 
   - **Housekeeping Management Report**
-    - *click Rooms Management* > *click Housekeeping* > *click Housekeeping Mgmt.* > *click Report* > *click Print
+      - *click Rooms Management* > *click Housekeeping* > *click Housekeeping Mgmt.* > *click Report* > *click Print
 
 ![First](Images/DailyRoutine/Example/1.PNG)
 
 <a href="#top">Back to top</a>
 
   - **Housekeeping Task Assignment**
-    - *click Rooms Management* > *click Housekeeping* > *click Task Assignment* > *click Auto* > *click Ok* > *click Report* > *click Print*
+      - *click Rooms Management* > *click Housekeeping* > *click Task Assignment* > *click Auto* > *click Ok* > *click Report* > *click Print*
 
 
 ![First](Images/DailyRoutine/Example/1.PNG)
