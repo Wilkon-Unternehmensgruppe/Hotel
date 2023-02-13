@@ -380,7 +380,6 @@
   - **Housekeeping Management Report**
       - *click Rooms Management* > *click Housekeeping* > *click Housekeeping Mgmt.* > *click Report* > *click Print
 
-![First](Images/DailyRoutine/Example/1.PNG)
 ![First](Images/DailyRoutine/HousekeepingManagementReport/1.PNG)
 ![Second](Images/DailyRoutine/HousekeepingManagementReport/2.PNG)
 ![Third](Images/DailyRoutine/HousekeepingManagementReport/3.PNG)
@@ -391,8 +390,6 @@
   - **Housekeeping Task Assignment**
       - *click Rooms Management* > *click Housekeeping* > *click Task Assignment* > *click Auto* > *click Ok* > *click Report* > *click Print*
 
-
-![First](Images/DailyRoutine/Example/1.PNG)
 ![First](Images/DailyRoutine/HousekeepingAssignment/1.PNG)
 ![Second](Images/DailyRoutine/HousekeepingAssignment/2.PNG)
 ![Third](Images/DailyRoutine/HousekeepingAssignment/3.PNG)
