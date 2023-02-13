@@ -390,10 +390,11 @@
   - **Housekeeping Task Assignment**
       - *click Rooms Management* > *click Housekeeping* > *click Task Assignment* > *click Auto* > *click Ok* > *click Report* > *click Print*
 
-![First](Images/DailyRoutine/HousekeepingAssignment/1.PNG)
-![Second](Images/DailyRoutine/HousekeepingAssignment/2.PNG)
-![Third](Images/DailyRoutine/HousekeepingAssignment/3.PNG)
-![Fourth](Images/DailyRoutine/HousekeepingAssignment/4.PNG)
+![First](Images/DailyRoutine/HSKAssign/1.PNG)
+![Second](Images/DailyRoutine/HSKAssign/2.PNG)
+![Third](Images/DailyRoutine/HSKAssign/3.PNG)
+![Fourth](Images/DailyRoutine/HSKAssign/4.PNG)
+
 <a href="#top">Back to top</a>
 ---
 <span id="Note1">[1]</span> same above-mentioned step for Each PM
