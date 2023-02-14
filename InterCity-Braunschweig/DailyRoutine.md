@@ -212,13 +212,19 @@
 
 <a href="#top">Back to top</a>
 
-#### Excel Table & Credit Card Control
-   - One Click Excel Icon in Desktop > Double Click CC Kontrolle
-   - **X-Bericht & Z-Bericht & CC-Terminal Reciept**
+#### Excel Table & Credit Card Control & Journal By Manual Credit Cards
    - ##### **CC-Terminal Reciept**
      - Go to the Bar and Pull out Reciept from the small Terminal
-   - **X-Report & Z-Report**
+   - ##### Excel Tabel CC Kontrolle
+     - *This PC* > *Documents* > *Nighty* > *Vorlage CC Kontrolle*
+
+![First](Images/DailyRoutine/CCKontrolle/1.PNG)
+
+   - ##### **X-Report & Z-Report**
      - Go to the Bar and Pull out Reciept form the IPAD
+
+<a href="#top">Back to top</a>
+
 #### Negative Posting
    - *Miscellaneous* > *Reports* > **12.029f** > *Search* > *in Report Name double click Negative Postings* > *Print*
 
