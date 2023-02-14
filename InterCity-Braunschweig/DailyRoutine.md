@@ -16,7 +16,7 @@
     - [Count Physical Cash](#count-physical-cash)
     - [Cashier Shift Closure](#cashier-shift-closure)
     - [Journal By Manual Credit Cards](#journal-by-manual-credit-cards)
-    - [Excel Table \& Credit Card Control](#excel-table--credit-card-control)
+    - [Excel Table & Credit Card Control & Journal By Manual Credit Cards](#excel-table--credit-card-control--journal-by-manual-credit-cards)
     - [Negative Posting](#negative-posting)
     - [Negative Posting by Cashier](#negative-posting-by-cashier)
 - [End Of Day](#end-of-day)
