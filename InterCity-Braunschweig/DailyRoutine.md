@@ -192,6 +192,8 @@
 
 #### Count Physical Cash
    - Count Physical Cash *in Front Desk* , and Use *Down shown*Excel Table to fill Cash[<sup>[6]</sup>](#Note6) [<sup>[7]</sup>](#Note7)
+      - Location of Cash Count File 
+        - *This PC* > *Documents* > *Nighty* > *Cash-Count neu*
 
 ![First](Images/DailyRoutine/CountPhysicalCash/1.PNG)
 
