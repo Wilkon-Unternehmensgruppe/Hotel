@@ -17,6 +17,9 @@
     - [Cashier Shift Closure](#cashier-shift-closure)
     - [Journal By Manual Credit Cards](#journal-by-manual-credit-cards)
     - [Excel Table & Credit Card Control & Journal By Manual Credit Cards](#excel-table--credit-card-control--journal-by-manual-credit-cards)
+       - [CC-Terminal Reciept](#cc-terminal-reciept)
+       - [Excel Table CC Kontrolle](#excel-tabel-cc-kontrolle)
+       - [X-Report & Z-Report](#x-report--z-report)
     - [Negative Posting](#negative-posting)
     - [Negative Posting by Cashier](#negative-posting-by-cashier)
 - [End Of Day](#end-of-day)
@@ -202,7 +205,7 @@
 #### Cashier Shift Closure
    - *Cashiering* > *Cashier Shift Functions* > *Cashier Shift Close* > *Cashier Log In* > *click OK* > *click OK* > *Please verify your cash drop before closing.Is it correct?* > *click Yes* > *Cashier Closed!* > *click OK*[<sup>[8]</sup>](#Note8)
 #### Journal By Manual Credit Cards 
-   - ##### **Journal by Manual Credit Cards**
+   - **Journal by Manual Credit Cards**
      - *Miscellaneous* > *Reports* > *Report* > **12.029j** > *Search* > *in Report Name double click Journal by Manual Credit Cards* > *Print*
 
 ![First](Images/DailyRoutine/Example/1.PNG)
