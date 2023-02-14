@@ -150,13 +150,13 @@
           - **Journal by Cashier Amex** > *Print*
           - **Journal by Cashier Mastercard** > *Print*
           - **Journal by Cashier Visa** > *Print*
+          - **Journal by Cashier Diners** > *Print*
           - **Journal by Cashier Cash** > *Print*
+          - **Journal by Cashier JCB** > *Print*
           - **Journal by Cashier VPay** > *Print*
+          - **Journal by Cashier Chinese Union** > *Print*
           - **Journal by Cashier Wire Transfer** > *Print*
           - **Journal by Cashier Maestro** > *Print*
-          - **Journal by Cashier Diners** > *Print*
-          - **Journal by Cashier JCB** > *Print*
-          - **Journal by Cashier Chinese Union** > *Print*
           - *Double Click on Journal by Cashier -* **City Ledger**
              - *in Transaction Codes* > *type accordingly to each step*
                 - **952000,953000** > *Print*
