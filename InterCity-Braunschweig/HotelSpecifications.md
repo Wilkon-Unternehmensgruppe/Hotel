@@ -6,15 +6,20 @@
 - [Checkk Out](#check-out)
    - [Note](#note)
 - [In House Guest](#in-house-guest)
-   - [Note](#note)
+   - [Charges of a Room on another](#putting-charges-of-other-rooms-on-a-specific-room)
+   - [Breakfast](#breakfast)
+   - [Pets](#pets)
+   - [Green Option with it's Trace](#setting-green-option-with-its-trace)
+   - [Setting Traces](#setting-traces)
+   - [Setting Alerts](#setting-alerts)
+   - [Post](#post)
+   - [Setting Memberships](#setting-memberships)
 - [Payment Methond](#payment-methods)
    - [Formulate Bill](#formulate-bills-rechnung-erstellen)
       - [Note](#note)
    - [Note](#note)
 - [Reservation](#reservation)
    - [Note](#note)
- 
- 
 
 ## Bar
 - **Verbuchen von Gutscheine**
@@ -22,7 +27,7 @@
       - *Bestellen* > *Bezahlen* > *Rabatt* > *Green Option 5 Euro* > *Bar* > *Cash* 
 - Uncheck *No Post in Opera* **ONLY** for Guests with CC , Then *Auf zimmer buchen*
   - *Bedeutet* mann schreibt auf's Zimmer nur wenn eine hinterlegte CC da ist.
-### Note
+#### Note
 - Rechnungen auf's Zimmer **IMMER** kopieren und in Meldeschein rein .
 - Rechnungen auf's Zimmer , Es muss folgende Daten drauf sein : 
   - Name des Gastes . 
@@ -30,29 +35,24 @@
   - Unterschift des Gastes 
 - *Nicht genutzter Wert des Gutscheins verfällt,Übersteigt der Gesamtwert der Bestellung den Wert des Gutscheins, wird dies noch Cash o.ä verbucht .*
 
-
-
 ## Check In
 - If No Show remains *More than One Night* , then we have to post the First Night *More than One Night means that the Nights in Reservation Mask is **NOT** Zero*
   - *Cashiering* > *billing*  > *Be Please On the Right window* > *Post* > *Room Revenue 7%* > *Ok*
+    - *When a Guest reserved E.g for 19 and Checks out on 20 , but Doesn't Show on 19 and comes On 20 then we have to set the Nights to Zero and we don't post the night of 19 , but if Guest reserved E.g for 19 and checks out on 21 , We make sure that the night is set correctly which One night in this case and we have to post the night of 19*
 - **Check-In A block of Group or a Group**
      - *Reservations* > *Blocks* > *Search Group* > *Double Click On found Group* > *Group Opt.* > *Check-In Group*
-### Note
+#### Note
 - *Blue in Package* means Inclusive Breakfast
 - Depo Betrag in Minus einfach einchecken
 - for the *Issue* UDFCO3 can NOT be NULL just Type ROT *On Third field von Room Type*
 - *By Agent : Berge & Meer Touristen* Take Zettel(Voucher) from Guest and Put it in the Registeration Card
 
-
-
 ## Check Out
-### Note
+#### Note
 - Selfpayer & Depo have to be checked out
   - *Cashiering* > *Billing*> *be on the Right window* > *Check out* 
 - Erstmal TA und dann Auschecken ??? 
 
-
- 
 ## In House Guest
 - **For Accompany Person *do not* cut new Key rather**
   - *Options* > *Key* > *Cut Duplicate*  Otherwise all Key cards will be blocked
@@ -63,39 +63,54 @@
          - *Search Room* > *Options* > *Traces* > *Type Department Code : FO and HSK* > *in Trace Text type that the person has changed from room to Room*
      - **Set Old room as Dirty for the Housekeeping** 
          - *Rooms Management* > *Housekeeping* > *Housekeeping Management* > *Type Room Nr.* > *Search Room* > *set Room to Dirty*
-- **Putting charges of other rooms on a specific room**
+- ### **Putting charges of other rooms on a specific room**
   - **Before End Of Day** 
     - *Search Room that its person NOT going to pay* > *Options* > *Routing* > *Room **NOT WINDOW*** > *Route to Room* > *Ok* > *choose Room and the Transactions*  > *Choose all or Transactions depending on*
   - **After End Of Day**
     - *Cashiering* > *Billing* > *Search Room* > *Double Click* > *Right Click on Window Payment* > *Transfer Transaction* > *To Room* > *Choose Room*
-- **Breakfast**
+- ### **Breakfast**
   - **Before End Of Day** 
-    - einfach unter Packages of the Profile
+    - *Search Room* > *double Click on Room Or name of Guest* > *arrow down Packages* > *New* > *arrow down Package* > *choose **GSAB1000** Breakfast Full Price add 17.00* > *Ok* > **
   - **After End Of Day** 
     - *Cashiering* > *Billing* > *Search Room* > *Double Click* > *Post* > *Answer YES for 113 has no post flag on , Do you want to post anywhere ?*  >  *Code and choose what you want*  > *under amount , put the amount*  > *post* 
       - *If Guest wants a Receipt then Click the Window where the Breakfast ist Posted* > *Settlement*
       - *If he just would like to pay* > *Payment*
-- **Pets**
+- ### **Pets**
   - **Before End Of Day**
     - *Search Room* > *One Click on Room or Name* > *Options* > *Fixed Charges* > *Choose Once if its for One Time or Daily for the Whole Stay* > *Trn. Code* > *Amount is 15 Euro* > *Ok* > *Close* > *Double Click on the Name or the Room to go To Reservation Mask* > *Item Inv. Arrow Down* > *New* > *Item Code* > *Choose Dog Bowl* > *Ok* > *Ok* > *and Start Creating a Trace for it , Opera will ask you for creating a Trace*
   - **After End Of Day**
     - *Same Scenario as Breakfast after End Of Day*
- - To give Green Option *OR* to set a trace of it :  we don't Consider Arrival Date and Departure Date, and we ask the guest how many day's he doesn't want his room not to be cleaned and according to the amount of days he says we give an amount of Green Option .
-    - By setting a trace Reservation Mask ↓ Item Inv ↓ New ↓ Item Code ↓ GO ↓ OK ↓ OK
-      - and When you Click Save and Ok in the Main Reservation Mask , then come the Question *Inventory item GO has trace text attached. Create Trace?* ↓ Yes ↓ From Date: The First Day that the Room should not be cleaned ↓ To Date The last Day that the room should not be cleaned ↓ Ok .
-  - We don't Reinstate NO SHOWS to avoid paying many **No Show Fees** .
-  - **Traces** Setzen :
-    - Late Check out ( Immer egal ob bevor oder nach TA )
-    - Go 
-    - Nacht verlaengern ( bleiber ) 
-    - KU > under kostenuebernahmne Papers in KU FOLDER , you will fin something like **bitte senden Sie die rechnung an der email** , we have to take the KU paper and search for the gest in the In house Guest and set a trace to FO , and write down the Email address found in the paper .
-  - **Alert** Setzen 
-    - for information like **Bitte an HRewards Anmeldung Erinnern** , you will find that in the comments of the guest , and for that you have to set an alert !
-      - Name of Guest > Options > Alert > Code : Gen > Area : Check out > Description : Bitte an HRewards Anmeldung erinnern > Ok > Ok .
-  - **Post (Buchung)**
-      - Post is da damit alles auf der Rechnung steht und rauskommt .
-  - **Set a Membership for HRwards**
-      - Profile ↓ Options ↓ Membership .
+- ### **Setting Green Option with It's Trace**  
+  - *we don't Consider Arrival Date and Departure Date and Maximum Givin Green Option are 3 no Matter how long the stay*
+    - *In the Reservation Mask* > *Item Inv. Arrow Down* > *New* > *Item Code* > *GO* > *Ok*
+      - *After Clicking Save and Ok in the Main Reservation Mask The Question Inventory item GO has trace text attached. Create Trace?* > *Yes* > *From Date: The First Day that the Room should not be cleaned **DAY AFTER ARRIVAL*** > *To Date The last Day that the room should not be cleaned **BEFORE DAY OF CHECKING OUT*** > *Ok*
+        - *E.g*
+          - *Guest arrives on Monday and Checks out on Wedenesday*
+            - *One Green Option*
+          - *Guest arrives on Monday AND CHECKS OUT ON Thursday*
+            - *Two Green Option*
+          - *Guest remains for One Month then he gets 3 Green Option*
+        - **If the Guest want no Cleaning in specific days in the Stay of Month , we set the green Option for the First day normally as above-mentioned**
+          - **for the second no Cleaning Day**
+            - *One Click On Guests Name* > *Options* > *Traces* > *New* > *Set first Specific Date* > *Set second Same specific Date* > *Dept Code : FO1 & HSK* > *Ok* > *Trace Text : Second Green Option* > *Ok* 
+- ### **Setting Traces**
+  - *We set traces for the following*
+    - *Late Check out (Immer egal ob bevor oder nach TA)*
+      - *Don't Forget Inside Reservation Mask > C/O : The Time when The Guest want to Check-Out*
+    - *Go* 
+    - *Nights extending for an In House Guest (bleiber)*
+    - *KU* > *In KostenUebernahme Papers in KU FOLDER you will find something like **bitte senden Sie die rechnung an der email**,we have to take the KU paper and search for the gest in the In house Guest and set a trace to FO , and write down the Email address found in the paper*
+- ### **Setting Alerts** 
+  - *Set an Alert for Emails like **Pending Member or Bitte an HRewards Anmeldung Erinnern***
+    - *One Click name of Guest or Room* > *Options* > *Alert* > *Code : Gen* > *Area : Check out* > *Description : Bitte an HRewards Anmeldung erinnern* > *Ok* > *Ok*
+- ### **Post**
+  - *Post is da damit alles auf der Rechnung steht und rauskommt*
+- ### **Setting Memberships**
+  - *We set Membership for the following*
+    - *HRwards*
+    - *Bahn Comfort* 
+    _ *Bahn Bonus*
+      - *One Click on Guest name or Room* > *Profile* > *Options* > *Memberships* > *New* > *arrow down on Type* > *choose Membership Type* > *Ok* > *Under Card Number Type the Long Nr. for HRewards or Long Nr. Bahn bonus or Long Nr. Bahn Comfort* > *Ok*
 
 ## Payment Methods
  - Depo = VCC 
