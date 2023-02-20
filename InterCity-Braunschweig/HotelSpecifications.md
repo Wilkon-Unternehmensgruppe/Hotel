@@ -104,7 +104,7 @@
       - *Don't Forget Inside Reservation Mask > C/O : The Time when The Guest want to Check-Out*
     - *Go* 
     - *Nights extending for an In House Guest (bleiber)*
-    - *KU* > *In KostenUebernahme Papers in KU FOLDER you will find something like **bitte senden Sie die rechnung an der email**,we have to take the KU paper and search for the gest in the In house Guest and set a trace to FO , and write down the Email address found in the paper*
+    - *KÜ* > *In KostenÜebernahme Papers in KÜ FOLDER you will find something like **bitte senden Sie die rechnung an der email**,we have to take the KÜ paper and search for the gest in the In house Guest and set a trace to FO , and write down the Email address found in the paper*
 - ### **Setting Alerts** 
   - *Set an Alert for Emails like **Pending Member or Bitte an HRewards Anmeldung Erinnern***
     - *One Click name of Guest or Room* > *Options* > *Alert* > *Code : Gen* > *Area : Check out* > *Description : Bitte an HRewards Anmeldung erinnern* > *Ok* > *Ok*

@@ -85,9 +85,8 @@
 
 ![First](Images/DailyRoutine/RegisterationCards/1.PNG)
 ![Second](Images/DailyRoutine/RegisterationCards/2.PNG)
-![Third](Images/DailyRoutine/RegisterationCards/3.PNG)
-![Fourth](Images/DailyRoutine/RegisterationCards/4.PNG)
-![Sixth](Images/DailyRoutine/RegisterationCards/5.PNG)
+![Third](Images/DailyRoutine/RegisterationCards/4.PNG)
+![Fourth](Images/DailyRoutine/RegisterationCards/5.PNG)
 
 <a href="#top">Back to top</a>
 
