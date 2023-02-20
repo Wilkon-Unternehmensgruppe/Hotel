@@ -89,7 +89,6 @@
 ![Fourth](Images/DailyRoutine/RegisterationCards/4.PNG)
 ![Fifth](Images/DailyRoutine/RegisterationCards/5.PNG)
 ![Sixth](Images/DailyRoutine/RegisterationCards/6.PNG)
-![Seventh](Images/DailyRoutine/RegisterationCards/7.PNG)
 
 <a href="#top">Back to top</a>
 
