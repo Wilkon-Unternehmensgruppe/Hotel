@@ -268,6 +268,7 @@
   - **Printed out form *END OF DAY***
     - **Intercity Hotel Braunschweig**
     - **Trail Balance**
+    - [**Upgrade Reason**](#upgrade-reason)
     - **Manager Flash**
     - **Revenue By Transaction Codes Net = Revenue of The Day Net**
     - **Negative Posting by Transaction Code = Non Revenue by Transaction Code**
@@ -289,7 +290,6 @@
   - [**Terminal Reciept**](#cc-terminal-reciept)
   ##### No Show *Slide*
   - [**No Show**](#no-show)
-  - [**Upgrade Reason**](#upgrade-reason)
   ##### [Cashier Closure](#cashier-shift-closure) 
   - *In Following : Night,Late,Morning and at the End of Each [Count Physical Cash](#count-physical-cash)*
   - *Cashier Shift Close of Late and Morning Shift are found in Desk Paper Storage in Wilkon Desk*

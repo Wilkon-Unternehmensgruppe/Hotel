@@ -19,7 +19,7 @@
    - [Post](#post)
    - [Setting Memberships](#setting-memberships)
 - [Prices](#prices)
-- [Payment Methond](#payment-methods)
+- [Payment & Payments Methond](#payment--payment-methods)
    - [Formulate Bill](#formulate-bills-rechnung-erstellen)
       - [Note](#note)
    - [Note](#note)
@@ -117,67 +117,80 @@
     _ *Bahn Bonus*
       - *One Click on Guest name or Room* > *Profile* > *Options* > *Memberships* > *New* > *arrow down on Type* > *choose Membership Type* > *Ok* > *Under Card Number Type the Long Nr. for HRewards or Long Nr. Bahn bonus or Long Nr. Bahn Comfort* > *Ok*
 
-## Payment Methods
- - Depo = VCC 
-   - Types Of Guest in accordance with Payment :
-     - KÜ : VCC, DEPO, Company mit CC, Company CityLdedger, PM
-       - PM : is a Virtual Room where multiple guests come from a company continuously AND you can't make a Reciept Indiviually and it also means if an Individual Guest has a Wrong CC or didn't Pay etc .
-       - Difference between PM and CityLedger KÜ is by CityLedger Reciepts are sent Individually to the Company and by PM every costs will be collected and pushed in the PM and One Reciept will be sent to the Company .
-       - Difference between Company CC and Company CityLedger is by Company CC firstly Money and then Rechnungen , and Company CityLedger first the Rechnung and then The Money .
-       - Difference between VCC and Depo is by VCC the guest pays the Platform Someday BUT the DEPO it's already paid before arrivals
-         - Examples : 
-           - RailAdventure = PM 
-           - MEG = kÜ CC
-           - Berge & Meer = CityLedger
-           - Expedia, HRS, Hotelbeds = VCC
-         - Notes :
-           - CA or CL under Pay Type for PM , doesn't matter
-           - CL is for CityLedger
-     - SZ : CA, CC, EC
- - BO acto PM = KÜ
-  - Before TA any cash taken should be in System by Cashiering ↓ Billing ↓ Payment , After TA it should be in System by Cashiering ↓ Billing ↓ Post and then Cashiering ↓ Billing ↓ Payment.
+## Payment & Payment Methods
+- ### **Types Of Guest in accordance with Payment**
+  - **KÜ : VCC, DEPO, Company mit CC, Company CityLdedger, PM**
+- ### **PM**
+  - *is a Virtual Room where multiple guests come from a company continuously AND you can't make a Reciept Indiviually and it also means if an Individual Guest has a Wrong CC or didn't Pay etc*
+    - *Difference between PM and CityLedger KÜ is by CityLedger Reciepts are sent Individually to the Company and by PM every costs will be collected and pushed in the PM and One Reciept will be sent to the Company*
+    - *Difference between Company CC and Company CityLedger is by Company CC firstly Money and then Rechnungen , and Company CityLedger first the Rechnung and then The Money*
+- ### **VCC & Depo**
+   - *Depo = VCC*
+  - *Difference between VCC and Depo is by VCC the guest pays the Platform Someday BUT the DEPO it's already paid before arrivals*
+- ### *Eg* **Of Different Types** 
+  - *RailAdventure = PM*
+  - *MEG = kÜ CC*
+  - *Berge & Meer = CityLedger*
+  - *Expedia, HRS, Hotelbeds = VCC*
+    - **Notes**
+      - **CA or CL under Pay Type for PM , doesn't matter**
+      - **CL is for CityLedger**
+      - **Selfpayers do pay with CA or CC or EC**
+      - **BO acto PM = KÜ**
+- ### **Taken Cash** *any taken cash should be in the System*
+  - **Before End Of Day** 
+    - *Cashiering* > *Billing* > *Payment*
+  - **After End Of Day**
+    - *Cashiering* > *Billing* > *Post* **and then** *Cashiering* > *Billing* > *Payment*
   - Credit Card Authorization Won't Work for a Checked in Guest Unless doing it in A manuel Way by editing Card Nr. and Expiration Date .. Example Breakfast after TA authorize !
-  - Authorozation Rules : 
-    - First Line : Pay Type ↓ CA , Auth Rule ↓ 5 , Amt/Pct ↓ 0
-    - Other Lines depends on Reservation Methods (SZ,VCC etc ) : Pay Type ↓ CP, Auth Rule ↓ 1 , Amt/Pct ↓ 0 
-    - If You put Auth Rule ↓ 1 then it means the Whole Fee(Beitrag Like nights,Breakfast etc) , and if you puth Auth Rule ↓ 5 and Amt/Pct ↓ 0 then it means you didn't block a Price from the Credit Card but you have ZUGRIFF auf the Credit Card .
- - Booking is *ALWAYS* Selbstzahler .
- - Room Paying can *also* be done from **Profile** not only Cashiering ↓ Billing ↓ Payment .
- - BO ac #203 *means* Kosten sind Übernommen von Room #203
+- ### **Authorozation Rules** 
+  - **First Line** *Pay Type : CA* > *Auth Rule : 5* > *Amt/Pct : 0*
+  - *Other Lines depends on Reservation Methods*
+    - *If Selfpayer*
+      - **Second Line** *Pay Type : Depending on Card name (vise,mastercard etc..)* > *Auth Rule : 1*
+    - *If VCC,DEP,PAYLINK etc*
+      - **Fourth Line** *Pay Type : Depending on Card name (vise,mastercard etc..)* > *Auth Rule : 1*
+    - *If You put Auth Rule 1 then it means the Whole Fee(Beitrag Like nights,Breakfast etc)*
+    - *if you puth Auth Rule 5 and Amt/Pct 0 then it means you didn't block a Price from the Credit Card but you have ZUGRIFF auf the Credit Card*
+ - *Booking is **ALWAYS** Selbstzahler .*
+ - *Room Paying can *also* **be done from Profile not only** *Cashiering* > *Billing* > *Payment*
+ - *BO ac #203 **means** Kosten sind Übernommen von Room #203*
  - We can Use *IF* we don't wanna print a Rechnung
- - Reservierungsmaske ↓ Options ↓ Credit Cards ↓ Authorization ↓ Additional Authorizathion *NOT MANUAL AUTHORIZATOIN* ↓ Additional Authorization Amount ↓ Type Amount *HERR STÖHR WAS RIGHT ABOUT SUSPICIOUS PEOPLE FROM THE BAR*
- - RG *means* Rechnung in Comments
+ - *Reservation Mask* > *Options* > *Credit Cards* > *Authorization* > *Additional Authorizathion* **NOT MANUAL AUTHORIZATOIN** > *Additional Authorization Amount* > *Type Amount*
+ - *RG **means** Rechnung in Comments*
  - *VERY IMPORTANT EXAMPLE OF A GUEST (HERR OVERKAMP) ON THE 30.01.2023,I WAS ALONE THAT DAY WITH CIARA , SHE WAS LATE-SHIFT AND I WAS A NIGHTY*
     - *Herr Overkamp war ein SZ for 4 NIGHTS WITHOUT BREAKFAST, und Wollte AND IN A SUDDEN HE DECIDED TO TAKE BREAKFAST FOR THE FOR NIGHT*  ***HOWTODO*** :
        - **FIRSTLY** set first Window : Pay Type ↓ CA , Auth Rule ↓ 5 , Amt/Pct ↓ 0
        - **SECOND** set *SECOND* window : Pay Type ↓ CP , Auth RUle ↓ 5 Amt/Pct ↓ *THE WHOLE AMOUNT FOR THE FOUR NIGHTS WHICH WAS 207 AND AS YOU SAY HERE WE SPECIFIED THE AMOUNT OF THE AUTHORIZED CARD*
        - **LASTLY** we make the payment of the Breakfast by *FIRSTLY* specifing that in the Reservierungsmaske ↓ Packages ↓ and pick up the Breakfast
            - **THEN** Cashiering ↓ Billing ↓ Payment ↓ and then we Put the amount of the *Breakfast for the whole 4 nights*
-
-### Formulate Bills (Rechnung Erstellen)
-- **Negative Posting (Reports Print Rechnung)**
-    - Cashiering > Cashier Func. > Folio History > First Date : -1 > Second Date : leave as it is > Room Nr. > Search
 #### Note
-- When Routing, ask the guest about the Address
-- By Check Out *Bill will be printed out* , By Payment *Bill will **NOT** be printed out*
-- Bill *should always be printed out **One Night** before Guest Departure **NOT BEFORE THAT***
+
+- ### Formulate Bills (Rechnung Erstellen)
+  - **Negative Posting (Reports Print Rechnung)**
+    - *Cashiering* > *Cashier Func.* > *Folio History* > *First Date : -1* > *Second Date : leave as it is* > *Room Nr.* > *Search*
+#### Note
+- *When Routing, ask the guest about the Address*
+- **By Check Out** *Bill will be printed out* , **By Payment** *Bill will **NOT** be printed out*
+- **Bill** *should always be printed out **One Night** before Guest Departure **NOT BEFORE THAT***
 ### Note
 
-## Reservation
- - Reservations ↓ Update Reservation ↓ Arrival Date from … To … ↓ Advanced ↓ Search ↓ No Show
+- ### Reservation
+ - *Reservations* > *Update Reservation* > *Arrival Date from … To …* > *Advanced* > *Search* > *No Show*
  - Reservation [ If Agent or Company or Irgendwas , we don't change anything in Reservierung , but we don't change Rate Code or Rate ] 
- - Registration Cards ↓ Individual, Blocks abhacken ↓ Blocks arrow down ↓ take Group Code Example CNIE221121 ↓ Miscellaneous ↓ Reports ↓ 24.012  ↓ Datum von morgen in Arrival Date , und Code unter Block Code. 
- - No Shows hat Preise von 90 % der Rate   *HERR STÖHR*
- - Green Option with Night Combination : Should be givin to someone who stays *2 NIGHTS == 3 DAYS*
- - BahnCards are for HRLevels
- - If there are **NO AVAILABLE** rooms in House then :
-   - KostenÜbernahme zur anderen Hotel schicken
-   - SZ sollen vor ort Bezahlen
- - *NOTE* Gruppe (DGRP) 
-    - KÜ = erstellt mann **KEIN MELDESCHEIN**
-    - PM = erstellt mann Meldescheine , wie normal .
+ - **All about Groups** 
+   - *Registration Cards* > *Individual*, *Blocks abhacken* > *Blocks arrow down* > *take Group Code Example CNIE221121* > *Miscellaneous* > *Reports* > *24.012*  > *Date of Tommorrow in Arrival Date* > *Block Code Type Code E.g CNIE221121*
+    - *Group Abbreviation On arrival List is DGRP* 
+      - *for KÜ **Normal Registeration Card like individuals***
+      - *for PM **Group Registeration Card as above-explained***
+ - *No Shows hat Preise von 90 % der Rate*
+ - *Green Option with Night Combination : Should be givin to someone who stays minimaly *2 NIGHTS == 3 DAYS*
+ - *BahnCards are for HRLevels*
+ - *If there are **NO AVAILABLE** rooms in House*
+   - *KostenÜbernahme zur anderen Hotel schicken*
+   - *SZ sollen vor ort Bezahlen*
 ### Note
-
+ 
 ## Abbreviations
 |Abbr|Info|
 |:--:|:--:|
