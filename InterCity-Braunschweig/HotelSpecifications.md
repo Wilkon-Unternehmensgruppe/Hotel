@@ -1,9 +1,9 @@
 ### Table of Content
 - [Abbreviations](#abbreviations)
 - [Bar](#bar)
-- [Benefit](#benefit)
-- [Check In](#check-in)
-- [Check Out](#check-out)
+- [Benefits](#benefits)
+- [Check-In](#check-in)
+- [Check-Out](#check-out)
 - [Codes](#codes)
     - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
     - [To Know *How many Vacant Rooms in House*](#to-know-how-many-vacant-rooms-in-house)
@@ -33,30 +33,42 @@
 
 ## Bar
 
-- Unchecking **No Post in Opera** is **ONLY** for Guests with Credit Card , Then *Book on Room*
-  - *mean.* You book on Room **ONLY** for Deposited Credit Card
-- **ALWAYS** make a copy of Reciept of booking on Room and put it in Registeration Card of the Guest , and On the Reciept of booking make sure to have the following Information *written on it from Guest* : 
-  - **Name of the Guest**
-  - **Room Number**
-  - **Signature of the Guest**
+- Unchecking **No Post in Opera** is **ONLY** for Guests with **Deposited** Credit Card , Then you may **Book on Room** , *mean.* You book on Room **ONLY** for Deposited Credit Card
+  - **ALWAYS** make a copy of Reciept of booking on Room and put it in the Registeration Card of the Guest , and On the Reciept of booking make sure to have these following Information *written on the Reciept from Guest* : 
+    - **Name of the Guest**
+    - **Room Number**
+    - **Signature of the Guest**
 
 
 
-## Benefit
-
-- **Posting of Bonus *Green Option , HRewards etc***
-  - *E.g* **Green Option**
+## Benefits
+- Types of Benefits *are* 
+  - **Green Option**
+  - **HRewards**
+  - **BahnBonus**
+  - **BahnComfort**
+- **Posting of Bonus *Green Option , HRewards**
+  - *E.g **Green Option***
       - *Bestellen* > *Bezahlen* > *Rabatt* > *Green Option 5 Euro* > *Bar* > *Cash* 
         - *not used remaining value of the Bonus will be dropped,If the Amount of order is more than the Value of the Bonus,then it should be paid either cash or with a Credit Card*
-          - *E.g* Green Option = 5 Euro , and Guest ordered something for 4.50 Euro , then the Green Option will be taken and No 0.50 Euro Back .
-          - *E.g* Green Option = 5 Euro , and Guest ordered something for 5.50 Euro , then the Geen Option will be taken and There is 0.50 Euro that hast to be paid by the Guest .
+          - *E.g* Green Option = 5 Euro , and Guest ordered something for 4.50 Euro , then the Green Option will be taken and **No 0.50 Euro Back**
+          - *E.g* Green Option = 5 Euro , and Guest ordered something for 5.50 Euro , then the Geen Option will be taken and There is 0.50 Euro **that hast to be paid by the Guest**
 
 
 
-## Check In
-- If No Show remains *More than One Night* , then we have to post the First Night *More than One Night means that the Nights in Reservation Mask is **NOT** Zero*
-  - *Cashiering* > *billing*  > *Be Please On the Right window* > *Post* > *Room Revenue 7%* > *Ok*
-    - When a Guest reserved E.g for 19 and Checks out on 20 , but Doesn't Show on 19 and comes On 20 then we have to set the Nights to Zero and we don't post the night of 19 , but if Guest reserved E.g for 19 and checks out on 21 , We make sure that the night is set correctly which One night in this case and we have to post the night of 19
+## Check-In
+
+- **PLEASE** before checking a Guest make sure to take a look at the Rate Info *This info is important for the case if the Guest wants to pay right away on Check-In, and after checking the Sum of Amount then we can go to Cashiering Section*
+  - *On the Reservation Mask* > *Rate* > *click the THREE Dots* > *Rate Info*
+    - *Cashiering* > *Billing* > *Type Login Info* > *Room* > *Type Room Nr.* > *Search* > *double Click on found Room* 
+      - Depending on the Payment Method of the Guest be on the correct specific window **NOT WINDOW ONE** , and if there is No Window then Create one
+        - *In Window One* > *right Click* > *New Window* > 
+          - If **Selfpay *which is always the Case***
+            - *be on Window **TWO** by clicking Once on it* > *Payment* > *In Amount* > *Type the Total Amount taken from Rate Info in the Reservation Mask*
+              - If Guest wants to pay in **CASH**
+                - *click Once on CA* > *Post* 
+              - If Guest wants to pay with **Credit Card** 
+                - *click Once on DS*> *Post*
 - **Check-In A block of Group or a Group**
      - *Reservations* > *Blocks* > *Search Group* > *Double Click On found Group* > *Group Opt.* > *Check-In Group*
 - *Blue in Package* means Inclusive Breakfast
@@ -64,7 +76,9 @@
 - for the *Issue* UDFCO3 can NOT be NULL just Type ROT *On Third field von Room Type*
 - *By Agent : Berge & Meer Touristen* Take Zettel(Voucher) from Guest and Put it in the Registeration Card
 
-## Check Out
+
+
+## Check-Out
 - Selfpayer & Depo have to be checked out
   - *Cashiering* > *Billing*> *be on the Right window* > *Check out* 
 
@@ -93,6 +107,10 @@ and take out : THE SAME AS ABOVE MENTIONED
 -->
 
 ## In House Guest
+
+- If No Show remains *More than One Night* , then we have to post the First Night *More than One Night means that the Nights in Reservation Mask is **NOT** Zero*
+  - *Cashiering* > *billing*  > *Be Please On the Right window* > *Post* > *Room Revenue 7%* > *Ok*
+    - When a Guest reserved E.g for 19 and Checks out on 20 , but Doesn't Show on 19 and comes On 20 then we have to set the Nights to Zero and we don't post the night of 19 , but if Guest reserved E.g for 19 and checks out on 21 , We make sure that the night is set correctly which One night in this case and we have to post the night of 19
 - **For Accompany Person *do not* cut new Key rather**
   - *Options* > *Key* > *Cut Duplicate*  Otherwise all Key cards will be blocked
  - Room Move *one* Things should be in concern which is **setting Traces** for *FO & Housekeeping*
