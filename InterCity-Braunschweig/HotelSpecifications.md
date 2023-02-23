@@ -35,6 +35,10 @@
 |BPD|Business Plus , *same room type but* in 5th and 6th floor with Water Boiler|
 |STU|Studio|
 
+
+
+<a href="#top">Back to top</a>
+
 ## Bar
 
 - Unchecking **No Post in Opera** is **ONLY** for Guests with **Deposited** Credit Card , Then you may **Book on Room** , *mean.* You book on Room **ONLY** for Deposited Credit Card
@@ -44,6 +48,8 @@
     - **Signature of the Guest**
 
 
+
+<a href="#top">Back to top</a>
 
 ## Benefits
 - Types of Benefits *are* 
@@ -59,6 +65,8 @@
           - *E.g* Green Option = 5 Euro , and Guest ordered something for 5.50 Euro , then the Geen Option will be taken and There is 0.50 Euro **that hast to be paid by the Guest**
 
 
+
+<a href="#top">Back to top</a>
 
 ## Check-In
 ### Know How
@@ -85,6 +93,7 @@
 - **By Agent : Berge & Meer Touristen** Voucher from Guest and Put it in the Registeration Card
 
 
+<a href="#top">Back to top</a>
 
 ## Check-Out
 - Selfpayer & Depo have to be checked out
