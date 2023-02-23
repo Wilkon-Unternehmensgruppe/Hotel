@@ -432,8 +432,8 @@
 |Covid Test|5.90|
 
 ## Scenario
-- *VERY IMPORTANT EXAMPLE OF A GUEST (HERR OVERKAMP) ON THE 30.01.2023,I WAS ALONE THAT DAY WITH CIARA , SHE WAS LATE-SHIFT AND I WAS A NIGHTY*
-  - *Herr Overkamp war ein SZ for 4 NIGHTS WITHOUT BREAKFAST, AND IN A SUDDEN HE DECIDED TO TAKE BREAKFAST FOR THE FOR NIGHT*  ***HOWTODO*** :
+- **A very Important Example of a Guest *Herr Overkamp* on the *30.01.2023 with Ciara and a Lonely Nighty***
+  - ***Herr Overkamp* was a Self-Payer for 4 Nights without Breakfast , and on Check-In he decided to take Breakfast for the Whole Stay** *HOWTODO*
     - **FIRSTLY** set first Window : Pay Type ↓ CA , Auth Rule ↓ 5 , Amt/Pct ↓ 0
     - **SECOND** set *SECOND* window : Pay Type ↓ CP , Auth RUle ↓ 5 Amt/Pct ↓ *THE WHOLE AMOUNT FOR THE FOUR NIGHTS WHICH WAS 207 In the Rate Info AND AS YOU SAY HERE WE SPECIFIED THE AMOUNT OF THE AUTHORIZED CARD*
     - **LASTLY** we make the payment of the Breakfast by *FIRSTLY* specifing that in the Reservierungsmaske ↓ Packages ↓ and pick up the Breakfast
