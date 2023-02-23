@@ -79,7 +79,7 @@
 #### Check-In A block of Group or a Group
   - *Reservations* > *Blocks* > *Search Group* > *Double Click On found Group* > *Group Opt.* > *Check-In Group*
 ### Note
-- In Reservation Mask if the word*Packages* is blue colored then it means Reservation is Inclusive Breakfast
+- In Reservation Mask if the word *Packages* is blue colored then it means Reservation is Inclusive Breakfast
 - for the Issue **UDFCO3** can NOT be NULL 
   - Type **ROT** *On Third field von Room Type*
 - **By Agent : Berge & Meer Touristen** Voucher from Guest and Put it in the Registeration Card
