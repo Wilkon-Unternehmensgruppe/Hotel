@@ -67,9 +67,10 @@
                 - If **Selfpay *which is always the Case***
                   - *be on Window **TWO** by clicking Once on it* > *Payment* > *In Amount* > *Type the Total Amount taken from Rate Info in the Reservation Mask*
                     - If Guest wants to pay in **CASH**
-                       - *click Once on CA* > *Post* 
+                      - *click Once on CA* > *Post* 
                     - If Guest wants to pay with **Credit Card** 
-                       - *click Once on DS*> *Post*
+                      - *click Once on DS*> *Post*
+
 - **Check-In A block of Group or a Group**
      - *Reservations* > *Blocks* > *Search Group* > *Double Click On found Group* > *Group Opt.* > *Check-In Group*
 - *Blue in Package* means Inclusive Breakfast
