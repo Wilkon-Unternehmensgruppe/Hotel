@@ -22,9 +22,16 @@
     - [How many Vacant Rooms in House](#how-many-vacant-rooms-in-house)
     - [Print out Registeration Cards for a Group](#print-out-registeration-cards-for-a-group)
     - [Sorting normal usual individual Registeration Cards](#sorting-normal-usual-individual-registeration-cards)
+    - [having a Report of Canceled Reservations or 6PM Guests](#having-a-report-of-canceled-reservations-or-6pm-guests)
+  - [Note](#note-4)
 - [In House Guest](#in-house-guest)
+  - [Know How](#know-how-5)
+  - [Note](#note-5)
 - [Payment \& Payment Methods](#payment--payment-methods)
-    - [Note](#note-4)
+    - [Note](#note-6)
+- [Posting](#posting)
+  - [Know How](#know-how-6)
+  - [Note](#note-7)
 - [Prices](#prices)
 
 ## Abbreviations
@@ -173,16 +180,25 @@
         - *Miscellaneous* > *Reports* > *Report* > *type **24.012***  > *Date of Tommorrow in Arrival Date* > *Block Code Type Code E.g CNIE221121* > *click Print*
 
 #### Sorting normal usual individual Registeration Cards
-- *Front Desk* > *In House Guest* > *click Advanced* > *from : Type Today's Date* > *to : type Today's Date* > *click Search* > *In the list Click on Colomn **Rooms** to sort the order of the rooms* > *Start Sorting in the Registeration Cards Box*   
+- *Front Desk* > *In House Guest* > *click Advanced* > *from : Type Today's Date* > *to : type Today's Date* > *click Search* > *In the list Click on Colomn **Rooms** to sort the order of the rooms* > *Start Sorting in the Registeration Cards Box*
+
+#### having a Report of Canceled Reservations or 6PM Guests
+- To have a List or a Report of Canceled Reservations   
+  - *Miscellaneous* > *Reports* > *Report* > *type* **%cancel**  > *double click **Reservation Cancellation*** > *From Date : Yesterday's Date* > *To Date : Yesterday's Date* > *choose Cancel Date* > *Cancel Reason : NGT* > *Check out all the boxes in Display* > *Sort Order : Cancel Date **On the right side Only***  > *click Ok* > *Group By : Cancel Date **on the right side Only***  
 <!-- 
  - %cancel > Reservation Cancellation > From Date : Yesterday > To Date: Yesterday > Cancel Date > Cancel Reason : NGT > check out all the boxes in Display > Sort Order : Cancel Date **on the right side Only** > Ok > Group By : Cancel Date **on the right side only**
 -->
+### Note
+
+
+
+<a href="#top">Back to top</a>
 
 ## In House Guest
 
-- If No Show remains *More than One Night* , then we have to post the First Night *More than One Night means that the Nights in Reservation Mask is **NOT** Zero*
-  - *Cashiering* > *billing*  > *Be Please On the Right window* > *Post* > *Room Revenue 7%* > *Ok*
-    - When a Guest reserved E.g for 19 and Checks out on 20 , but Doesn't Show on 19 and comes On 20 then we have to set the Nights to Zero and we don't post the night of 19 , but if Guest reserved E.g for 19 and checks out on 21 , We make sure that the night is set correctly which One night in this case and we have to post the night of 19
+### Know How
+
+
 - **For Accompany Person *do not* cut new Key rather**
   - *Options* > *Key* > *Cut Duplicate*  Otherwise all Key cards will be blocked
  - Room Move *one* Things should be in concern which is **setting Traces** for *FO & Housekeeping*
@@ -242,6 +258,12 @@
     - *Bahn Comfort* 
     _ *Bahn Bonus*
       - *One Click on Guest name or Room* > *Profile* > *Options* > *Memberships* > *New* > *arrow down on Type* > *choose Membership Type* > *Ok* > *Under Card Number Type the Long Nr. for HRewards or Long Nr. Bahn bonus or Long Nr. Bahn Comfort* > *Ok*
+
+### Note
+
+
+
+<a href="#top">Back to top</a>
 
 ## Payment & Payment Methods
 - ### **Types Of Guest in accordance with Payment**
@@ -311,6 +333,12 @@
    - *SZ sollen vor ort Bezahlen*
  
 
+## Posting
+### Know How
+- If No Show remains *More than One Night* , then we have to post the First Night *More than One Night means that the Nights in Reservation Mask is **NOT** Zero*
+  - *Cashiering* > *billing*  > *Be Please On the Right window* > *Post* > *Room Revenue 7%* > *Ok*
+    - When a Guest reserved E.g for 19 and Checks out on 20 , but Doesn't Show on 19 and comes On 20 then we have to set the Nights to Zero and we don't post the night of 19 , but if Guest reserved E.g for 19 and checks out on 21 , We make sure that the night is set correctly which One night in this case and we have to post the night of 19
+### Note
 
 ## Prices
 |Item|Price|
