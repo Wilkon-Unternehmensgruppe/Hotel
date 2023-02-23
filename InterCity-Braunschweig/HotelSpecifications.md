@@ -21,6 +21,7 @@
     - [How many Checked-In in my Shift](#how-many-checked-in-in-my-shift)
     - [How many Vacant Rooms in House](#how-many-vacant-rooms-in-house)
     - [Print out Registeration Cards for a Group](#print-out-registeration-cards-for-a-group)
+    - [Sorting normal usual individual Registeration Cards](#sorting-normal-usual-individual-registeration-cards)
 - [In House Guest](#in-house-guest)
 - [Payment \& Payment Methods](#payment--payment-methods)
     - [Note](#note-4)
@@ -154,10 +155,26 @@
   - *Miscellaneous* > *Reports* > *Report* > **%vac** *or* **16.018a** > *check only Vacant and Housekeeping Status ONLY CL*
 
 #### Print out Registeration Cards for a Group
+
+- The Type of Groups that should have **it's Own specific Registeration Card *not like the usual normal individual Registeration Cards*** are 
+  - **DGRP Abbreviaton On Arrival List of next Day**
+    - *click Front Desk* > *click Arrivals* > *type in first Date : Tomorrow's Date* > *type in second Date : Tomorrow's Date* > *click Search*
+      - *in the List scroll to the Right til the colomn Groups* > *search for the Abbreviation DGRP*
+  - **The Group has to be Minimally 5 Person**
+    - *After dowing the above-mentioned Step completely* > *In the List scroll to the Right til the colomn Groups* > *search for the Abbreviation DGRP* > *Count how many Person they are because **they should be minimally 5 Person***
+  - **The Group should be a PM Group not a Cost Absorption Group , because Cost of Absorption Group have a usual normal individual Registeration Card**
+    - *click Front Desk* > *click Arrivals* > *type in first Date : Tomorrow's Date* > *type in second Date : Tomorrow's Date* > *click Search*
+      - *in the List scroll to the Right til the colomn Groups* > *search for the Abbreviation DGRP* > *double click on searched Person* > *Read on comments what kind of a Person is that **PM or Cost of Absorption***
+        - *in Code* > *check if there is A code written*
+          - code Example **CNIE221121**
+  - **if all above-mentioned three steps match our Criteria Then it's a Group that it has it's Own Specific Registeration Card**
+    - *then*
+      - *click Reservations* > *click Registration Cards* > *check Individual* > *check Blocks* > *click arrow down in Blocks* > *take note of the Code of the  Group of arrival date of Tomorrow , Code Example CNIE221121* 
+        - *Miscellaneous* > *Reports* > *Report* > *type **24.012***  > *Date of Tommorrow in Arrival Date* > *Block Code Type Code E.g CNIE221121* > *click Print*
+
+#### Sorting normal usual individual Registeration Cards
+- *Front Desk* > *In House Guest* > *click Advanced* > *from : Type Today's Date* > *to : type Today's Date* > *click Search* > *In the list Click on Colomn **Rooms** to sort the order of the rooms* > *Start Sorting in the Registeration Cards Box*   
 <!-- 
- - **24.012** Tab ↓ Tab ↓ Enter Search ↓ Double Click Groups with Signature Line Alph. ↓ Type Block Code that is found under the arrow down of Checked Blocks under Registration Cards , under Arrival Date [+1]
-   - Note Group Codes Example  **CNIE221121**
-   - Sort Registeration Cards : Front Desk ↓ In house Guest ↓ Advanced ↓ Under Date ↓ Enter Interval of Today's Date ↓ Search ↓ Then Order the List of Guests after Rooms and Start Sorting HERR STÖHR
  - %cancel > Reservation Cancellation > From Date : Yesterday > To Date: Yesterday > Cancel Date > Cancel Reason : NGT > check out all the boxes in Display > Sort Order : Cancel Date **on the right side Only** > Ok > Group By : Cancel Date **on the right side only**
 -->
 
@@ -286,11 +303,6 @@
 - ### Reservation
  - *Reservations* > *Update Reservation* > *Arrival Date from … To …* > *Advanced* > *Search* > *No Show*
  - Reservation [ If Agent or Company or Irgendwas , we don't change anything in Reservierung , but we don't change Rate Code or Rate ] 
- - **All about Groups** 
-   - *Registration Cards* > *Individual*, *Blocks abhacken* > *Blocks arrow down* > *take Group Code Example CNIE221121* > *Miscellaneous* > *Reports* > *24.012*  > *Date of Tommorrow in Arrival Date* > *Block Code Type Code E.g CNIE221121*
-    - *Group Abbreviation On arrival List is DGRP* 
-      - *for KÜ **Normal Registeration Card like individuals***
-      - *for PM **Group Registeration Card as above-explained***
  - *No Shows hat Preise von 90 % der Rate*
  - *Green Option with Night Combination : Should be givin to someone who stays minimaly *2 NIGHTS == 3 DAYS*
  - *BahnCards are for HRLevels*
