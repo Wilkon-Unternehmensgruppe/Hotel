@@ -1,17 +1,35 @@
 ### Table of Content
+- [Abbreviations](#abbreviations)
 - [Bar](#bar)
+- [Benefit](#benefit)
 - [Check In](#check-in)
 - [Check Out](#check-out)
-- [In House Guest](#in-house-guest)
-- [Payment \& Payment Methods](#payment--payment-methods)
-    - [Note](#note)
-- [Abbreviations](#abbreviations)
-- [Benefit](#benefit)
 - [Codes](#codes)
     - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
     - [To Know *How many Vacant Rooms in House*](#to-know-how-many-vacant-rooms-in-house)
+- [In House Guest](#in-house-guest)
+- [Payment \& Payment Methods](#payment--payment-methods)
+    - [Note](#note)
 - [Prices](#prices)
    
+## Abbreviations
+|Abbr|Info|
+|:--:|:--:|
+|AX|Rate Code without Breakfast|
+|AB|Rate Code with Breakfast|
+|BB|Bed and Breakfast|
+|BO|Bed Only|
+|CC|Credit Card|
+|KÜ|Kostenübernahme|
+|VCC|Virtual Credit Card|
+|SZ|Selbstzahler|
+|Acto PM|Monatsrechnung|
+|Acto CC|
+|Acto VCC|
+|BUD|Double bed Matrace|
+|BUT|2 Matrace and big as Double bed matrace and you can seperate them|
+|BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
+|STU|Studio|
 
 ## Bar
 - **Posting of Bonus *Green Option , HRewards etc***
@@ -27,6 +45,8 @@
     - *E.g* Green Option = 5 Euro , and Guest ordered something for 4.50 Euro , then the Green Option will be taken and No 0.50 Euro Back .
     - *E.g* Green Option = 5 Euro , and Guest ordered something for 5.50 Euro , then the Geen Option will be taken and There is 0.50 Euro that hast to be paid by the Guest .
 
+## Benefit
+
 ## Check In
 - If No Show remains *More than One Night* , then we have to post the First Night *More than One Night means that the Nights in Reservation Mask is **NOT** Zero*
   - *Cashiering* > *billing*  > *Be Please On the Right window* > *Post* > *Room Revenue 7%* > *Ok*
@@ -41,6 +61,30 @@
 ## Check Out
 - Selfpayer & Depo have to be checked out
   - *Cashiering* > *Billing*> *be on the Right window* > *Check out* 
+
+## Codes
+#### To Know *How many Check-In in my Shift*
+ - *Miscellaneous* > *Reports* > *Report* > **%arrival** *or* **04.013c** > *in Report Name double click Arrivals : Detailed alpha.*
+<!--
+for yesterday ...
+Date of yesterday in both dates
+ETA : 22>30 -- 23:59
+take out : Preferences , notes ,include Internal Notes, Routing Instructions 
+
+for tomorrow 
+keep date as it is 
+ETA : 00:01 -- TILL THE ACTUAL TIME
+and take out : THE SAME AS ABOVE MENTIONED
+-->
+#### To Know *How many Vacant Rooms in House*
+ - *Miscellaneous* > *Reports* > *Report* > **%vac** *or* **16.018a** > *check only Vacant and Housekeeping Status ONLY CL*
+
+<!-- 
+ - **24.012** Tab ↓ Tab ↓ Enter Search ↓ Double Click Groups with Signature Line Alph. ↓ Type Block Code that is found under the arrow down of Checked Blocks under Registration Cards , under Arrival Date [+1]
+   - Note Group Codes Example  **CNIE221121**
+   - Sort Registeration Cards : Front Desk ↓ In house Guest ↓ Advanced ↓ Under Date ↓ Enter Interval of Today's Date ↓ Search ↓ Then Order the List of Guests after Rooms and Start Sorting HERR STÖHR
+ - %cancel > Reservation Cancellation > From Date : Yesterday > To Date: Yesterday > Cancel Date > Cancel Reason : NGT > check out all the boxes in Display > Sort Order : Cancel Date **on the right side Only** > Ok > Group By : Cancel Date **on the right side only**
+-->
 
 ## In House Guest
 - **For Accompany Person *do not* cut new Key rather**
@@ -174,49 +218,7 @@
    - *KostenÜbernahme zur anderen Hotel schicken*
    - *SZ sollen vor ort Bezahlen*
  
-## Abbreviations
-|Abbr|Info|
-|:--:|:--:|
-|AX|Rate Code without Breakfast|
-|AB|Rate Code with Breakfast|
-|BB|Bed and Breakfast|
-|BO|Bed Only|
-|CC|Credit Card|
-|KÜ|Kostenübernahme|
-|VCC|Virtual Credit Card|
-|SZ|Selbstzahler|
-|Acto PM|Monatsrechnung|
-|Acto CC|
-|Acto VCC|
-|BUD|Double bed Matrace|
-|BUT|2 Matrace and big as Double bed matrace and you can seperate them|
-|BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
-|STU|Studio|
 
-## Benefit
-## Codes
-#### To Know *How many Check-In in my Shift*
- - *Miscellaneous* > *Reports* > *Report* > **%arrival** *or* **04.013c** > *in Report Name double click Arrivals : Detailed alpha.*
-<!--
-for yesterday ...
-Date of yesterday in both dates
-ETA : 22>30 -- 23:59
-take out : Preferences , notes ,include Internal Notes, Routing Instructions 
-
-for tomorrow 
-keep date as it is 
-ETA : 00:01 -- TILL THE ACTUAL TIME
-and take out : THE SAME AS ABOVE MENTIONED
--->
-#### To Know *How many Vacant Rooms in House*
- - *Miscellaneous* > *Reports* > *Report* > **%vac** *or* **16.018a** > *check only Vacant and Housekeeping Status ONLY CL*
-
-<!-- 
- - **24.012** Tab ↓ Tab ↓ Enter Search ↓ Double Click Groups with Signature Line Alph. ↓ Type Block Code that is found under the arrow down of Checked Blocks under Registration Cards , under Arrival Date [+1]
-   - Note Group Codes Example  **CNIE221121**
-   - Sort Registeration Cards : Front Desk ↓ In house Guest ↓ Advanced ↓ Under Date ↓ Enter Interval of Today's Date ↓ Search ↓ Then Order the List of Guests after Rooms and Start Sorting HERR STÖHR
- - %cancel > Reservation Cancellation > From Date : Yesterday > To Date: Yesterday > Cancel Date > Cancel Reason : NGT > check out all the boxes in Display > Sort Order : Cancel Date **on the right side Only** > Ok > Group By : Cancel Date **on the right side only**
--->
 
 ## Prices
 |Item|Price|
