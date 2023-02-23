@@ -61,13 +61,14 @@
 ## Check-In
 ### Know How
 #### Checking the Correct Rate Info for Payment
-- **PLEASE** before checking-In a Guest make sure to take a look at the Rate Info *This info is **HIGHLY Important** ,in case the Guest wants to pay right away on Check-In* after checking and *noting* the Sum of Amount then we can go to Cashiering Section
-  - *On the Reservation Mask* > *Rate* > *click the THREE Dots* > *Rate Info*
+- In case the Guest wants to pay right away on Check-In **PLEASE** before checking-In the Guest make sure to take a look at the Rate Info *This info is **HIGHLY Important** and after checking and *noting* the Sum of Amount then we can go to Cashiering Section
+  - *On the Reservation Mask* > *Rate* > *click the THREE Dots* > *click on Rate Info*
+  - Take a note the **Total Sum of Amount *then***
     - *Cashiering* > *Billing* > *Type Login Info* > *Room* > *Type Room Nr.* > *Search* > *double Click on found Room* 
       - Depending on the Payment Method of the Guest be on the correct specific window **NOT WINDOW ONE** , and if there is No Window then Create one
         - *In Window One* > *right Click* > *New Window* > 
-          - If **Selfpay *which is always the Case***
-            - *be on Window **TWO** by clicking Once on it* > *Payment* > *In Amount* > *Type the Total Amount taken from Rate Info in the Reservation Mask*
+          - If **Selfpay *which is ALWAYS the Case***
+            - *be on Window **TWO** by clicking Once on it* > *Payment* > *In Amount* > *Type the Total Sum Amount taken from Rate Info in the Reservation Mask*
               - If Guest wants to pay in **CASH**
                 - *click Once on CA* > *Post* 
               - If Guest wants to pay with **Credit Card**
