@@ -40,8 +40,8 @@
 - [Payment \& Payment Methods](#payment--payment-methods)
   - [Know How](#know-how-7)
     - [Types Of Guest in accordance with Payment](#types-of-guest-in-accordance-with-payment)
-      - [\*\*KÜ](#kü)
-      - [Self-Payer](#self-payer)
+      - [**KÜ**](#kü)
+      - [**Self-Payer**](#self-payer)
     - [Taking Cash](#taking-cash)
     - [Authorozation Rules](#authorozation-rules)
     - [Note](#note-7)
@@ -296,7 +296,7 @@
 ## Payment & Payment Methods
 ### Know How
 #### Types Of Guest in accordance with Payment
-##### **KÜ
+##### **KÜ**
 - **VCC**
   - *E.g of VCC*
     - Expedia, HRS, Hotelbeds
@@ -327,7 +327,7 @@
       - **CA or CL under Pay Type for are the Same**
   - *E.g. of PM*
     - RailAdventure 
-##### Self-Payer
+##### **Self-Payer**
 - **Selfpayers do pay with CA or CC or EC**
   - *E.g. of Self-Payer*
     - Booking
