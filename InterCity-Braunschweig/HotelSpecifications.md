@@ -1,27 +1,18 @@
 ### Table of Content
-- [Abbreviations](#abbreviations)
 - [Bar](#bar)
-- [Benefit](#benefit)
-- [Check In](#)
+- [Check In](#check-in)
 - [Check Out](#check-out)
-- [Codes](#codes)
-   - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
-   - [To Know *How many Vacant Rooms in House*](#to-know-how-many-vacant-rooms-in-house)
 - [In House Guest](#in-house-guest)
-   - [Charges of a Room on another](#putting-charges-of-other-rooms-on-a-specific-room)
-   - [Breakfast](#breakfast)
-   - [Pets](#pets)
-   - [Green Option with it's Trace](#setting-green-option-with-its-trace)
-   - [Setting Traces](#setting-traces)
-   - [Setting Alerts](#setting-alerts)
-   - [Post](#post)
-   - [Setting Memberships](#setting-memberships)
+- [Payment \& Payment Methods](#payment--payment-methods)
+    - [Note](#note)
+- [Abbreviations](#abbreviations)
+- [Benefit](#benefit)
+- [Codes](#codes)
+    - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
+    - [To Know *How many Vacant Rooms in House*](#to-know-how-many-vacant-rooms-in-house)
 - [Prices](#prices)
-- [Payment & Payments Methond](#payment--payment-methods)
-   - [Formulate Bill](#formulate-bills-rechnung-erstellen)
-- [Reservation](#reservation)
    
-HI
+
 ## Bar
 - **Posting of Bonus *Green Option , HRewards etc***
   - *E.g* **Green Option**
