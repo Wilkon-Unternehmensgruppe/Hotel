@@ -11,7 +11,7 @@
 - [Payment \& Payment Methods](#payment--payment-methods)
     - [Note](#note)
 - [Prices](#prices)
-   
+
 ## Abbreviations
 |Abbr|Info|
 |:--:|:--:|
@@ -24,8 +24,8 @@
 |VCC|Virtual Credit Card|
 |SZ|Selbstzahler|
 |Acto PM|Monatsrechnung|
-|Acto CC|
-|Acto VCC|
+|Acto CC|Acto Credit Card|
+|Acto VCC|Acto Virtual Credit Card|
 |BUD|Double bed Matrace|
 |BUT|2 Matrace and big as Double bed matrace and you can seperate them|
 |BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
