@@ -5,13 +5,15 @@
 - [Check-In](#check-in)
   - [Know How](#know-how)
     - [Checking the Correct Rate Info for Payment](#checking-the-correct-rate-info-for-payment)
+    - [Check-In A block of Group or a Group](#check-in-a-block-of-group-or-a-group)
+  - [Note](#note)
 - [Check-Out](#check-out)
 - [Codes](#codes)
     - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
     - [To Know *How many Vacant Rooms in House*](#to-know-how-many-vacant-rooms-in-house)
 - [In House Guest](#in-house-guest)
 - [Payment \& Payment Methods](#payment--payment-methods)
-    - [Note](#note)
+    - [Note](#note-1)
 - [Prices](#prices)
 
 ## Abbreviations
@@ -74,12 +76,13 @@
               - If Guest wants to pay with **Credit Card**
                 - *click Once on DS*> *Post*
 
-- **Check-In A block of Group or a Group**
-     - *Reservations* > *Blocks* > *Search Group* > *Double Click On found Group* > *Group Opt.* > *Check-In Group*
-- *Blue in Package* means Inclusive Breakfast
-- Depo Betrag in Minus einfach einchecken
-- for the *Issue* UDFCO3 can NOT be NULL just Type ROT *On Third field von Room Type*
-- *By Agent : Berge & Meer Touristen* Take Zettel(Voucher) from Guest and Put it in the Registeration Card
+#### Check-In A block of Group or a Group
+  - *Reservations* > *Blocks* > *Search Group* > *Double Click On found Group* > *Group Opt.* > *Check-In Group*
+### Note
+- In Reservation Mask if the word*Packages* is blue colored then it means Reservation is Inclusive Breakfast
+- for the Issue **UDFCO3** can NOT be NULL 
+  - Type **ROT** *On Third field von Room Type*
+- **By Agent : Berge & Meer Touristen** Voucher from Guest and Put it in the Registeration Card
 
 
 
@@ -186,6 +189,7 @@ and take out : THE SAME AS ABOVE MENTIONED
 - ### **VCC & Depo**
    - *Depo = VCC*
   - *Difference between VCC and Depo is by VCC the guest pays the Platform Someday BUT the DEPO it's already paid before arrivals*
+  - - Depo Betrag in Minus einfach einchecken
 - ### *Eg* **Of Different Types** 
   - *RailAdventure = PM*
   - *MEG = kÜ CC*
