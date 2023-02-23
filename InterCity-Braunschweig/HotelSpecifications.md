@@ -4,7 +4,7 @@
 - [Benefits](#benefits)
 - [Check-In](#check-in)
   - [Know How](#know-how)
-    - [Checking the Correct Rate Info](#checking-the-correct-rate-info)
+    - [Checking the Correct Rate Info for Payment](#checking-the-correct-rate-info-for-payment)
 - [Check-Out](#check-out)
 - [Codes](#codes)
     - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
@@ -60,7 +60,7 @@
 
 ## Check-In
 ### Know How
-#### Checking the Correct Rate Info
+#### Checking the Correct Rate Info for Payment
 - **PLEASE** before checking-In a Guest make sure to take a look at the Rate Info *This info is **HIGHLY Important** ,in case the Guest wants to pay right away on Check-In* after checking and *noting* the Sum of Amount then we can go to Cashiering Section
   - *On the Reservation Mask* > *Rate* > *click the THREE Dots* > *Rate Info*
     - *Cashiering* > *Billing* > *Type Login Info* > *Room* > *Type Room Nr.* > *Search* > *double Click on found Room* 
