@@ -1,19 +1,29 @@
 ### Table of Content
 - [Abbreviations](#abbreviations)
 - [Bar](#bar)
-- [Benefits](#benefits)
-- [Check-In](#check-in)
   - [Know How](#know-how)
+  - [Note](#note)
+- [Benefits](#benefits)
+  - [Know How](#know-how-1)
+    - [Posting of Bonus Green Option , HRewards](#posting-of-bonus-green-option--hrewards)
+  - [Note](#note-1)
+- [Check-In](#check-in)
+  - [Know How](#know-how-2)
     - [Checking the Correct Rate Info for Payment](#checking-the-correct-rate-info-for-payment)
     - [Check-In A block of Group or a Group](#check-in-a-block-of-group-or-a-group)
-  - [Note](#note)
+  - [Note](#note-2)
 - [Check-Out](#check-out)
+  - [Know How](#know-how-3)
+    - [Checking Out a Self-payer \& Depo Guests](#checking-out-a-self-payer--depo-guests)
+  - [Note](#note-3)
 - [Codes](#codes)
-    - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
-    - [To Know *How many Vacant Rooms in House*](#to-know-how-many-vacant-rooms-in-house)
+  - [Know How](#know-how-4)
+    - [How many Checked-In in my Shift](#how-many-checked-in-in-my-shift)
+    - [How many Vacant Rooms in House](#how-many-vacant-rooms-in-house)
+    - [Print out Registeration Cards for a Group](#print-out-registeration-cards-for-a-group)
 - [In House Guest](#in-house-guest)
 - [Payment \& Payment Methods](#payment--payment-methods)
-    - [Note](#note-1)
+    - [Note](#note-4)
 - [Prices](#prices)
 
 ## Abbreviations
@@ -41,6 +51,9 @@
 
 ## Bar
 
+### Know How
+
+### Note
 - Unchecking **No Post in Opera** is **ONLY** for Guests with **Deposited** Credit Card , Then you may **Book on Room** , *mean.* You book on Room **ONLY** for Deposited Credit Card
   - **ALWAYS** make a copy of Reciept of booking on Room and put it in the Registeration Card of the Guest , and On the Reciept of booking make sure to have these following Information *written on the Reciept from Guest* : 
     - **Name of the Guest**
@@ -57,19 +70,25 @@
   - **HRewards**
   - **BahnBonus**
   - **BahnComfort**
-- **Posting of Bonus *Green Option , HRewards**
-  - *E.g **Green Option***
-      - *Bestellen* > *Bezahlen* > *Rabatt* > *Green Option 5 Euro* > *Bar* > *Cash* 
-        - *not used remaining value of the Bonus will be dropped,If the Amount of order is more than the Value of the Bonus,then it should be paid either cash or with a Credit Card*
-          - *E.g* Green Option = 5 Euro , and Guest ordered something for 4.50 Euro , then the Green Option will be taken and **No 0.50 Euro Back**
-          - *E.g* Green Option = 5 Euro , and Guest ordered something for 5.50 Euro , then the Geen Option will be taken and There is 0.50 Euro **that hast to be paid by the Guest**
+### Know How
+
+#### Posting of Bonus Green Option , HRewards
+- *E.g **Green Option***
+  - *Bestellen* > *Bezahlen* > *Rabatt* > *Green Option 5 Euro* > *Bar* > *Cash* 
+    - *not used remaining value of the Bonus will be dropped,If the Amount of order is more than the Value of the Bonus,then it should be paid either cash or with a Credit Card*
+      - *E.g* Green Option = 5 Euro , and Guest ordered something for 4.50 Euro , then the Green Option will be taken and **No 0.50 Euro Back**
+      - *E.g* Green Option = 5 Euro , and Guest ordered something for 5.50 Euro , then the Geen Option will be taken and There is 0.50 Euro **that hast to be paid by the Guest**
+
+### Note
 
 
 
 <a href="#top">Back to top</a>
 
 ## Check-In
+
 ### Know How
+
 #### Checking the Correct Rate Info for Payment
 - In case the Guest wants to pay right away on Check-In **PLEASE** before checking-In the Guest make sure to take a look at the Rate Info *This info is **HIGHLY Important** and after checking and *noting* the Sum of Amount then we can go to Cashiering Section
   - *On the Reservation Mask* > *Rate* > *click the THREE Dots* > *click on Rate Info*
@@ -86,6 +105,7 @@
 
 #### Check-In A block of Group or a Group
   - *Reservations* > *Blocks* > *Search Group* > *Double Click On found Group* > *Group Opt.* > *Check-In Group*
+
 ### Note
 - In Reservation Mask if the word *Packages* is blue colored then it means Reservation is Inclusive Breakfast
 - for the Issue **UDFCO3** can NOT be NULL 
@@ -93,29 +113,47 @@
 - **By Agent : Berge & Meer Touristen** Voucher from Guest and Put it in the Registeration Card
 
 
+
 <a href="#top">Back to top</a>
 
 ## Check-Out
-- Selfpayer & Depo have to be checked out
+
+### Know How
+
+#### Checking Out a Self-payer & Depo Guests
+- Self-Payer and Depo Guests **has to be** checked out
   - *Cashiering* > *Billing*> *be on the Right window* > *Check out* 
 
+### Note
+
+
+
+<a href="#top">Back to top</a>
+
 ## Codes
-#### To Know *How many Check-In in my Shift*
- - *Miscellaneous* > *Reports* > *Report* > **%arrival** *or* **04.013c** > *in Report Name double click Arrivals : Detailed alpha.*
-<!--
-for yesterday ...
-Date of yesterday in both dates
-ETA : 22>30 -- 23:59
-take out : Preferences , notes ,include Internal Notes, Routing Instructions 
 
-for tomorrow 
-keep date as it is 
-ETA : 00:01 -- TILL THE ACTUAL TIME
-and take out : THE SAME AS ABOVE MENTIONED
--->
-#### To Know *How many Vacant Rooms in House*
- - *Miscellaneous* > *Reports* > *Report* > **%vac** *or* **16.018a** > *check only Vacant and Housekeeping Status ONLY CL*
+### Know How 
 
+#### How many Checked-In in my Shift
+- To know how many GUests we've checked in *our* Shift
+  - *Miscellaneous* > *Reports* > *Report* > **%arrival** *or* **04.013c** > *in Report Name double click Arrivals : Detailed alpha.*
+    - **Checked-In before End Of Day**
+      - *In Date* > *Type Today's Date in **Both** Dates*
+      - *type in ETA* > *from : 22:30* > *to : 23:59* 
+      - *check field **checked-In Today***
+      - *check out the following*
+        - *Preferences,notes,include Internal Notes,Routing Instructions*
+    - **Checked-In after End Of Day**
+      - *In Date* > *Keep the Dates as it's written*
+      - *type in ETA* > *from : 00:01 > *to : the Actual current Time*
+      - *check out the following*
+        - *Preferences,notes,include Internal Notes,Routing Instructions*
+
+#### How many Vacant Rooms in House
+- To know how many **Vacant Rooms** in the House
+  - *Miscellaneous* > *Reports* > *Report* > **%vac** *or* **16.018a** > *check only Vacant and Housekeeping Status ONLY CL*
+
+#### Print out Registeration Cards for a Group
 <!-- 
  - **24.012** Tab ↓ Tab ↓ Enter Search ↓ Double Click Groups with Signature Line Alph. ↓ Type Block Code that is found under the arrow down of Checked Blocks under Registration Cards , under Arrival Date [+1]
    - Note Group Codes Example  **CNIE221121**
