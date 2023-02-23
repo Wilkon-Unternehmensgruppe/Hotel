@@ -32,20 +32,26 @@
 |STU|Studio|
 
 ## Bar
-- **Posting of Bonus *Green Option , HRewards etc***
-  - *E.g* **Green Option**
-      - *Bestellen* > *Bezahlen* > *Rabatt* > *Green Option 5 Euro* > *Bar* > *Cash* 
-- Uncheck **No Post in Opera** **ONLY** for Guests with Credit Card , Then *Book on Room*
+
+- Unchecking **No Post in Opera** is **ONLY** for Guests with Credit Card , Then *Book on Room*
   - *mean.* You book on Room **ONLY** for Deposited Credit Card
-- **ALWAYS** make a copy of Reciept of booking on Room and put it in Registeration Card of the Guest , and On the Reciept of booking make sure to have the following Information on it : 
+- **ALWAYS** make a copy of Reciept of booking on Room and put it in Registeration Card of the Guest , and On the Reciept of booking make sure to have the following Information *written on it from Guest* : 
   - **Name of the Guest**
   - **Room Number**
   - **Signature of the Guest**
-  - *not used remaining value of the Bonus will be dropped,If the Amount of order is more than the Value of the Bonus,then it should be paid either cash or with a Credit Card*
-    - *E.g* Green Option = 5 Euro , and Guest ordered something for 4.50 Euro , then the Green Option will be taken and No 0.50 Euro Back .
-    - *E.g* Green Option = 5 Euro , and Guest ordered something for 5.50 Euro , then the Geen Option will be taken and There is 0.50 Euro that hast to be paid by the Guest .
+
+
 
 ## Benefit
+
+- **Posting of Bonus *Green Option , HRewards etc***
+  - *E.g* **Green Option**
+      - *Bestellen* > *Bezahlen* > *Rabatt* > *Green Option 5 Euro* > *Bar* > *Cash* 
+        - *not used remaining value of the Bonus will be dropped,If the Amount of order is more than the Value of the Bonus,then it should be paid either cash or with a Credit Card*
+          - *E.g* Green Option = 5 Euro , and Guest ordered something for 4.50 Euro , then the Green Option will be taken and No 0.50 Euro Back .
+          - *E.g* Green Option = 5 Euro , and Guest ordered something for 5.50 Euro , then the Geen Option will be taken and There is 0.50 Euro that hast to be paid by the Guest .
+
+
 
 ## Check In
 - If No Show remains *More than One Night* , then we have to post the First Night *More than One Night means that the Nights in Reservation Mask is **NOT** Zero*
