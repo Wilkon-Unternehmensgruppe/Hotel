@@ -1,11 +1,9 @@
 ### Table of Content
 - [Abbreviations](#abbreviations)
 - [Bar](#bar)
-   - [Note](#note) 
+- [Benefit](#benefit)
 - [Check In](#)
-   - [Note](#note)
-- [Checkk Out](#check-out)
-   - [Note](#note)
+- [Check Out](#check-out)
 - [Codes](#codes)
    - [To Know *How many Check-In in my Shift*](#to-know-how-many-check-in-in-my-shift)
    - [To Know *How many Vacant Rooms in House*](#to-know-how-many-vacant-rooms-in-house)
@@ -21,47 +19,42 @@
 - [Prices](#prices)
 - [Payment & Payments Methond](#payment--payment-methods)
    - [Formulate Bill](#formulate-bills-rechnung-erstellen)
-      - [Note](#note)
-   - [Note](#note)
 - [Reservation](#reservation)
-   - [Note](#note)
+   
 
 ## Bar
-- **Verbuchen von Gutscheine**
+- **Posting of Bonus *Green Option , HRewards etc***
   - *E.g* **Green Option**
       - *Bestellen* > *Bezahlen* > *Rabatt* > *Green Option 5 Euro* > *Bar* > *Cash* 
-- Uncheck *No Post in Opera* **ONLY** for Guests with CC , Then *Auf zimmer buchen*
-  - *Bedeutet* mann schreibt auf's Zimmer nur wenn eine hinterlegte CC da ist.
-#### Note
-- Rechnungen auf's Zimmer **IMMER** kopieren und in Meldeschein rein .
-- Rechnungen auf's Zimmer , Es muss folgende Daten drauf sein : 
-  - Name des Gastes . 
-  - Zimmer Nummer . 
-  - Unterschift des Gastes 
-- *Nicht genutzter Wert des Gutscheins verfällt,Übersteigt der Gesamtwert der Bestellung den Wert des Gutscheins, wird dies noch Cash o.ä verbucht .*
+- Uncheck **No Post in Opera** **ONLY** for Guests with Credit Card , Then *Book on Room*
+  - *mean.* You book on Room **ONLY** for Deposited Credit Card
+- **ALWAYS** make a copy of Reciept of booking on Room and put it in Registeration Card of the Guest , and On the Reciept of booking make sure to have the following Information on it : 
+  - **Name of the Guest**
+  - **Room Number**
+  - **Signature of the Guest**
+  - *not used remaining value of the Bonus will be dropped,If the Amount of order is more than the Value of the Bonus,then it should be paid either cash or with a Credit Card*
+    - *E.g* Green Option = 5 Euro , and Guest ordered something for 4.50 Euro , then the Green Option will be taken and No 0.50 Euro Back .
+    - *E.g* Green Option = 5 Euro , and Guest ordered something for 5.50 Euro , then the Geen Option will be taken and There is 0.50 Euro that hast to be paid by the Guest .
 
 ## Check In
 - If No Show remains *More than One Night* , then we have to post the First Night *More than One Night means that the Nights in Reservation Mask is **NOT** Zero*
   - *Cashiering* > *billing*  > *Be Please On the Right window* > *Post* > *Room Revenue 7%* > *Ok*
-    - *When a Guest reserved E.g for 19 and Checks out on 20 , but Doesn't Show on 19 and comes On 20 then we have to set the Nights to Zero and we don't post the night of 19 , but if Guest reserved E.g for 19 and checks out on 21 , We make sure that the night is set correctly which One night in this case and we have to post the night of 19*
+    - When a Guest reserved E.g for 19 and Checks out on 20 , but Doesn't Show on 19 and comes On 20 then we have to set the Nights to Zero and we don't post the night of 19 , but if Guest reserved E.g for 19 and checks out on 21 , We make sure that the night is set correctly which One night in this case and we have to post the night of 19
 - **Check-In A block of Group or a Group**
      - *Reservations* > *Blocks* > *Search Group* > *Double Click On found Group* > *Group Opt.* > *Check-In Group*
-#### Note
 - *Blue in Package* means Inclusive Breakfast
 - Depo Betrag in Minus einfach einchecken
 - for the *Issue* UDFCO3 can NOT be NULL just Type ROT *On Third field von Room Type*
 - *By Agent : Berge & Meer Touristen* Take Zettel(Voucher) from Guest and Put it in the Registeration Card
 
 ## Check Out
-#### Note
 - Selfpayer & Depo have to be checked out
   - *Cashiering* > *Billing*> *be on the Right window* > *Check out* 
-- Erstmal TA und dann Auschecken ??? 
 
 ## In House Guest
 - **For Accompany Person *do not* cut new Key rather**
   - *Options* > *Key* > *Cut Duplicate*  Otherwise all Key cards will be blocked
- - Room Move *two* Things should be in concern which is **setting Traces** for *FO & Housekeeping*
+ - Room Move *one* Things should be in concern which is **setting Traces** for *FO & Housekeeping*
    - **Room Move** 
    - *Search Room* > *Options* > *Room Move* > *Move to Room* > *Type Reason*
      - **Set the Traces for FO & Housekeeping** 
@@ -84,7 +77,8 @@
   - **Before End Of Day**
     - *Search Room* > *One Click on Room or Name* > *Options* > *Fixed Charges* > *Choose Once if its for One Time or Daily for the Whole Stay* > *Trn. Code* > *Amount is 15 Euro* > *Ok* > *Close* > *Double Click on the Name or the Room to go To Reservation Mask* > *Item Inv. Arrow Down* > *New* > *Item Code* > *Choose Dog Bowl* > *Ok* > *Ok* > *and Start Creating a Trace for it , Opera will ask you for creating a Trace*
   - **After End Of Day**
-    - *Same Scenario as Breakfast after End Of Day*
+    - Same Scenario as Breakfast after End Of Day
+  - **Setting a Trace for Dog Bowl** is the same as Green Option Traces , with the Difference that we set this Trace for the Whole stay from the Day of Arrival til the Day of Checking Out
 - ### **Setting Green Option with It's Trace**  
   - *we don't Consider Arrival Date and Departure Date and Maximum Givin Green Option are 3 no Matter how long the stay*
     - *In the Reservation Mask* > *Item Inv. Arrow Down* > *New* > *Item Code* > *GO* > *Ok*
@@ -99,12 +93,13 @@
           - **for the second no Cleaning Day**
             - *One Click On Guests Name* > *Options* > *Traces* > *New* > *Set first Specific Date* > *Set second Same specific Date* > *Dept Code : FO1 & HSK* > *Ok* > *Trace Text : Second Green Option* > *Ok* 
 - ### **Setting Traces**
-  - *We set traces for the following*
-    - *Late Check out (Immer egal ob bevor oder nach TA)*
-      - *Don't Forget Inside Reservation Mask > C/O : The Time when The Guest want to Check-Out*
-    - *Go* 
-    - *Nights extending for an In House Guest (bleiber)*
+  - We set traces for the following
+    - **Late Check out (Immer egal ob bevor oder nach TA)**
+      - **Don't Forget Inside Reservation Mask > C/O : The Time when The Guest want to Check-Out**
+    - **Go** 
+    - **Nights extending for an In House Guest (bleiber)**
     - *KÜ* > *In KostenÜebernahme Papers in KÜ FOLDER you will find something like **bitte senden Sie die rechnung an der email**,we have to take the KÜ paper and search for the gest in the In house Guest and set a trace to FO , and write down the Email address found in the paper*
+    - **Dog Bowl for Pets**
 - ### **Setting Alerts** 
   - *Set an Alert for Emails like **Pending Member or Bitte an HRewards Anmeldung Erinnern***
     - *One Click name of Guest or Room* > *Options* > *Alert* > *Code : Gen* > *Area : Check out* > *Description : Bitte an HRewards Anmeldung erinnern* > *Ok* > *Ok*
@@ -169,11 +164,9 @@
 - ### Formulate Bills (Rechnung Erstellen)
   - **Negative Posting (Reports Print Rechnung)**
     - *Cashiering* > *Cashier Func.* > *Folio History* > *First Date : -1* > *Second Date : leave as it is* > *Room Nr.* > *Search*
-#### Note
 - *When Routing, ask the guest about the Address*
 - **By Check Out** *Bill will be printed out* , **By Payment** *Bill will **NOT** be printed out*
 - **Bill** *should always be printed out **One Night** before Guest Departure **NOT BEFORE THAT***
-### Note
 
 - ### Reservation
  - *Reservations* > *Update Reservation* > *Arrival Date from … To …* > *Advanced* > *Search* > *No Show*
@@ -189,7 +182,6 @@
  - *If there are **NO AVAILABLE** rooms in House*
    - *KostenÜbernahme zur anderen Hotel schicken*
    - *SZ sollen vor ort Bezahlen*
-### Note
  
 ## Abbreviations
 |Abbr|Info|
@@ -210,6 +202,7 @@
 |BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
 |STU|Studio|
 
+## Benefit
 ## Codes
 #### To Know *How many Check-In in my Shift*
  - *Miscellaneous* > *Reports* > *Report* > **%arrival** *or* **04.013c** > *in Report Name double click Arrivals : Detailed alpha.*
