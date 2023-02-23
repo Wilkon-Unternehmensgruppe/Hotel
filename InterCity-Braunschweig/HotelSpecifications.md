@@ -20,15 +20,15 @@
 |BB|Bed and Breakfast|
 |BO|Bed Only|
 |CC|Credit Card|
-|KÜ|Kostenübernahme|
+|KÜ|Cost Absorption|
 |VCC|Virtual Credit Card|
-|SZ|Selbstzahler|
-|Acto PM|Monatsrechnung|
+|SZ|Self-Payer|
+|Acto PM|Posting Master *mean.* Monthly Invoice|
 |Acto CC|Acto Credit Card|
 |Acto VCC|Acto Virtual Credit Card|
 |BUD|Double bed Matrace|
-|BUT|2 Matrace and big as Double bed matrace and you can seperate them|
-|BPD|Business Plus , it's same room type but in 5th and 6th floor with wasserkocher|
+|BUT|*two* Mattress and big as double bed Mattress and you can seperate them|
+|BPD|Business Plus , *same room type but* in 5th and 6th floor with Water Boiler|
 |STU|Studio|
 
 ## Bar
