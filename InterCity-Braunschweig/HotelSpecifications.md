@@ -57,18 +57,19 @@
 
 
 ## Check-In
-
-- **PLEASE** before checking a Guest make sure to take a look at the Rate Info *This info is important for the case if the Guest wants to pay right away on Check-In, and after checking the Sum of Amount then we can go to Cashiering Section*
-  - *On the Reservation Mask* > *Rate* > *click the THREE Dots* > *Rate Info*
-    - *Cashiering* > *Billing* > *Type Login Info* > *Room* > *Type Room Nr.* > *Search* > *double Click on found Room* 
-      - Depending on the Payment Method of the Guest be on the correct specific window **NOT WINDOW ONE** , and if there is No Window then Create one
-        - *In Window One* > *right Click* > *New Window* > 
-          - If **Selfpay *which is always the Case***
-            - *be on Window **TWO** by clicking Once on it* > *Payment* > *In Amount* > *Type the Total Amount taken from Rate Info in the Reservation Mask*
-              - If Guest wants to pay in **CASH**
-                - *click Once on CA* > *Post* 
-              - If Guest wants to pay with **Credit Card** 
-                - *click Once on DS*> *Post*
+  - ### How to
+    - #### Checking the Correct Rate Info
+      - **PLEASE** before checking-In a Guest make sure to take a look at the Rate Info *This info is **HIGHLY Important** ,in case the Guest wants to pay right away on Check-In* after checking and *noting* the Sum of Amount then we can go to Cashiering Section
+        - *On the Reservation Mask* > *Rate* > *click the THREE Dots* > *Rate Info*
+          - *Cashiering* > *Billing* > *Type Login Info* > *Room* > *Type Room Nr.* > *Search* > *double Click on found Room* 
+            - Depending on the Payment Method of the Guest be on the correct specific window **NOT WINDOW ONE** , and if there is No Window then Create one
+              - *In Window One* > *right Click* > *New Window* > 
+                - If **Selfpay *which is always the Case***
+                  - *be on Window **TWO** by clicking Once on it* > *Payment* > *In Amount* > *Type the Total Amount taken from Rate Info in the Reservation Mask*
+                    - If Guest wants to pay in **CASH**
+                      - *click Once on CA* > *Post* 
+                    - If Guest wants to pay with **Credit Card** 
+                      - *click Once on DS*> *Post*
 - **Check-In A block of Group or a Group**
      - *Reservations* > *Blocks* > *Search Group* > *Double Click On found Group* > *Group Opt.* > *Check-In Group*
 - *Blue in Package* means Inclusive Breakfast
