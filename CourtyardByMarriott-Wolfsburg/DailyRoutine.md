@@ -194,5 +194,8 @@
                       - *technik.wolfsburg@baum-hotels.de*
                       - *schweidler@baum-gruppe.de*
 
+
+YOURCHOISE SETZEN 
+IN HOUSE GUEST , SEARCH NAME , OPTIONS , FACILITY SCHEDULER , ONE CLICK ON DATE , CUSTOMIZE , ARE YOU SURE ? : YES ,  TAG AUSSUCEHN , DEN TAG MARKIEREN NICHT MIT X HACKEN , UNTEN DOUBLE CLICK THE DAY OR EDIT , ARROW DOWN ON TASK , CHOOSE YOUR CHOISE , AND THEN OK , 
 - Quick Preferences check out (a114)
   - 
