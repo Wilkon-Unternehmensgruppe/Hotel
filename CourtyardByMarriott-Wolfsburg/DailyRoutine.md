@@ -44,8 +44,10 @@
              - From House Status *Brutto = Room Revenue Avarage * 1.07*
              - From House Status *Netto = Room Revenue Avarage*   
        - NOTE *after Finishing the Tagesplanung 3 times print for Service,FO,BO*
+       - FO MEANS IN THE SCHWARZEMAPPE	
  - **A136 (Guest IHN Traces )**
      - Miscellaneous ↓ Reports ↓ A136(Guest INH Traces) ↓ Click on Department ↓ Click on None ↓ Unselect All ↓ Select NIG ↓ Print
+     - VORNE AN DER REZEPTION NEBEN PARKING GERAET
  - **Registeration Cards** *Print Registeration Cards same as Intercity but we dont print Groups at all*  
    - Registeration Form ↓ New_Updated Reg_card
  - **Buchung Market Belege** *Microkasse im Bar*
@@ -92,6 +94,7 @@
        - *Under Amount* if it's 5 Euro then 5 Euro *Not like HRewards Or GreenOption in Intercity*
        - *Under Qty* set -1 or -2 or -3 *Depending on Person*
        - *Under Supplement* 10$ Voucher
+       - ausgedruchte documention of each guest as voucher bearbeitung mit A136 AND DER REZEPTION NEBEN PARKING GERAET LEGEN
      - *Additional Info* **Voucher Anlegen** in 
        - Reservierung mask ↓ Packages > New > Package > P6_10_FNB
          - **Trace setzen** *Then we should trace it just like GreenOption in Intercity* 
@@ -111,9 +114,9 @@
  - **REINFOLE IN DER SCHWARZEN MAPPE VON ALLES ÜBER KREDITKARTEN UND KREDIT KARTEN BEARBEITUNG**
      - *Von unten nach oben BITTE*
         - geräumte Kreditkarten von Briefablage
+        - FALLS GIBT ES D140 MIT MEINER CASSIERERNUMMER 
         - *darauf* Bearbeitete Kreditkarten
-        - *darauf* Meine Einnahmen als *cashier 2747 von d140*
-        - *darauf* Gesamte Übersicht
+        - *darauf* Gesamte Übersicht *meaning this one here * **D140 ABER NICHT MIT CASSIERERNUMMER SONDER EINFACH ALL MEANING BY CASHIER TYPE NOTHING**
  - **Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben** 
      - Cashiering ↓ Billing ↓ 9000,9500 and **ALL PM KONTEN** **BETRAG NULL** ↓ auschecken
        - **WENN DAS PM KONTO EINEN BETRAG HAT , DANN VERLÄNGERN**
@@ -142,12 +145,12 @@
   - d114 *Revenue by Transaction Codes Net*
 - **Nach dem END OF DAY**
     - miscillineous ↓ reports ↓ after
-    - after night audith FO ↓ Print
-    - after night audith HSK ↓ print 
+    - after night audith FO ↓ Print ??????????????????????
+    - after night audith HSK ↓ print *THIS GOES WITH 1 no show in the HSKbriefablagel*
 - **9000,and 9500 einchecken**
   - In House Guests ↓ Advanced ↓ Room Type ↓ *write* PM ↓ Search ↓ both Rooms Einchecken
 - **Frühstuck Liste**
-    - Miscellaneous ↓ Reports ↓ MFD *NUM DETAILED* ↓ ALL ↓ Print
+    - Miscellaneous ↓ Reports ↓ MFD *NUM DETAILED* ↓ ALL ↓ Print *GOES TO SERVICE*
 
 **HIER**
     - Miscellaneous ↓ Reports ↓ a136 ↓ F&b ↓ Print
