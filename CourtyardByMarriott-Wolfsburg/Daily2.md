@@ -6,11 +6,14 @@
     - [Location](#location-1)
   - [P106](#p106)
     - [Location](#location-2)
-
-
-
-
-
+  - [Preparation Tagespläne](#preparation-tagespläne)
+    - [Location](#location-3)
+  -
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
 
 ## Before End Of Day
 ### Downtime Reports
@@ -69,7 +72,7 @@
   - *Service : On Service Bankett*
   - *FO : Put it In the Letter Tray of the Reservation in the BackOffice **In Reservierungsbirefablage legen***
   - *BO : Frau H. Richter office*
-### A136 (Guest IHN Traces )**
+### A136 (Guest IHN Traces )
 - *Miscellaneous* > *Reports* > *A136(Guest INH Traces)* > *Click on Department* > *Click on None* > *Unselect All* > *Select NIG* > *Print*
 #### Location
 - *In the Front over the Parking Machine*
@@ -175,7 +178,7 @@
   - TRAIL BALANCE 
   - Credit card authorization 
   - d114 *Revenue by Transaction Codes Net*
-### After End Of Day
+## After End Of Day
 - *miscillineous* > *Reports* > *after*
   - *after night audith FO* > *Print*
   - *after night audith HSK* > *print*
