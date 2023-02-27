@@ -122,7 +122,7 @@
        - **WENN DAS PM KONTO EINEN BETRAG HAT , DANN VERLÄNGERN**
  - **Cashier Shift close**
      - Cashiering ↓ Cashier Shift Close
-       - *Report von Cashier Shift Close in der Kasse Legen*
+       - *Report von Cashier Shift Close in der Kasse Legen von die dass sehen dann in der schwarzenfmappe unter kasse legen*
 - *FINALLY* **END OF DAY**
    - *WAS AUTOMATISCH AUSGEDRUCKT WIRD*
       - Manager flash
@@ -145,7 +145,7 @@
   - d114 *Revenue by Transaction Codes Net*
 - **Nach dem END OF DAY**
     - miscillineous ↓ reports ↓ after
-    - after night audith FO ↓ Print ??????????????????????
+    - after night audith FO ↓ Print *THIS GOES IN THE SCHWARZEMAPPE NEBEN DURCHSICHTIGE MAPPE UNTER KASSE MIT DEM NO SHOW REPORT*
     - after night audith HSK ↓ print *THIS GOES WITH 1 no show in the HSKbriefablagel*
 - **9000,and 9500 einchecken**
   - In House Guests ↓ Advanced ↓ Room Type ↓ *write* PM ↓ Search ↓ both Rooms Einchecken
