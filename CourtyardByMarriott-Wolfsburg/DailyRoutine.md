@@ -157,7 +157,7 @@
 **HIER**
 
 - **d114 Revenue By Transaction Codes Net**
-    - Miscellaneous ↓ Reports ↓ d114 ↓ Types : Rrevenue ↓ Date Range : Month to Date ↓ From Date : Date of Yesterday ↓ Currrency : Euro ↓ Group By : SubGroup ↓ Print
+    - Miscellaneous ↓ Reports ↓ d114 ↓ Types : Rrevenue ↓ Date Range : Month to Date ↓ From Date : Date of Yesterday ↓ Currrency : Euro ↓ Group By : SubGroup ↓ Print *THAT GOES WITH TA PAPERS GOCK OBEN*
 - **Preparation of WFGCY Reporting Tool**
     - Shift F3 *for the next 3 days , beginning from the date after TA*
       - Needed info are : 
@@ -183,8 +183,8 @@
       - **Revenue** *Take d114 that is printed after the TA*
           - **Fill The Excel till the end *Bev Banquett , Food Banquett ... usw***
           - *Click **Menü** after finishing Excel*
-          - **Print Page 1 *3 times***
-          - **Print Page 2 *3 times***
+          - **Print Page 1 *3 times*** *1 GOES TO BACKOFFICE FR. RICHTER , 1 GOES TO SERVICE LIKE FRUESTUCK LISTE , ONE GOES TO FO IN THE SCHWARZEMAPPE*
+          - **Print Page 2 *3 times*** *1 GOES TO BACKOFFICE FR. RICHTER , 1 GOES TO SERVICE LIKE FRUESTUCK LISTE , ONE GOES TO FO IN THE SCHWARZEMAPPE*
           - *Click **Main Menu** after printing Page 1 and Page 2*
           - *Click **Create a File to mail and exit Report***
              - Datein(Z) ↓ Shared ↓ Reporting Tool ↓ Wolfsburg ↓ WFGCY Reporting Tool 2023
