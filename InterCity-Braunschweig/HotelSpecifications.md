@@ -7,6 +7,7 @@
 - [Benefits](#benefits)
   - [Know How](#know-how-1)
     - [Setting Green Option with It's Trace](#setting-green-option-with-its-trace)
+    - [Setting Membership for Benefits](#setting-membership-for-benefits)
   - [Note](#note-1)
 - [Check-In](#check-in)
   - [Know How](#know-how-2)
@@ -34,7 +35,6 @@
     - [Room Move](#room-move)
     - [Setting Traces\*\*](#setting-traces)
     - [Setting Alerts](#setting-alerts)
-    - [Setting Memberships](#setting-memberships)
     - [Setting a Trace for Dog Bowl](#setting-a-trace-for-dog-bowl)
   - [Note](#note-6)
 - [Payment \& Payment Methods](#payment--payment-methods)
@@ -128,7 +128,12 @@
   - **If the Guest want no Cleaning in specific days in the Stay of Month , we set the green Option for the First day normally as above-mentioned**
     - **for the second no Cleaning Day**
       - *One Click On Guests Name* > *Options* > *Traces* > *New* > *Set first Specific Date* > *Set second Same specific Date* > *Dept Code : FO1 & HSK* > *Ok* > *Trace Text : Second Green Option* > *Ok* 
-
+#### Setting Membership for Benefits
+- We set Membership for the following
+  - *HRwards*
+  - *Bahn Comfort* 
+  - *Bahn Bonus*
+    - *One Click on Guest name or Room* > *Profile* > *Options* > *Memberships* > *New* > *arrow down on Type* > *choose Membership Type* > *Ok* > *Under Card Number Type the Long Nr. for HRewards or Long Nr. Bahn bonus or Long Nr. Bahn Comfort* > *Ok*
 ### Note
 - Green Option with Night Combination : Should be givin to someone who stays minimaly *2 NIGHTS is equal to 3 DAYS , arrival Day and Departure Day are **Inclusive***
 
@@ -278,12 +283,6 @@
   - Important Info like *mistake i have done about rate info at the Night with Manu* 
   - Emails like **Pending Member or Bitte an HRewards Anmeldung Erinnern***
     - *One Click name of Guest or Room* > *Options* > *Alert* > *Code : Gen* > *Area : Check out* > *Description : Bitte an HRewards Anmeldung erinnern* > *Ok* > *Ok*
-#### Setting Memberships
-- We set Membership for the following
-  - *HRwards*
-  - *Bahn Comfort* 
-  - *Bahn Bonus*
-    - *One Click on Guest name or Room* > *Profile* > *Options* > *Memberships* > *New* > *arrow down on Type* > *choose Membership Type* > *Ok* > *Under Card Number Type the Long Nr. for HRewards or Long Nr. Bahn bonus or Long Nr. Bahn Comfort* > *Ok*
 #### Setting a Trace for Dog Bowl
 - Same Scenario as Green Option Traces , with the Difference that we set this Trace **for the Whole stay from the Day of Arrival til the Day of Checking Out**
 
