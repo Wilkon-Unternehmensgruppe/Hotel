@@ -110,7 +110,7 @@
       - **In CC Nummer kommen die letzten *4 ZIFFERN* von der CC je nachzahlungsart *Amex in Amex usw***
       - *NOTE : BEI MAESTRO kommt kein letzten 4 ziffern sondern XXXX*
     - **IN Bemerkung kommt immer das differenzergebnis mit begündung**
-      - *BEISPIEL* Differenz : 7.60€ , Grund: TIP in Opera nicht gebucht !
+      - *BEISPIEL* Differenz : 7.60€ , Grund: TIP in Opera nicht gebucht *OR* FO Buchungen
 ### Vorlage KreditkartenABschluss** 
 - *Datein(Z)* > *Wolfsburg* > *FrontOffice* > *Wilkon* > *Vorlagen*
   - **Hier werden die ergebnisse mit handschriftt eingetragen je nach Zahlungsart *Amex in Amex usw***
@@ -147,12 +147,12 @@
 #### Location
 - *In der schwarzen Buchhaltungsmappe, in the Followoing Order **here comes everything from Kreditkarten and Kreditkarten Bearbeitung***
      - *In each Slide from Bottom to Top Please*
-        - Right next to Lillafarbigen Mappe in FO there is a Briefablage , and in The beginning of the Shift we have to take all Credit cards out *aufräumen*
-        - *darauf* Bearbeitete Kreditkarten
-        - *darauf* Meine Einnahmen als *cashier 2747 von d140*
+        - Right next to Lillafarbigen Mappe in FO there is a Briefablage , and in The beginning of the Shift we have to take all Credit cards out *aufräumen* , These Credit Cards Paper are from Different Cashier
+        - *darauf* Bearbeitete Kreditkarten with the Micros angeheftet on It
+        - *darauf* Meine Einnahmen als *cashier 2747 von d140* *If there are Einnahmen*
         - *darauf* Gesamte Übersicht *meaning the d140 without Cashier Nr. 2747*
 ### Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben
-- *Cashiering* > *Billing* > *9000,9500 and alle PM Konten bei **BETRAG NULL*** > *auschecken* ???? stephans art quick check out
+- *Cashiering* > *Quick Check Out* > *9000,9500 and alle PM Konten bei **BETRAG NULL*** > *C/O Zero*
   - *wenn das PM Konto einen Betrag hat , dann verlängern*
 ### Cashier Shift close**
 - *Cashiering* > *Cashier Shift Close*
@@ -188,15 +188,15 @@
 - **After night audith HSK**
   - In HSK Briefablage mit 1 No Show Report
 ### 9000,and 9500 Einchecken
-  - *In House Guests* > *Advanced* > *Room Type* > *Type PM* > *Search* > *both Rooms Einchecken*
+  - *Arrivals* > *Advanced* > *Room Type* > *Type PM* > *Search* > *both Rooms Einchecken*
 ### Frühstuck Liste
 - *Miscellaneous* > *Reports* > **MFD** *NUM DETAILED* > *ALL* > *Print*
 #### Location
 - it goes to Services Bankett
-**HIER**
-    - Miscellaneous > Reports > a136 > F&b > Print
-**HIER**
-
+### A136 for Service
+- Miscellaneous > Reports > a136 > F&b > Print
+#### Location 
+- Zum services mit Breakfast List
 ### d114 Revenue By Transaction Codes Net
 - *Miscellaneous* > *Reports* > *d114* > *Types : Rrevenue* > *Date Range : Month to Date* > *From Date : Date of Yesterday* > *Currrency : Euro* > *Group By : SubGroup*> *Print*
 ### Preparation of WFGCY Reporting Tool
@@ -207,12 +207,12 @@
   - room Revenue *Brutto* 
 - *Datein(Z)* > *Shared* > *Reporting Tool* > *Wolfsburg* > *WFGCY* Reporting Tool 2023 *Password is allerpark*
   - **Reservation Occupancy** *The following steps has to be done for 3 days , (Really Today's Date, tomorrow, and after tomorrow)*
-    - Occupancy ???
-      - *Max occupied Tonight in Procent* ???
-    - Average Daily Rate ???
-      - *Room Revenue in Brutto* ???
+    - *Occuepied Room*
+      - *Max occupied Tonight*
+    - Average Daily Rate
+      - *Room Revenue in Brutto*
       - **Daily Report ↓ Statistics**
-  - **Manager Flash from TA** *Take the following Info from Manager Flash We consider ONLY RECENT YEAR AND DAY*???
+  - **Manager Flash from TA** *Take the following Info from Manager Flash We consider **ONLY RECENT Year and Underneath of It DAY**
     - Rooms Occupied 
     - Complimentary Rooms 
     - In-House Adults 
@@ -239,6 +239,12 @@
   - *One Page goes to Fr. Richter, One Page goes to Service like Breakfast List and the Last Page goes in der schwarze Mappe*
 - The *3 times* printed **Page 2**
   - *One Page goes to Fr. Richter, One Page goes to Service like Breakfast List and the Last Page goes in der schwarze Mappe*
+<!--
+Buchhaltungsmappe Order
+Trail Balance = End Of Day Report
+Kasse = Cashier Shift Closure 
+CC Abschluss = Kreditkarten Abschluss 
 
+-->
 - Quick Preferences check out (a114)
   - 
