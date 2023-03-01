@@ -2,6 +2,7 @@
 - [Before End Of Day](#before-end-of-day)
   - [Downtime Reports](#downtime-reports)
     - [Location](#location)
+      - [Note](#note)
   - [Baby Daily](#baby-daily)
     - [Location](#location-1)
   - [P106](#p106)
@@ -49,7 +50,11 @@
 ### Downtime Reports
   - *Miscellaneous* > *Reports* > *Downtime Reports* > *Double Click* > *Print*
 #### Location
-  - In Transparent paper sleeve ,and throw away the old Downtime Reports *In Durchsichtige Folie auf Briefablage legen , alte Downtown report wegschmeißen*
+  - In Transparent sleeve which is Located **on the right side of the Cashier over the colored Drawer Box**
+##### Note
+  - Throw away **The old** Downtime Reports
+
+<a href="#top">Back to top</a>
 
 ### Baby Daily 
 - *Miscellaneous* > *Reports* > *Baby Daily* > *Double Click* > *Tomorrow's Date* > *Print **3 times***
