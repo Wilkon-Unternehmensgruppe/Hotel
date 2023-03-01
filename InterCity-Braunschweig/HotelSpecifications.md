@@ -163,6 +163,12 @@ THINGS NOT TO FORGET ABOUT 28.02
       - **If the Guest want no Cleaning in specific days in the Stay of Month , we set the green Option for the First day normally as above-mentioned**
         - **for the second no Cleaning Day**
           - *One Click On Guests Name* > *Options* > *Traces* > *New* > *Set first Specific Date* > *Set second Same specific Date* > *Dept Code : FO1 & HSK* > *Ok* > *Trace Text : Second Green Option* > *Ok* 
+  - **HReward Benefit**
+    - Late Check out for **HRewards Level 4,5,6** (Immer egal ob bevor oder nach TA)
+      - *One Click On Guests Name* > *Options* > *Traces* > *New* > *Set first Specific Date* > *Set second Same specific Date* > *Dept Code : FO1 & HSK* > *Ok* > *Trace Text : Late Check Out and Type the Clock when the Guest will check out* > *Ok* 
+      - Setting the Late Check Out Inside The Reservation Mask
+        - *double Click On Guests Name* > *Inside the Reservation Mask* > *in C/O : Type the time when the Guest want to check out depending on the Level of the HReward Memeber*
+Go
 #### Setting Membership for Benefits
 - We set Membership **Only** for the *following Benefit*
   - **HRwards**
