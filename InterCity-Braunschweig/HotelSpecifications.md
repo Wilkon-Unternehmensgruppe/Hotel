@@ -120,6 +120,7 @@
           - *E.g*
             - if the Guest stays 5 Days he becomes **For Everyday** the Benefit *the Card itself* for the whole stay , **meaning 5 times because he stays 5 Days**
         - **Level-6 Member** becomes **FOR EVERYDAY for the Whole Stay in Hotel** *Breakfast HReward Benefit* **PLUS** *Late Check Out at 16:00 O'clock* **PLUS** *10% HReward Benefit*
+          - if the Guest stays 5 Days he becomes **For Everyday** the Benefit *the Card itself* for the whole stay , **meaning 5 times because he stays 5 Days**
 <!-- 
 THINGS NOT TO FORGET ABOUT 28.02 
   - HOW TO DELETE A RESERVED PACKAGE BREAKFAST 
