@@ -72,7 +72,7 @@
 ### P106
 - *Miscellaneous* > *Reports* > P106 > *Print*
 #### Location
-- Put it In the Letter Tray of the Reservation in the BackOffice *In Reservierungsbirefablage legen*
+- Put it in the Reservation Letter Tray in the BackOffice *Reservierungsbirefablage*
 
 <a href="#top">Back to top</a>
 
