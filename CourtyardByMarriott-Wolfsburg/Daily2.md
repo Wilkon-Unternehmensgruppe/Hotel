@@ -5,6 +5,7 @@
       - [Note](#note)
   - [Baby Daily](#baby-daily)
     - [Location](#location-1)
+      - [Note](#note-1)
   - [P106](#p106)
     - [Location](#location-2)
   - [Preparation Tagespläne](#preparation-tagespläne)
@@ -61,8 +62,10 @@
 #### Location
 - distribute over *Service,FO,BO*
   - *Service : On Service Bankett*
-  - *FO : Tear It up into a Square and Stick it down in FO* **NEEDED FOR TAGESPLÄNE PREPARETION**
+  - *FO : Tear It up into a Square and Stick it down in FO*
   - *BO : Frau H. Richter office*
+##### Note
+- Baby Daily is **Needed for TAGESPLÄNE PREPARETION**
 
 <a href="#top">Back to top</a>
 
