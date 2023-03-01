@@ -73,6 +73,9 @@
 - *Miscellaneous* > *Reports* > P106 > *Print*
 #### Location
 - Put it In the Letter Tray of the Reservation in the BackOffice *In Reservierungsbirefablage legen*
+
+<a href="#top">Back to top</a>
+
 ### Preparation Tagespläne
 - **WE NEED House Status,Function Folder,Tagespläne Paper**
   - **House Status** 
