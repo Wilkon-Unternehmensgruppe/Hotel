@@ -112,6 +112,14 @@
   - **HRewards**
     - **Who**
       - *Guests who rigestered Themselves for HRewards Membership*
+        - **After The Registeration** the Guest becomes a *10 Euro HReward Benefit* **ONLY ONCE** and gets nothing until he reach **Level-4**
+        - **Level-4 Member** becomes **ONLY one Time Per Whole Stay in Hotel** *10 Euro HReward Benefit* **PLUS** *Late Check Out at 14:00 O'clock*
+          - *E.g*
+            - if the Guest stays 5 Days he becomes **Just One** the Benefit *the Card itself* for the whole stay , **not 5 times because he stays 5 Days**
+        - **Level-5 Member** becomes **FOR EVERYDAY for the Whole Stay in Hotel** *Breakfast HReward Benefit* **PLUS** *Late Check Out at 14:00 O'clock* **PLUS** *10% HReward Benefit*
+          - *E.g*
+            - if the Guest stays 5 Days he becomes **For Everyday** the Benefit *the Card itself* for the whole stay , **meaning 5 times because he stays 5 Days**
+        - **Level-6 Member** becomes **FOR EVERYDAY for the Whole Stay in Hotel** *Breakfast HReward Benefit* **PLUS** *Late Check Out at 16:00 O'clock* **PLUS** *10% HReward Benefit*
   - **BahnBonus/BahnComfort**
     - **Who**
       - *anyone who has a BahnCard*
@@ -122,7 +130,7 @@
           - Arrival and Departure Date
   - **Intercity Hotel Braunschweig BSVG**
     - **Who**
-      - **ALL** *HRewards Level Members*
+      - **ALL** *HReward Levels Members*
         - *On* The *BahnBonus/BahnComfort* we Type 
           - Family Name , First
           - Arrival and Departure Date
