@@ -130,8 +130,6 @@ THINGS NOT TO FORGET ABOUT 28.02
     - C/O LATE CHECK OUT FOR HRWARDS AND TRACING IT FOR FO AND HSK , don't forget to note that 
     - NOTE THAT IN INTERCITY V-PAY IS WITH VISA IN CCKONTROLLE EXCEL TABELLE AND IN MAESTRO IS EC , IN COURTYARD VPAY AND MAESTRO ARE TOGETHER AND VISA IS VISA 
     - ask chris again what comes under db RG + Anwesenheitsliste in TA FOLDER 
-    - 
-
 -->
   - **BahnBonus/BahnComfort**
     - **Who**
