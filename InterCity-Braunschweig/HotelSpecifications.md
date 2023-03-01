@@ -120,6 +120,17 @@
           - *E.g*
             - if the Guest stays 5 Days he becomes **For Everyday** the Benefit *the Card itself* for the whole stay , **meaning 5 times because he stays 5 Days**
         - **Level-6 Member** becomes **FOR EVERYDAY for the Whole Stay in Hotel** *Breakfast HReward Benefit* **PLUS** *Late Check Out at 16:00 O'clock* **PLUS** *10% HReward Benefit*
+<!-- 
+THINGS NOT TO FORGET ABOUT 28.02 
+  - HOW TO DELETE A RESERVED PACKAGE BREAKFAST 
+    - In reservation mask > packages > arrow down > the first package hover over it to be darkblue > edit > exclude > type : 1 if the quantity is one , or two if the quantity is two etc ... > ok > do the same for package 2 , the third we don't know WE HAVE TO ASK CIARA
+    - ALSO WE HAVE TO ASK CIARA AGAIN ABOUT THE 10% BENEFIT FOR HREWARDS 
+    - C/O LATE CHECK OUT FOR HRWARDS AND TRACING IT FOR FO AND HSK , don't forget to note that 
+    - NOTE THAT IN INTERCITY V-PAY IS WITH VISA IN CCKONTROLLE EXCEL TABELLE AND IN MAESTRO IS EC , IN COURTYARD VPAY AND MAESTRO ARE TOGETHER AND VISA IS VISA 
+    - ask chris again what comes under db RG + Anwesenheitsliste in TA FOLDER 
+    - 
+
+-->
   - **BahnBonus/BahnComfort**
     - **Who**
       - *anyone who has a BahnCard*
