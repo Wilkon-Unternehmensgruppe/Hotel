@@ -108,10 +108,13 @@
 - Types of Benefits *are* 
   - **Green Option**
   - **HRewards**
-  - **BahnBonus**
-  - **BahnComfort**
+  - **BahnBonus/BahnComfort**
+  - **Intercity Hotel Braunschweig BSVG**
 - Benefits are *for*
-  - **BahnCards are for HRLevels**
+  - **BahnCards are for anyone who has a BahnCard**
+    - If the Guest is a *HReward Member* and he has BahnCard 
+      - *Then* has to choose either having a *HRewards Benefit* **OR** *BahnBonus/BahnComfort*
+  -  **Intercity Hotel Braunschweig BSVG** are for **ALL** *HRewards Level Members*
 ### Know How
 #### Setting Trace for Benefits
 - We set a Trace **Only** for the *following Benefit*
@@ -131,8 +134,7 @@
 #### Setting Membership for Benefits
 - We set Membership **Only** for the *following Benefit*
   - **HRwards**
-  - **Bahn Comfort**
-  - **Bahn Bonus**
+  - **Bahn Bonus/Bahn Comfort**
     - *One Click on Guest name or Room* > *Profile* > *Options* > *Memberships* > *New* > *arrow down on Type* > *choose Membership Type* > *Ok* > *Under Card Number Type the Long Nr. for HRewards or Long Nr. Bahn bonus or Long Nr. Bahn Comfort* > *Ok*
 ### Note
 - Green Option with Night Combination : Should be givin to someone who stays minimaly *2 NIGHTS is equal to 3 DAYS , arrival Day and Departure Day are **Inclusive***
