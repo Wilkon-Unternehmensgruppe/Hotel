@@ -63,7 +63,7 @@
 - distribute over *Service,FO,BO*
   - *Service : On Service Bankett*
   - *FO : Tear It up into a Square and Stick it down in FO*
-  - *BO : Frau H. Richter office*
+  - *BO : Frau Richter office*
 ##### Note
 - Baby Daily is **Needed for TAGESPLÄNE PREPARETION**
 
