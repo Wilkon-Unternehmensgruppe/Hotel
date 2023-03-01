@@ -1,43 +1,44 @@
 ### Table Of Content
 - [Before End Of Day](#before-end-of-day)
   - [Downtime Reports](#downtime-reports)
-  - [Baby Daily](#baby-daily)
     - [Location](#location)
-  - [P106](#p106)
+  - [Baby Daily](#baby-daily)
     - [Location](#location-1)
-  - [Preparation Tagespläne](#preparation-tagespläne)
+  - [P106](#p106)
     - [Location](#location-2)
-  - [A136 (Guest IHN Traces )](#a136-guest-ihn-traces-)
+  - [Preparation Tagespläne](#preparation-tagespläne)
     - [Location](#location-3)
-  - [Registeration Cards\*\*](#registeration-cards)
+  - [A136 (Guest IHN Traces )](#a136-guest-ihn-traces-)
     - [Location](#location-4)
+  - [Registeration Cards\*\*](#registeration-cards)
+    - [Location](#location-5)
   - [Buchung Market Belege *Microkasse im Bar*](#buchung-market-belege-microkasse-im-bar)
   - [Tagesabschluss Abschnitt von beiden Service Terminal Ziehen](#tagesabschluss-abschnitt-von-beiden-service-terminal-ziehen)
   - [Micros](#micros)
   - [Bearbeitung von Micros und Alle Quittung vom Service](#bearbeitung-von-micros-und-alle-quittung-vom-service)
   - [CC Abgleich neu 270519](#cc-abgleich-neu-270519)
   - [Vorlage KreditkartenABschluss\*\*](#vorlage-kreditkartenabschluss)
-    - [Location](#location-5)
+    - [Location](#location-6)
   - [Voucher *We need a136*](#voucher-we-need-a136)
   - [Room Management](#room-management)
-    - [Location](#location-6)
-  - [d140](#d140)
     - [Location](#location-7)
+  - [d140](#d140)
+    - [Location](#location-8)
   - [Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben](#auschecken-von-90009500-und-alle-pm-konton-die-beitrag-null-haben)
   - [Cashier Shift close\*\*](#cashier-shift-close)
-    - [Location](#location-8)
+    - [Location](#location-9)
   - [End Of Day](#end-of-day)
     - [Location and Order](#location-and-order)
 - [After End Of Day](#after-end-of-day)
-    - [Location](#location-9)
+    - [Location](#location-10)
   - [9000,and 9500 Einchecken](#9000and-9500-einchecken)
   - [Frühstuck Liste](#frühstuck-liste)
-    - [Location](#location-10)
-  - [A136 for Service](#a136-for-service)
     - [Location](#location-11)
+  - [A136 for Service](#a136-for-service)
+    - [Location](#location-12)
   - [d114 Revenue By Transaction Codes Net](#d114-revenue-by-transaction-codes-net)
   - [Preparation of WFGCY Reporting Tool](#preparation-of-wfgcy-reporting-tool)
-    - [Location](#location-12)
+    - [Location](#location-13)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -46,9 +47,10 @@
 
 ## Before End Of Day
 ### Downtime Reports
-- *Miscellaneous* > *Reports* > *Downtime Reports* > *Double Click* > *Print*
-  - #### Location
-- In Transparent paper sleeve ,and throw away the old Downtime Reports *In Durchsichtige Folie auf Briefablage legen , alte Downtown report wegschmeißen*
+  - *Miscellaneous* > *Reports* > *Downtime Reports* > *Double Click* > *Print*
+#### Location
+  - In Transparent paper sleeve ,and throw away the old Downtime Reports *In Durchsichtige Folie auf Briefablage legen , alte Downtown report wegschmeißen*
+
 ### Baby Daily 
 - *Miscellaneous* > *Reports* > *Baby Daily* > *Double Click* > *Tomorrow's Date* > *Print **3 times***
 #### Location
