@@ -33,7 +33,7 @@
   - [Know How](#know-how-6)
     - [Making a Room Key for a Accompany Person](#making-a-room-key-for-a-accompany-person)
     - [Room Move](#room-move)
-    - [Setting Traces\*\*](#setting-traces)
+    - [Setting Traces](#setting-traces)
     - [Setting Alerts](#setting-alerts)
     - [Setting a Trace for Dog Bowl](#setting-a-trace-for-dog-bowl)
   - [Note](#note-6)
@@ -140,7 +140,7 @@
   - **Green Option**
     - *we don't Consider Arrival Date and Departure Date and Maximum Givin Green Option are 3 no Matter how long the stay*
       - *In the Reservation Mask* > *Item Inv. Arrow Down* > *New* > *Item Code* > *GO* > *Ok*
-        - *After Clicking Save and Ok in the Main Reservation Mask The Question Inventory item GO has trace text attached. Create Trace?* > *Yes* > *From Date: The First Day that the Room should not be cleaned **DAY AFTER ARRIVAL*** > *To Date The last Day that the room should not be cleaned **BEFORE DAY OF CHECKING OUT*** > *Ok*
+        - *After Clicking Save and Ok in the Main Reservation Mask The Question Inventory item GO has trace text attached. Create Trace?* > *Yes* > *From Date: The First Day that the Room should not be cleaned **DAY AFTER ARRIVAL*** > *To Date The last Day that the room should not be cleaned **BEFORE THE DAY OF CHECKING OUT OR DEPARTURE DAY*** > *Ok*
           - *E.g*
             - *Guest arrives on Monday and Checks out on Wedenesday*
               - *One Green Option*
@@ -292,7 +292,7 @@
     - *Search Room* > *Options* > *Traces* > *Type Department Code : FO and HSK* > *in Trace Text type that the person has changed from room to Room*
   - **Set Old room as Dirty for the Housekeeping** 
     - *Rooms Management* > *Housekeeping* > *Housekeeping Management* > *Type Room Nr.* > *Search Room* > *set Room to Dirty*
-#### Setting Traces**
+#### Setting Traces
 - We set traces for the following
   - **Late Check out (Immer egal ob bevor oder nach TA)**
     - **Don't Forget Inside Reservation Mask > C/O : The Time when The Guest want to Check-Out**
