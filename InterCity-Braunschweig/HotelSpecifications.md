@@ -123,7 +123,7 @@
 <!-- 
 THINGS NOT TO FORGET ABOUT 28.02 
   - HOW TO DELETE A RESERVED PACKAGE BREAKFAST 
-    - In reservation mask > packages > arrow down > the first package hover over it to be darkblue > edit > exclude > type : 1 if the quantity is one , or two if the quantity is two etc ... > ok > do the same for package 2 , the third we don't know WE HAVE TO ASK CIARA
+    - In reservation mask > packages > arrow down > the first package hover over it to be darkblue > edit > exclude > type : 1 if the quantity is one , or two if the quantity is two etc ... > ok > do the same for package 2 , the third we don't know WE HAVE TO ASK CIARA about HOW TO DELETE A PACKAGE BREAKFAST THAT IS ALREADY BOOKED
     - ALSO WE HAVE TO ASK CIARA AGAIN ABOUT THE 10% BENEFIT FOR HREWARDS 
     - C/O LATE CHECK OUT FOR HRWARDS AND TRACING IT FOR FO AND HSK , don't forget to note that 
     - NOTE THAT IN INTERCITY V-PAY IS WITH VISA IN CCKONTROLLE EXCEL TABELLE AND IN MAESTRO IS EC , IN COURTYARD VPAY AND MAESTRO ARE TOGETHER AND VISA IS VISA 
