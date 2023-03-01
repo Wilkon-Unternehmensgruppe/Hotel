@@ -114,8 +114,8 @@
   - **BahnCards are for HRLevels**
 ### Know How
 #### Setting Trace for Benefits
-- We set a Trace **Only** for the following Benefit
-  - *Green Option*
+- We set a Trace **Only** for the *following Benefit*
+  - **Green Option**
     - *we don't Consider Arrival Date and Departure Date and Maximum Givin Green Option are 3 no Matter how long the stay*
       - *In the Reservation Mask* > *Item Inv. Arrow Down* > *New* > *Item Code* > *GO* > *Ok*
         - *After Clicking Save and Ok in the Main Reservation Mask The Question Inventory item GO has trace text attached. Create Trace?* > *Yes* > *From Date: The First Day that the Room should not be cleaned **DAY AFTER ARRIVAL*** > *To Date The last Day that the room should not be cleaned **BEFORE DAY OF CHECKING OUT*** > *Ok*
@@ -129,13 +129,14 @@
         - **for the second no Cleaning Day**
           - *One Click On Guests Name* > *Options* > *Traces* > *New* > *Set first Specific Date* > *Set second Same specific Date* > *Dept Code : FO1 & HSK* > *Ok* > *Trace Text : Second Green Option* > *Ok* 
 #### Setting Membership for Benefits
-- We set Membership **Only** for the following Benefit
-  - *HRwards*
-  - *Bahn Comfort* 
-  - *Bahn Bonus*
+- We set Membership **Only** for the *following Benefit*
+  - **HRwards**
+  - **Bahn Comfort**
+  - **Bahn Bonus**
     - *One Click on Guest name or Room* > *Profile* > *Options* > *Memberships* > *New* > *arrow down on Type* > *choose Membership Type* > *Ok* > *Under Card Number Type the Long Nr. for HRewards or Long Nr. Bahn bonus or Long Nr. Bahn Comfort* > *Ok*
 ### Note
 - Green Option with Night Combination : Should be givin to someone who stays minimaly *2 NIGHTS is equal to 3 DAYS , arrival Day and Departure Day are **Inclusive***
+- As Nighty we are *not allowed* to collect Points for HReward's Members
 
 
 
