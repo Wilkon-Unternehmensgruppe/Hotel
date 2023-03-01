@@ -48,11 +48,11 @@
 
 ## Before End Of Day
 ### Downtime Reports
-  - *Miscellaneous* > *Reports* > *Downtime Reports* > *Double Click* > *Print*
+- *Miscellaneous* > *Reports* > *Downtime Reports* > *Double Click* > *Print*
 #### Location
-  - In Transparent sleeve which is Located **on the right side of the Cashier over the colored Drawer Box**
+- In Transparent sleeve which is Located **on the right side of the Cashier over the colored Drawer Box**
 ##### Note
-  - Throw away **The old** Downtime Reports
+- Throw away **The old** Downtime Reports
 
 <a href="#top">Back to top</a>
 
@@ -63,6 +63,9 @@
   - *Service : On Service Bankett*
   - *FO : Tear It up into a Square and Stick it down in FO* **NEEDED FOR TAGESPLÄNE PREPARETION**
   - *BO : Frau H. Richter office*
+
+<a href="#top">Back to top</a>
+
 ### P106
 - *Miscellaneous* > *Reports* > P106 > *Print*
 #### Location
