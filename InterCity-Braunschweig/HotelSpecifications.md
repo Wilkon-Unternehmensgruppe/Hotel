@@ -112,24 +112,24 @@
   - **BahnComfort**
 - Benefits are *for*
   - **BahnCards are for HRLevels**
-
-
 ### Know How
 #### Setting Green Option with It's Trace
-- *we don't Consider Arrival Date and Departure Date and Maximum Givin Green Option are 3 no Matter how long the stay*
-  - *In the Reservation Mask* > *Item Inv. Arrow Down* > *New* > *Item Code* > *GO* > *Ok*
-    - *After Clicking Save and Ok in the Main Reservation Mask The Question Inventory item GO has trace text attached. Create Trace?* > *Yes* > *From Date: The First Day that the Room should not be cleaned **DAY AFTER ARRIVAL*** > *To Date The last Day that the room should not be cleaned **BEFORE DAY OF CHECKING OUT*** > *Ok*
-      - *E.g*
-        - *Guest arrives on Monday and Checks out on Wedenesday*
-          - *One Green Option*
-        - *Guest arrives on Monday AND CHECKS OUT ON Thursday*
-          - *Two Green Option*
-        - *Guest remains for One Month then he gets 3 Green Option*
-  - **If the Guest want no Cleaning in specific days in the Stay of Month , we set the green Option for the First day normally as above-mentioned**
-    - **for the second no Cleaning Day**
-      - *One Click On Guests Name* > *Options* > *Traces* > *New* > *Set first Specific Date* > *Set second Same specific Date* > *Dept Code : FO1 & HSK* > *Ok* > *Trace Text : Second Green Option* > *Ok* 
+- We set a Trace **Only** for the following 
+  - *Green Option*
+    - *we don't Consider Arrival Date and Departure Date and Maximum Givin Green Option are 3 no Matter how long the stay*
+      - *In the Reservation Mask* > *Item Inv. Arrow Down* > *New* > *Item Code* > *GO* > *Ok*
+        - *After Clicking Save and Ok in the Main Reservation Mask The Question Inventory item GO has trace text attached. Create Trace?* > *Yes* > *From Date: The First Day that the Room should not be cleaned **DAY AFTER ARRIVAL*** > *To Date The last Day that the room should not be cleaned **BEFORE DAY OF CHECKING OUT*** > *Ok*
+          - *E.g*
+            - *Guest arrives on Monday and Checks out on Wedenesday*
+              - *One Green Option*
+            - *Guest arrives on Monday AND CHECKS OUT ON Thursday*
+              - *Two Green Option*
+            - *Guest remains for One Month then he gets 3 Green Option*
+      - **If the Guest want no Cleaning in specific days in the Stay of Month , we set the green Option for the First day normally as above-mentioned**
+        - **for the second no Cleaning Day**
+          - *One Click On Guests Name* > *Options* > *Traces* > *New* > *Set first Specific Date* > *Set second Same specific Date* > *Dept Code : FO1 & HSK* > *Ok* > *Trace Text : Second Green Option* > *Ok* 
 #### Setting Membership for Benefits
-- We set Membership for the following
+- We set Membership **Only** for the following
   - *HRwards*
   - *Bahn Comfort* 
   - *Bahn Bonus*
