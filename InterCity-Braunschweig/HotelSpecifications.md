@@ -6,7 +6,7 @@
   - [Note](#note)
 - [Benefits](#benefits)
   - [Know How](#know-how-1)
-    - [Setting Green Option with It's Trace](#setting-green-option-with-its-trace)
+    - [Setting Trace for Benefits](#setting-trace-for-benefits)
     - [Setting Membership for Benefits](#setting-membership-for-benefits)
   - [Note](#note-1)
 - [Check-In](#check-in)
@@ -113,8 +113,8 @@
 - Benefits are *for*
   - **BahnCards are for HRLevels**
 ### Know How
-#### Setting Green Option with It's Trace
-- We set a Trace **Only** for the following 
+#### Setting Trace for Benefits
+- We set a Trace **Only** for the following Benefit
   - *Green Option*
     - *we don't Consider Arrival Date and Departure Date and Maximum Givin Green Option are 3 no Matter how long the stay*
       - *In the Reservation Mask* > *Item Inv. Arrow Down* > *New* > *Item Code* > *GO* > *Ok*
@@ -129,7 +129,7 @@
         - **for the second no Cleaning Day**
           - *One Click On Guests Name* > *Options* > *Traces* > *New* > *Set first Specific Date* > *Set second Same specific Date* > *Dept Code : FO1 & HSK* > *Ok* > *Trace Text : Second Green Option* > *Ok* 
 #### Setting Membership for Benefits
-- We set Membership **Only** for the following
+- We set Membership **Only** for the following Benefit
   - *HRwards*
   - *Bahn Comfort* 
   - *Bahn Bonus*
