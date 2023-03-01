@@ -111,10 +111,16 @@
   - **BahnBonus/BahnComfort**
   - **Intercity Hotel Braunschweig BSVG**
 - Benefits are *for*
-  - **BahnCards are for anyone who has a BahnCard**
-    - If the Guest is a *HReward Member* and he has BahnCard 
+  - **BahnBonus/BahnCards are for anyone who has a BahnCard**
+    - If the Guest is a *HReward Member* and he has BahnCard
+      - *On* The *BahnBonus/BahnComfort* we Type 
+        - Family Name , First
+        - Arrival and Departure Date
       - *Then* has to choose either having a *HRewards Benefit* **OR** *BahnBonus/BahnComfort*
   -  **Intercity Hotel Braunschweig BSVG** are for **ALL** *HRewards Level Members*
+     - *On* The *BahnBonus/BahnComfort* we Type 
+        - Family Name , First
+        - Arrival and Departure Date
 ### Know How
 #### Setting Trace for Benefits
 - We set a Trace **Only** for the *following Benefit*
