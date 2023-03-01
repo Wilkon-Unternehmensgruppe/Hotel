@@ -107,9 +107,11 @@
 ## Benefits
 - Types of Benefits *are* 
   - **Green Option**
+    - **Who**
+      - *Guests who doesn't which to have a Room Cleaning*
   - **HRewards**
     - **Who**
-      - *People who rigestered Themselves for HRewards Membership*
+      - *Guests who rigestered Themselves for HRewards Membership*
   - **BahnBonus/BahnComfort**
     - **Who**
       - *anyone who has a BahnCard*
@@ -124,9 +126,6 @@
         - *On* The *BahnBonus/BahnComfort* we Type 
           - Family Name , First
           - Arrival and Departure Date
-- Benefits are *for*
-  - **Intercity Hotel Braunschweig BSVG** are for **ALL** *HRewards Level Members*
-
 ### Know How
 #### Setting Trace for Benefits
 - We set a Trace **Only** for the *following Benefit*
