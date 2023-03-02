@@ -15,7 +15,6 @@
   - [Registeration Cards](#registeration-cards)
     - [Location](#location-5)
   - [Buchung Market Belege *Microkasse im Bar*](#buchung-market-belege-microkasse-im-bar)
-  - [Tagesabschluss Abschnitt von beiden Service Terminal Ziehen](#tagesabschluss-abschnitt-von-beiden-service-terminal-ziehen)
   - [Micros](#micros)
   - [Bearbeitung von Micros und Alle Quittung vom Service](#bearbeitung-von-micros-und-alle-quittung-vom-service)
   - [CC Abgleich neu 270519](#cc-abgleich-neu-270519)
@@ -150,7 +149,7 @@
   - **FÜR EINAHMEN NACH 04:00 UHR** 
     - **MORGEN ARBEITE ICH NICHT** auf jeden fall den frühdienst geben
     - **MORGEN ARBEITE ICH ODER ANDERE NIGHTY** quitting in brief mit *NIGHTY VERMERK* in kasse lassen und alles buchen nächste nacht   
-### Tagesabschluss Abschnitt von beiden Service Terminal Ziehen
+- **Tagesabschluss Abschnitt von beiden Service Terminal Ziehen**
 ### Micros
 - *Miscellaneous* > *Reports* > *micros* **NOTE micros sind ähnlich wie 12.029j von Intercity**
 ### Bearbeitung von Micros und Alle Quittung vom Service
