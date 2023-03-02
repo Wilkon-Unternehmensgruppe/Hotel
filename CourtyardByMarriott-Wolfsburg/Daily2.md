@@ -26,22 +26,22 @@
   - [Room Management](#room-management)
     - [Location](#location-6)
   - [d140](#d140)
-    - [Location](#location-7)
+    - [Location In the Accounting Folder](#location-in-the-accounting-folder)
   - [Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben](#auschecken-von-90009500-und-alle-pm-konton-die-beitrag-null-haben)
   - [Cashier Shift close\*\*](#cashier-shift-close)
-    - [Location](#location-8)
+    - [Location](#location-7)
   - [End Of Day](#end-of-day)
     - [Location and Order of End Of Day Report](#location-and-order-of-end-of-day-report)
 - [After End Of Day](#after-end-of-day)
-    - [Location](#location-9)
+    - [Location](#location-8)
   - [9000,and 9500 Einchecken](#9000and-9500-einchecken)
   - [Frühstuck Liste](#frühstuck-liste)
-    - [Location](#location-10)
+    - [Location](#location-9)
   - [A136 for Service](#a136-for-service)
-    - [Location](#location-11)
+    - [Location](#location-10)
   - [d114 Revenue By Transaction Codes Net](#d114-revenue-by-transaction-codes-net)
   - [Preparation of WFGCY Reporting Tool](#preparation-of-wfgcy-reporting-tool)
-    - [Location](#location-12)
+    - [Location](#location-11)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -191,7 +191,7 @@
 #### Location Of Worked on Micros with Reciepts , CC Abgleich neu 270519 , Volage Kreditkarteabschluss
 - **Allocation in the Black Accounting Folder as following**
   - **Volage Kreditkartenabschluss** comes in n CC Abschluss
-  - Worked on Micros with it's Reciepts
+  - Worked on Micros with it's Reciepts *[look at Location under [d140](#d140)](#location-in-the-accounting-folder)*
     - **Amex** = Amex
     - **MasterCard** = MasterCard 
     - *etc* 
@@ -228,13 +228,16 @@
       - *Double Click Amex* > *Transaction Code* > *Arrow Down* > *Description* > *Type Amex for* *e.g for Amex, Mast for MasterCard usw* > *Search* > *Alles abhacken*
         - *Description* > *Type MAN* *also for each Zahlungsart* > *Search* > *abhacken von der* *BETROFFENEN KREDITKARTE e.g Amex for Amex usw* > *OK*
   - *Under Cashier* > *Type 2747* > *Print* **NOTE 2747 ist ähnlich wie 425203 von Intercity**
-#### Location
-- *In der schwarzen Buchhaltungsmappe, in the Followoing Order **here comes everything from Kreditkarten and Kreditkarten Bearbeitung***
+#### Location In the Accounting Folder
+- **Allocation in the Black Accounting Folder as following** **here comes everything from Credit Cards and Worked on Credit Cards***
      - *In each Slide from Bottom to Top Please*
         - Right next to Lillafarbigen Mappe in FO there is a Briefablage , and in The beginning of the Shift we have to take all Credit cards out *aufräumen* , These Credit Cards Paper are from Different Cashier
         - [Worked on Reciepts with Micros](#working-on-micros-and-all-reciepts-from-service-and-front-office)
-        - *darauf* Meine Einnahmen als *cashier 2747 von d140* *If there are Einnahmen*
-        - *darauf* Gesamte Übersicht *meaning the d140 without Cashier Nr. 2747*
+          - **Amex** = Amex
+          - **MasterCard** = MasterCard 
+          - *etc* 
+        - *on it* My Earnings as *cashier 2747 from d140* *If there are Earnings*
+        - *on it* General Earnings *meaning the d140 without Cashier Nr. 2747*
 ### Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben
 - *Cashiering* > *Quick Check Out* > *9000,9500 and alle PM Konten bei **BETRAG NULL*** > *C/O Zero*
   - *wenn das PM Konto einen Betrag hat , dann verlängern*
