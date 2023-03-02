@@ -20,28 +20,28 @@
   - [Working on Micros and All Reciepts from Service and Front Office](#working-on-micros-and-all-reciepts-from-service-and-front-office)
     - [Note](#note-3)
   - [CC Abgleich neu 270519](#cc-abgleich-neu-270519)
-  - [Vorlage KreditkartenABschluss\*\*](#vorlage-kreditkartenabschluss)
-    - [Location](#location-6)
+  - [Vorlage Kreditkartenabschluss](#vorlage-kreditkartenabschluss)
+    - [Location Of Worked on Micros with Reciepts , CC Abgleich neu 270519 , Volage Kreditkarteabschluss](#location-of-worked-on-micros-with-reciepts--cc-abgleich-neu-270519--volage-kreditkarteabschluss)
   - [Voucher *We need a136*](#voucher-we-need-a136)
   - [Room Management](#room-management)
-    - [Location](#location-7)
+    - [Location](#location-6)
   - [d140](#d140)
-    - [Location](#location-8)
+    - [Location](#location-7)
   - [Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben](#auschecken-von-90009500-und-alle-pm-konton-die-beitrag-null-haben)
   - [Cashier Shift close\*\*](#cashier-shift-close)
-    - [Location](#location-9)
+    - [Location](#location-8)
   - [End Of Day](#end-of-day)
     - [Location and Order](#location-and-order)
 - [After End Of Day](#after-end-of-day)
-    - [Location](#location-10)
+    - [Location](#location-9)
   - [9000,and 9500 Einchecken](#9000and-9500-einchecken)
   - [Frühstuck Liste](#frühstuck-liste)
-    - [Location](#location-11)
+    - [Location](#location-10)
   - [A136 for Service](#a136-for-service)
-    - [Location](#location-12)
+    - [Location](#location-11)
   - [d114 Revenue By Transaction Codes Net](#d114-revenue-by-transaction-codes-net)
   - [Preparation of WFGCY Reporting Tool](#preparation-of-wfgcy-reporting-tool)
-    - [Location](#location-13)
+    - [Location](#location-12)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -61,7 +61,7 @@
 ### Baby Daily 
 - *Miscellaneous* > *Reports* > *Baby Daily* > *Double Click* > *Tomorrow's Date* > *Print **3 times***
 #### Location
-- distribute over *Service,FO,BO*
+- allocate over *Service,FO,BO*
   - *Service : On Service Bankett*
   - *FO : Tear It up into a Square and Stick it down in FO*
   - *BO : Frau Richter office*
@@ -118,7 +118,7 @@
                 - AE *or* SF
 #### Location
 - NOTE *after Finishing the Tagesplanung 3 times print for Service,FO,BO*
-- distribute over *Service,FO,BO*
+- allocate over *Service,FO,BO*
   - *Service : On Service Bankett*
   - *FO : Put it In the Black Presentation Folder which is right betweeen the Cashier and the colored Drawer Box*
   - *BO : Frau H. Richter office*
@@ -185,16 +185,20 @@
           - *NOTE : In MAESTRO comes no 4 Digits rater XXXX kommt*
     - **IN Bemerkung comes always the Difference Result with a Reason**
       - *E.g* Differenz : 7.60€ , Grund: TIP in Opera nicht gebucht *OR* FO Buchungen
-### Vorlage KreditkartenABschluss** 
+### Vorlage Kreditkartenabschluss
 - *Datein(Z)* > *Wolfsburg* > *FrontOffice* > *Wilkon* > *Vorlagen*
   - **Here should all Results be entered by Hand depending on Payment Method *Amex in Amex etc***
-#### Location
-- **Verteilung im SchwarzeMappe von Buchhaltung as following**
-  - **Volage Kreditkartenabschluss** = In CC Abschluss
+#### Location Of Worked on Micros with Reciepts , CC Abgleich neu 270519 , Volage Kreditkarteabschluss
+- **Allocation in the Black Accounting Folder as following**
+  - **Volage Kreditkartenabschluss** comes in n CC Abschluss
+  - Worked on Micros with it's Reciepts
     - **Amex** = Amex
     - **MasterCard** = MasterCard 
-    - *usw* 
-  - **CC Abgleich neu 270519** = Gleich vorne als Deckblatt von *schwarzen Mappe(Buchhaltungsmappe)*
+    - *etc* 
+  - **CC Abgleich neu 270519** = Right in the Front of the black Accounting Folder as a Cover Sheet
+
+<a href="#top">Back to top</a>
+
 ### Voucher *We need a136*
 - *Cashiering* > *Billing* > *search Room* > *Double Click* > *should be on the right Window to post* > *Post* > *Code : 21802* > *Amount*
   - *Under Amount* if it's 5 Euro then 5 Euro *Not like HRewards Or GreenOption in Intercity*
