@@ -191,7 +191,7 @@
 #### Location Of Worked on Micros with Reciepts , CC Abgleich neu 270519 , Volage Kreditkarteabschluss
 - **Allocation in the Black Accounting Folder as following**
   - **Volage Kreditkartenabschluss** comes in n CC Abschluss
-  - Worked on Micros with it's Reciepts *[look at Location under [d140](#d140)](#location-in-the-accounting-folder)*
+  - Worked on Micros with it's Reciepts *[look at Location under [d140](#location-in-the-accounting-folder)]*
     - **Amex** = Amex
     - **MasterCard** = MasterCard 
     - *etc* 
