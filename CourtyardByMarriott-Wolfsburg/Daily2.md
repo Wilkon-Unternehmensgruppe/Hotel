@@ -31,7 +31,7 @@
   - [Cashier Shift close\*\*](#cashier-shift-close)
     - [Location](#location-8)
   - [End Of Day](#end-of-day)
-    - [Location and Order](#location-and-order)
+    - [Location and Order of End Of Day Report](#location-and-order-of-end-of-day-report)
 - [After End Of Day](#after-end-of-day)
     - [Location](#location-9)
   - [9000,and 9500 Einchecken](#9000and-9500-einchecken)
@@ -208,11 +208,17 @@
   - *Reservierung mask* ↓ *Packages* > *New* > *Package* > *P6_10_FNB*
     - **Trace setzen** *Then we should trace it just like GreenOption in Intercity* 
       - *Options* > *Traces* > *New* > *From Check-In to Check-Out Date* > *04:00 O'Clock* > *Dept Code : NIG* > *Trace Text : Voucher P6_10_FNB*
+
+<a href="#top">Back to top</a>
+
 ### Room Management
 - *Room Management* > *House Keeping* > *Facility Forecast* > *Print*
-  - snapping tool auschneiden und dann ausdrucken vertikal im hinteren drucker
+  - Snap shot the Screen on Facility Forcast and print it vertically in the Back Printer
 #### Location
-- This Paper comes in the Order of End Of Day
+- This Paper comes in *[the Order of End Of Day](#location-and-order-of-end-of-day-report)*
+
+<a href="#top">Back to top</a>
+
 ### d140
 - *Miscellaneous* > *Reports* > *d140* *NOTE d140 sind ähnlich wie 12.029f von Intercity*
   - Parking *We start always from Parking Not City Ledger or Amex like Intercity*
@@ -244,7 +250,7 @@
   - Deckblatt
   - Trail Balance
   - Credit Card Authorization
-#### Location and Order
+#### Location and Order of End Of Day Report
 - *Cancelation REPORTS und 1 NO SHOW report in Reservierungsbirefablage legen*
 - *1 No show report in HSKbriefablage legen*
 - *1 No show report in der schwarze mappe*
