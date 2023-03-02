@@ -232,7 +232,7 @@
 - *In der schwarzen Buchhaltungsmappe, in the Followoing Order **here comes everything from Kreditkarten and Kreditkarten Bearbeitung***
      - *In each Slide from Bottom to Top Please*
         - Right next to Lillafarbigen Mappe in FO there is a Briefablage , and in The beginning of the Shift we have to take all Credit cards out *aufräumen* , These Credit Cards Paper are from Different Cashier
-        - *darauf* Bearbeitete Kreditkarten with the Micros angeheftet on It
+        - [Worked on Reciepts with Micros](#location-of-worked-on-micros-with-reciepts--cc-abgleich-neu-270519--volage-kreditkarteabschluss)
         - *darauf* Meine Einnahmen als *cashier 2747 von d140* *If there are Einnahmen*
         - *darauf* Gesamte Übersicht *meaning the d140 without Cashier Nr. 2747*
 ### Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben
