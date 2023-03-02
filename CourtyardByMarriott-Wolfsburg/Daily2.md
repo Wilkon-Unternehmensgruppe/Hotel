@@ -12,7 +12,7 @@
     - [Location](#location-3)
   - [A136 (Guest IHN Traces )](#a136-guest-ihn-traces-)
     - [Location](#location-4)
-  - [Registeration Cards\*\*](#registeration-cards)
+  - [Registeration Cards](#registeration-cards)
     - [Location](#location-5)
   - [Buchung Market Belege *Microkasse im Bar*](#buchung-market-belege-microkasse-im-bar)
   - [Tagesabschluss Abschnitt von beiden Service Terminal Ziehen](#tagesabschluss-abschnitt-von-beiden-service-terminal-ziehen)
@@ -121,21 +121,30 @@
   - *Service : On Service Bankett*
   - *FO : Put it In the Black Presentation Folder which is right betweeen the Cashier and the colored Drawer Box*
   - *BO : Frau H. Richter office*
+
+<a href="#top">Back to top</a>
+
 ### A136 (Guest IHN Traces )
 - *Miscellaneous* > *Reports* > *A136(Guest INH Traces)* > *Click on Department* > *Click on None* > *Unselect All* > *Select NIG* > *Print*
 #### Location
 - *In the Front over the Parking Machine*
-### Registeration Cards** 
+
+<a href="#top">Back to top</a>
+
+### Registeration Cards 
 - *Print Registeration Cards same as Intercity but we dont print Groups at all*  
 - *Registeration Form* > *New_Updated Reg_card*
 #### Location
 - *In Registeration Cards Box*
+
+<a href="#top">Back to top</a>
+
 ### Buchung Market Belege *Microkasse im Bar*
 - **NOTE ***Auf zimmer schreiben wenn NO POST HACKEN , ansonsten vor ort mit CC oder Cash zahlen*
-- **FALLS** mit Cash Vor ort Zahlen
-- Alle Preise sind in der *LILLA Farbigen Mappe* , und genommene Geld in Kasse Legen 
-- **FALLS** mit CC Vor ort Zahlen
-  - *Terminal* > *Standal* > *Sale* > *Preis Eingeben wie es in **LILLA Farbigen Mappe** steht*
+  - **FALLS** mit Cash Vor ort Zahlen
+    - Alle Preise sind in der *LILLA Farbigen Mappe* , und genommene Geld in Kasse Legen 
+  - **FALLS** mit CC Vor ort Zahlen
+    - *Terminal* > *Standal* > *Sale* > *Preis Eingeben wie es in **LILLA Farbigen Mappe** steht*
 - **AM ENDE** Alles was von Quittungen gesammlt is muss in Mircrokasse verbucht werden.
 - **STRENG WICHTIG** Z-BERICHT *MIT ARBEITER REPORT* muss maximal bis 03:55 uhr ausgedruckt werden 
   - **FÜR EINAHMEN NACH 04:00 UHR** 
