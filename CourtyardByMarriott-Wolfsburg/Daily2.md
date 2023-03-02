@@ -6,7 +6,7 @@
   - [Baby Daily](#baby-daily)
     - [Location](#location-1)
       - [Note](#note-1)
-  - [P106](#p106)
+  - [p106](#p106)
     - [Location](#location-2)
   - [Preparation Tagespläne](#preparation-tagespläne)
     - [Location](#location-3)
@@ -16,7 +16,7 @@
     - [Location](#location-5)
   - [Buchung Market Belege *Microkasse in the Bar*](#buchung-market-belege-microkasse-in-the-bar)
   - [Micros](#micros)
-    - [NOTE](#note-2)
+    - [Note](#note-2)
   - [Working on Micros and All Reciepts from Service and Front Office](#working-on-micros-and-all-reciepts-from-service-and-front-office)
     - [Note](#note-3)
   - [CC Abgleich neu 270519](#cc-abgleich-neu-270519)
@@ -34,14 +34,15 @@
     - [Location and Order of End Of Day Report](#location-and-order-of-end-of-day-report)
 - [After End Of Day](#after-end-of-day)
     - [Location](#location-8)
-  - [9000,and 9500 Einchecken](#9000and-9500-einchecken)
+  - [Check-In 9000,and 9500](#check-in-9000and-9500)
   - [Frühstuck Liste](#frühstuck-liste)
     - [Location](#location-9)
   - [A136 for Service](#a136-for-service)
     - [Location](#location-10)
   - [d114 Revenue By Transaction Codes Net](#d114-revenue-by-transaction-codes-net)
-  - [Preparation of WFGCY Reporting Tool](#preparation-of-wfgcy-reporting-tool)
     - [Location](#location-11)
+  - [Preparation of WFGCY Reporting Tool](#preparation-of-wfgcy-reporting-tool)
+    - [Location](#location-12)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
@@ -70,7 +71,7 @@
 
 <a href="#top">Back to top</a>
 
-### P106
+### p106
 - *Miscellaneous* > *Reports* > P106 > *Print*
 #### Location
 - Put it in the Reservation Letter Tray in the BackOffice *Reservierungsbirefablag*
@@ -157,7 +158,7 @@
 
 ### Micros
 - *Miscellaneous* > *Reports* > *micros* 
-#### NOTE 
+#### Note
 - **Micros** are similar to **12.029j** of Intercity
 
 <a href="#top">Back to top</a>
@@ -264,13 +265,13 @@
 - *Cancelation Reports and 1 NO SHOW report in the Reservation Letter Tray in the BackOffice **Reservierungsbirefablag***
 - *1 No show report in HSK Letter Tray in the backoffice*
 - *1 No show report with the Prepared Tagespläne in the Black Presentation Folder which is right betweeen the Cashier and the colored Drawer Box*
-- **File Order of End Of Day** *Ganze File Ordnung legen in der schwarze Buchhaltungs mappe under Trail as the following order*
-  - Snapped Facility Forecast *Look at Room Management Step*
+- **File Order of End Of Day** *The whole File Order should be in the Accounting Folder under Trail as the following order*
+  - Snapped Facility Forecast *Look at [Room Management](#room-management)*
   - Deckblatt *Courtyard by Marriott Wolfsburg - Night Audit - Date*
   - Manager Flash
   - TRAIL BALANCE 
   - Credit card authorization 
-  - d114 *Revenue by Transaction Codes Net*
+  - d114 **Revenue by Transaction Codes Net**
 
 <a href="#top">Back to top</a>
 
@@ -280,61 +281,83 @@
   - *after night audith HSK* > *print*
 #### Location
 - **After night audith FO**
-  - in der schwarzen Mappe neben durchsichtige mappe Unter Kasse mit dem No Show Report und Tagespläne
+  - *1 No show report with the Prepared Tagespläne in the Black Presentation Folder which is right betweeen the Cashier and the colored Drawer Box*
 - **After night audith HSK**
-  - In HSK Briefablage mit 1 No Show Report
-### 9000,and 9500 Einchecken
+  - *In HSK Letter Tray with 1 No Show Report*
+
+<a href="#top">Back to top</a>
+
+### Check-In 9000,and 9500
   - *Arrivals* > *Advanced* > *Room Type* > *Type PM* > *Search* > *both Rooms Einchecken*
+
+<a href="#top">Back to top</a>
+
 ### Frühstuck Liste
 - *Miscellaneous* > *Reports* > **MFD** *NUM DETAILED* > *ALL* > *Print*
 #### Location
-- it goes to Services Bankett
+- *It goes to Services Bankett*
+
+<a href="#top">Back to top</a>
+
 ### A136 for Service
-- Miscellaneous > Reports > a136 > F&b > Print
+- *Miscellaneous* > *Reports* > *a136* > *F&b* > *Print*
 #### Location 
-- Zum services mit Breakfast List
+- *It goes to Services Bankett*
+
+<a href="#top">Back to top</a>
+
 ### d114 Revenue By Transaction Codes Net
-- *Miscellaneous* > *Reports* > *d114* > *Types : Rrevenue* > *Date Range : Month to Date* > *From Date : Date of Yesterday* > *Currrency : Euro* > *Group By : SubGroup*> *Print*
+- *Miscellaneous* > *Reports* > *d114* > **Types :** *Rrevenue* > **Date Range :** M*onth to Date* > **From Date :** *Date of Yesterday* > **Currrency :** *Euro* > **Group By :** *SubGroup* > *Print*
+#### Location
+- *This Report is the last Papers of the End Of Day File Order [Look Here](#location-and-order-of-end-of-day-report)*
+
+<a href="#top">Back to top</a>
+
 ### Preparation of WFGCY Reporting Tool
 - Shift F3 *for the next 3 days , beginning from the Today's Date Really Today's Date*
   - Needed info are : 
-  - max occupied Tonight
-  - room revenue *Netto*
-  - room Revenue *Brutto* 
+    - max occupied Tonight
+    - room revenue *Netto*
+    - room Revenue *Brutto* = room revenue *Netto* * 1.07
 - *Datein(Z)* > *Shared* > *Reporting Tool* > *Wolfsburg* > *WFGCY* Reporting Tool 2023 *Password is allerpark*
   - **Reservation Occupancy** *The following steps has to be done for 3 days , (Really Today's Date, tomorrow, and after tomorrow)*
-    - *Occuepied Room*
+    - Occuepied Room
       - *Max occupied Tonight*
     - Average Daily Rate
       - *Room Revenue in Brutto*
-      - **Daily Report ↓ Statistics**
-  - **Manager Flash from TA** *Take the following Info from Manager Flash We consider **ONLY RECENT Year and Underneath of It DAY**
-    - Rooms Occupied 
-    - Complimentary Rooms 
-    - In-House Adults 
-    - Travel Agent Rooms In-House 
-    - Group Rooms In-House 
-    - Arrival Rooms
-    - Walk-in Rooms
-    - No Show Rooms 
-  - **Revenue** *Take d114 that is printed after the TA*
-    - **Fill The Excel till the end *Bev Banquett , Food Banquett ... usw***
-      - *Click **Menü** after finishing Excel*
-        - **Print Page 1 *3 times***
-        - **Print Page 2 *3 times***
-      - *Click **Main Menu** after printing Page 1 and Page 2*
-        - *Click **Create a File to mail and exit Report***
-          - Datein(Z) > Shared > Reporting Tool > Wolfsburg > WFGCY Reporting Tool 2023
-            - *Right Click on WFGCY Reporting Tool 2023 , Send to , E-mail Empfänger*
+  - *click on Daily Report* > *click on Statistics*
+    - Take the following Info from **Manager Flash from TA** *consider ONLY RECENT Year and Underneath of It DAY*
+      - Rooms Occupied 
+      - Complimentary Rooms 
+      - In-House Adults 
+      - Travel Agent Rooms In-House 
+      - Group Rooms In-House 
+      - Arrival Rooms
+      - Walk-in Rooms
+      - No Show Rooms 
+  - *click on Revenue* 
+    - Take *d114 that is printed after the End Of Day*
+      - **Fill The Excel Table** til the end 
+        - *Bev Banquett , Food Banquett ... etc*
+  - *Click **Menü** after finishing Excel*
+    - **Print Page 1 *3 times***
+    - **Print Page 2 *3 times***
+  - *Click **Main Menu** after printing Page 1 and Page 2 **3 Times***
+  - *Click **Create a File to mail and exit Report***
+    - Then go to *Datein(Z)* > *Shared* > *Reporting Tool* > *Wolfsburg* > **NOT** *WFGCY Reporting Tool 2023* *rather the created File*
+            - *Right Click on created File* > *Send to* > *E-mail Empfänger*
               - **The email should be sent to the following**
                 - *daily.wolfsburg@baum-hotels.de*
                 - *technik.wolfsburg@baum-hotels.de*
                 - *schweidler@baum-gruppe.de*
 #### Location
 - The *3 times* printed **Page 1** 
-  - *One Page goes to Fr. Richter, One Page goes to Service like Breakfast List and the Last Page goes in der schwarze Mappe*
+  - *One Page goes to Fr. Richter, One Page goes to Service like Breakfast List and the Last Page goes in The Black Presentation Folder*
 - The *3 times* printed **Page 2**
-  - *One Page goes to Fr. Richter, One Page goes to Service like Breakfast List and the Last Page goes in der schwarze Mappe*
+  - *One Page goes to Fr. Richter, One Page goes to Service like Breakfast List and the Last Page goes in The Black Presentation Folder*
+
+<a href="#top">Back to top</a>
+
 <!--
 Buchhaltungsmappe Order
 Trail Balance = End Of Day Report
@@ -342,5 +365,6 @@ Kasse = Cashier Shift Closure
 CC Abschluss = Kreditkarten Abschluss 
 
 -->
-- Quick Preferences check out (a114)
-  - 
+<!-- 
+- Quick Preferences check out (a114) 
+-->
