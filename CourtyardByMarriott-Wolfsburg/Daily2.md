@@ -235,13 +235,23 @@
           - *etc* 
         - *on it* My Earnings as *cashier 2747 from d140* *If there are Earnings*
         - *on it* General Earnings *meaning the d140 without Cashier Nr. 2747*
+
+<a href="#top">Back to top</a>
+
 ### Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben
-- *Cashiering* > *Quick Check Out* > *9000,9500 and alle PM Konten bei **BETRAG NULL*** > *C/O Zero*
-  - *wenn das PM Konto einen Betrag hat , dann verlängern*
+- *Cashiering* > *Quick Check Out* > *9000,9500 and ALL PM Accounts with **AMOUNT Zero*** > *C/O Zero*
+  - *If the PM Account has an Amount then we have to extend it*
+<!-- OR wenn pm konto einen betrag hat , ODER WAS NOCH ?-->
+
+<a href="#top">Back to top</a>
+
 ### Cashier Shift close**
 - *Cashiering* > *Cashier Shift Close*
 #### Location
-- Report von Cashier Shift Close in der Kasse Legen
+- Put the Report in the Real Cashier for FO Documentation
+
+<a href="#top">Back to top</a>
+
 ### End Of Day
 - *The following will be automaticlly printed*
   - Manager flash
@@ -251,11 +261,10 @@
   - Trail Balance
   - Credit Card Authorization
 #### Location and Order of End Of Day Report
-- *Cancelation REPORTS und 1 NO SHOW report in Reservierungsbirefablage legen*
-- *1 No show report in HSKbriefablage legen*
-- *1 No show report in der schwarze mappe*
-  - *schwarze mappe liegt(wo Tagesplaene) zwischen lilla mappe und faechern MIT AFTER NIGHT AUDIT FO-HASK gock unten*
-- **File Ordnung von TA** *Ganze File Ordnung legen in der schwarze Buchhaltungs mappe under Trail as the following order*
+- *Cancelation REPORTS and 1 NO SHOW report in the Reservation Letter Tray in the BackOffice **Reservierungsbirefablag***
+- *1 No show report in HSK Letter Tray in the backoffice*
+- *1 No show report with the Prepared Tagespläne in the Black Presentation Folder which is right betweeen the Cashier and the colored Drawer Box*
+- **File Order of End Of Day** *Ganze File Ordnung legen in der schwarze Buchhaltungs mappe under Trail as the following order*
   - Snapped Facility Forecast *Look at Room Management Step*
   - Deckblatt *Courtyard by Marriott Wolfsburg - Night Audit - Date*
   - Manager Flash
