@@ -27,7 +27,7 @@
     - [Location](#location-6)
   - [d140](#d140)
     - [Location In the Accounting Folder](#location-in-the-accounting-folder)
-  - [Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben](#auschecken-von-90009500-und-alle-pm-konton-die-beitrag-null-haben)
+  - [Check out 9000 \& 9500 and all PM Accounts with the Amount of ZERO](#check-out-9000--9500-and-all-pm-accounts-with-the-amount-of-zero)
   - [Cashier Shift close\*\*](#cashier-shift-close)
     - [Location](#location-7)
   - [End Of Day](#end-of-day)
@@ -238,7 +238,7 @@
 
 <a href="#top">Back to top</a>
 
-### Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben
+### Check out 9000 & 9500 and all PM Accounts with the Amount of ZERO
 - *Cashiering* > *Quick Check Out* > *9000,9500 and ALL PM Accounts with **AMOUNT Zero*** > *C/O Zero*
   - *If the PM Account has an Amount then we have to extend it*
 <!-- OR wenn pm konto einen betrag hat , ODER WAS NOCH ?-->
@@ -261,7 +261,7 @@
   - Trail Balance
   - Credit Card Authorization
 #### Location and Order of End Of Day Report
-- *Cancelation REPORTS and 1 NO SHOW report in the Reservation Letter Tray in the BackOffice **Reservierungsbirefablag***
+- *Cancelation Reports and 1 NO SHOW report in the Reservation Letter Tray in the BackOffice **Reservierungsbirefablag***
 - *1 No show report in HSK Letter Tray in the backoffice*
 - *1 No show report with the Prepared Tagespläne in the Black Presentation Folder which is right betweeen the Cashier and the colored Drawer Box*
 - **File Order of End Of Day** *Ganze File Ordnung legen in der schwarze Buchhaltungs mappe under Trail as the following order*
@@ -271,6 +271,9 @@
   - TRAIL BALANCE 
   - Credit card authorization 
   - d114 *Revenue by Transaction Codes Net*
+
+<a href="#top">Back to top</a>
+
 ## After End Of Day
 - *miscillineous* > *Reports* > *after*
   - *after night audith FO* > *Print*
