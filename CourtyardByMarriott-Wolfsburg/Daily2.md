@@ -199,7 +199,7 @@
 
 <a href="#top">Back to top</a>
 
-### Voucher *We need a136*
+### Voucher *We need [a136](#a136-guest-ihn-traces)*
 - *Cashiering* > *Billing* > *search Room* > *Double Click* > *should be on the right Window to post* > *Post* > *Code : 21802* > *Amount*
   - *Under Amount* if it's 5 Euro then 5 Euro *Not like HRewards Or GreenOption in Intercity*
   - *Under Qty* set -1 or -2 or -3 *Depending on Person*
