@@ -345,11 +345,11 @@
   - *Click **Main Menu** after printing Page 1 and Page 2 **3 Times***
   - *Click **Create a File to mail and exit Report***
     - Then go to *Datein(Z)* > *Shared* > *Reporting Tool* > *Wolfsburg* > **NOT** *WFGCY Reporting Tool 2023* *rather the created File*
-            - *Right Click on created File* > *Send to* > *E-mail Empfänger*
-              - **The email should be sent to the following**
-                - *daily.wolfsburg@baum-hotels.de*
-                - *technik.wolfsburg@baum-hotels.de*
-                - *schweidler@baum-gruppe.de*
+      - *Right Click on created File* > *Send to* > *E-mail Empfänger*
+        - **The email should be sent to the following**
+          - *daily.wolfsburg@baum-hotels.de*
+          - *technik.wolfsburg@baum-hotels.de*
+          - *schweidler@baum-gruppe.de*
 #### Location
 - The *3 times* printed **Page 1** 
   - *One Page goes to Fr. Richter, One Page goes to Service like Breakfast List and the Last Page goes in The Black Presentation Folder*
