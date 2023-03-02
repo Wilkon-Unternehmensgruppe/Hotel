@@ -14,8 +14,9 @@
     - [Location](#location-4)
   - [Registeration Cards](#registeration-cards)
     - [Location](#location-5)
-  - [Buchung Market Belege *Microkasse im Bar*](#buchung-market-belege-microkasse-im-bar)
+  - [Buchung Market Belege *Microkasse in the Bar*](#buchung-market-belege-microkasse-in-the-bar)
   - [Micros](#micros)
+    - [NOTE](#note-2)
   - [Bearbeitung von Micros und Alle Quittung vom Service](#bearbeitung-von-micros-und-alle-quittung-vom-service)
   - [CC Abgleich neu 270519](#cc-abgleich-neu-270519)
   - [Vorlage KreditkartenABschluss\*\*](#vorlage-kreditkartenabschluss)
@@ -138,7 +139,7 @@
 
 <a href="#top">Back to top</a>
 
-### Buchung Market Belege *Microkasse im Bar*
+### Buchung Market Belege *Microkasse in the Bar*
 - **NOTE ***Auf zimmer schreiben wenn NO POST HACKEN , ansonsten vor ort mit CC oder Cash zahlen*
   - **FALLS** mit Cash Vor ort Zahlen
     - Alle Preise sind in der *LILLA Farbigen Mappe* , und genommene Geld in Kasse Legen 
@@ -151,7 +152,9 @@
     - **MORGEN ARBEITE ICH ODER ANDERE NIGHTY** quitting in brief mit *NIGHTY VERMERK* in kasse lassen und alles buchen nächste nacht   
 - **Tagesabschluss Abschnitt von beiden Service Terminal Ziehen**
 ### Micros
-- *Miscellaneous* > *Reports* > *micros* **NOTE micros sind ähnlich wie 12.029j von Intercity**
+- *Miscellaneous* > *Reports* > *micros* 
+#### NOTE 
+- **Micros** are similar to **12.029j** of Intercity
 ### Bearbeitung von Micros und Alle Quittung vom Service
 - **Vergleichen , einzeln markieren , zusammentackern** 
   - *Amex Micros mit Amex Quittungen*
