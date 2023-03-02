@@ -17,7 +17,8 @@
   - [Buchung Market Belege *Microkasse in the Bar*](#buchung-market-belege-microkasse-in-the-bar)
   - [Micros](#micros)
     - [NOTE](#note-2)
-  - [Bearbeitung von Micros und Alle Quittung vom Service](#bearbeitung-von-micros-und-alle-quittung-vom-service)
+  - [Working on Micros and All Reciepts from Service and Front Office](#working-on-micros-and-all-reciepts-from-service-and-front-office)
+    - [Note](#note-3)
   - [CC Abgleich neu 270519](#cc-abgleich-neu-270519)
   - [Vorlage KreditkartenABschluss\*\*](#vorlage-kreditkartenabschluss)
     - [Location](#location-6)
@@ -161,11 +162,18 @@
 
 <a href="#top">Back to top</a>
 
-### Bearbeitung von Micros und Alle Quittung vom Service
-- **Vergleichen , einzeln markieren , zusammentackern** 
-  - *Amex Micros mit Amex Quittungen*
-  - *MaterCard Micros mit MasterCard Quittungen*
-  - *usw*  
+### Working on Micros and All Reciepts from Service and Front Office
+- **Comparing , Labeling Reciepts *individually* , Stapling them together** 
+  - *Amex Micros with Amex Reciepts*
+  - *MaterCard Micros with MasterCard Reciepts*
+  - *etc*
+    - *V-PAY and Maestro are the same and the **have to be stapled** with EC Micros*  
+#### Note
+- Reciept of Service looks different form the Reciepts from Front Office *Terminal Standal in Front Office*
+  - *For that Reason* On Micros we stable Reciepts from Service together and *right next to it* we staple Reciepts from Front Office together
+
+<a href="#top">Back to top</a>
+
 ### CC Abgleich neu 270519
 - *Datein(Z)* > *Wolfsburg* > *FrontOffice* > *Wilkon* > *Vorlagen*
   - **ALLES was von der Bearbeitung von Mircros und alle Quittung vom Service in der Excel Tabelle eingeben**
