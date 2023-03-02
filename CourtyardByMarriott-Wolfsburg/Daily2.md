@@ -176,18 +176,18 @@
 
 ### CC Abgleich neu 270519
 - *Datein(Z)* > *Wolfsburg* > *FrontOffice* > *Wilkon* > *Vorlagen*
-  - **ALLES was von der Bearbeitung von Mircros und alle Quittung vom Service in der Excel Tabelle eingeben**
-    - **In OPERA kommt die Micros Ergibnisse je nach Zahlungsart *Amex in Amex usw***
-    - **In *241417751* kommt die Ergibnisse von der gezogenen TAGESABSCHLUSS ABSCHNITTEN von beiden Service Terminals**
-    - **In *241417752* kommt die Ergibnisse von der gezogenen TAGESABSCHLUSS ABSCHNITTEN von beiden Service Terminals**
-    - **wir nehmen die Quittung vom SERVICE die in Micros zusammengetackert**
-      - **In CC Nummer kommen die letzten *4 ZIFFERN* von der CC je nachzahlungsart *Amex in Amex usw***
-      - *NOTE : BEI MAESTRO kommt kein letzten 4 ziffern sondern XXXX*
-    - **IN Bemerkung kommt immer das differenzergebnis mit begündung**
-      - *BEISPIEL* Differenz : 7.60€ , Grund: TIP in Opera nicht gebucht *OR* FO Buchungen
+  - **All worked on Micros with the Reciepts *Service and Front Office* should be inputted in the Excel Table of *CC Abgleich neu 270519***
+    - **In OPERA Field comes the Micros Result found in Paper depending on Payment Method *Amex in Amex etc***
+    - **In 241417751 Field comes the Result of the Pulled out TAGESABSCHLUSS Reciept from both Service Terminals**
+    - **In 241417752 Field comes the Result of the Pulled out TAGESABSCHLUSS Reciept from both Service Terminals**
+      - **Then comes on the Micros Stapled Reciepts from *Service and Front Office***
+        - **In CC Nummer comes the last *4 Digits* of the Credit Card depending on the Payment Method *Amex in Amex etc***
+          - *NOTE : In MAESTRO comes no 4 Digits rater XXXX kommt*
+    - **IN Bemerkung comes always the Difference Result with a Reason**
+      - *E.g* Differenz : 7.60€ , Grund: TIP in Opera nicht gebucht *OR* FO Buchungen
 ### Vorlage KreditkartenABschluss** 
 - *Datein(Z)* > *Wolfsburg* > *FrontOffice* > *Wilkon* > *Vorlagen*
-  - **Hier werden die ergebnisse mit handschriftt eingetragen je nach Zahlungsart *Amex in Amex usw***
+  - **Here should all Results be entered by Hand depending on Payment Method *Amex in Amex etc***
 #### Location
 - **Verteilung im SchwarzeMappe von Buchhaltung as following**
   - **Volage Kreditkartenabschluss** = In CC Abschluss
