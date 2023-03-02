@@ -105,6 +105,7 @@
 <a href="#top">Back to top</a>
 
 ## Benefits
+<!-- ASK CIARA OB WIR NACH ANGEKLEBTEN HREWARDS BENEFTS ANHALTEN ODER DAS WAS CHRIS GESAGT HAT-->
 - Types of Benefits *are* 
   - **Green Option**
     - **Who**
@@ -185,7 +186,7 @@ Go
 ### Know How
 
 #### Checking the Correct Rate Info for Payment
-- In case the Guest wants to pay right away on Check-In **PLEASE** before checking-In the Guest make sure to take a look at the Rate Info *This info is **HIGHLY Important** and after checking and *noting* the Sum of Amount then we can go to Cashiering Section
+- In case the Guest wants to pay right away on Check-In **PLEASE** before checking-In the Guest make sure to take a look at the Rate Info *This info is **HIGHLY Important** and after checking and noting* the Sum of Amount then we can go to Cashiering Section
   - *On the Reservation Mask* > *Rate* > *click the THREE Dots* > *click on Rate Info*
   - Take a note the **Total Sum of Amount *then***
     - *Cashiering* > *Billing* > *Type Login Info* > *Room* > *Type Room Nr.* > *Search* > *double Click on found Room* 
@@ -312,8 +313,9 @@ Go
 #### Setting Traces
 - We set traces for the following
   - **Late Check out (Immer egal ob bevor oder nach TA)**
-    - **Don't Forget Inside Reservation Mask > C/O : The Time when The Guest want to Check-Out**
-  - **Go** 
+    - *Late Check Out is for a Guest who wants to check out a Wish or for HReward Members form Level 4 til Level 6*
+      - **Don't Forget Inside Reservation Mask > C/O : The Time when The Guest want to Check-Out**
+  - **Go**
   - **Nights extending for an In House Guest (bleiber)**
   - *Cost Absorption* > *In Cost Absorption Papers in KÜ-FOLDER you will find something like **bitte senden Sie die rechnung an der email**,we have to take the KÜ-paper and search for the gest in the In house Guest and set a trace to FO , and write down the Email address found in the paper*
   - **Dog Bowl for Pets**
