@@ -22,7 +22,7 @@
   - [CC Abgleich neu 270519](#cc-abgleich-neu-270519)
   - [Vorlage Kreditkartenabschluss](#vorlage-kreditkartenabschluss)
     - [Location Of Worked on Micros with Reciepts , CC Abgleich neu 270519 , Volage Kreditkarteabschluss](#location-of-worked-on-micros-with-reciepts--cc-abgleich-neu-270519--volage-kreditkarteabschluss)
-  - [Voucher We need A136](#voucher-we-need-a136)
+  - [Voucher We need A136(Guest IHN Traces)](#voucher-we-need-a136guest-ihn-traces)
   - [Room Management](#room-management)
     - [Location](#location-6)
   - [d140](#d140)
@@ -199,7 +199,7 @@
 
 <a href="#top">Back to top</a>
 
-### Voucher We need [A136](#a136-guest-ihn-traces)
+### Voucher We need [A136(Guest IHN Traces)](#a136-guest-ihn-traces-)
 - *Cashiering* > *Billing* > *search Room* > *Double Click* > *should be on the right Window to post* > *Post* > *Code : 21802* > *Amount*
   - *Under Amount* if it's 5 Euro then 5 Euro *Not like HRewards Or GreenOption in Intercity*
   - *Under Qty* set -1 or -2 or -3 *Depending on Person*
