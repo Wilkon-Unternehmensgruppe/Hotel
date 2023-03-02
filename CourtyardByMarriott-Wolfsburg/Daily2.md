@@ -110,12 +110,16 @@
           - Froum House Status *Max % Occupied Tonight*
         - Durchschnittpreis 
           - From House Status *Brutto = Room Revenue Avarage * 1.07*
-          - From House Status *Netto = Room Revenue Avarage*   
+          - From House Status *Netto = Room Revenue Avarage* 
+          - Erstellt durch
+            - abbreviation Name 
+              - *E.g*
+                - AE *or* SF
 #### Location
 - NOTE *after Finishing the Tagesplanung 3 times print for Service,FO,BO*
 - distribute over *Service,FO,BO*
   - *Service : On Service Bankett*
-  - *FO : Put it In the Letter Tray of the Reservation in the BackOffice **In Reservierungsbirefablage legen***
+  - *FO : Put it In the Black Presentation Folder which is right betweeen the Cashier and the colored Drawer Box*
   - *BO : Frau H. Richter office*
 ### A136 (Guest IHN Traces )
 - *Miscellaneous* > *Reports* > *A136(Guest INH Traces)* > *Click on Department* > *Click on None* > *Unselect All* > *Select NIG* > *Print*
