@@ -88,6 +88,8 @@
 ALL SOFTDRINKS 0.2 COMES IN THE TINY LONG DRINK GLAS , ALL SOFTDRINKS 0.4 COMES IN THE [CHRIS LATTE MACCHIATO GLAS] , FOR ALL SOFTDRINKS ASK THE GUEST IF HE WANTS EIS
 IF THE GUEST WANTS A LEMON OR ORANGE SLIDE THEN DO IT OTHRWISE DO NOT DO IT !
 -->
+
+
 ### Know How
 #### Posting of Bonus Green Option , HRewards
 - *E.g **Green Option***
@@ -120,10 +122,10 @@ IF THE GUEST WANTS A LEMON OR ORANGE SLIDE THEN DO IT OTHRWISE DO NOT DO IT !
         - **Level-4 Member** becomes **ONLY one Time Per Whole Stay in Hotel** *10 Euro HReward Benefit* **PLUS** *Late Check Out at 14:00 O'clock*
           - *E.g*
             - if the Guest stays 5 Days he becomes **Just One** the Benefit *the Card itself* for the whole stay , **not 5 times because he stays 5 Days**
-        - **Level-5 Member** becomes **FOR EVERYDAY for the Whole Stay in Hotel** *Breakfast HReward Benefit* **PLUS** *Late Check Out at 14:00 O'clock* **PLUS** *10% HReward Benefit*
+        - **Level-5 Member** becomes **FOR EVERYDAY for the Whole Stay in Hotel** *Breakfast HReward Benefit* **PLUS** *Late Check Out at 14:00 O'clock* **PLUS** *10% HReward Benefit Just Once for the Whole Stay*
           - *E.g*
             - if the Guest stays 5 Days he becomes **For Everyday** the Benefit *the Card itself* for the whole stay , **meaning 5 times because he stays 5 Days**
-        - **Level-6 Member** becomes **FOR EVERYDAY for the Whole Stay in Hotel** *Breakfast HReward Benefit* **PLUS** *Late Check Out at 16:00 O'clock* **PLUS** *10% HReward Benefit*
+        - **Level-6 Member** becomes **FOR EVERYDAY for the Whole Stay in Hotel** *Breakfast HReward Benefit* **PLUS** *Late Check Out at 16:00 O'clock* **PLUS** *10% HReward Benefit Just Once for the Whole Stay*
           - *E.g*
             - if the Guest stays 5 Days he becomes **For Everyday** the Benefit *the Card itself* for the whole stay , **meaning 5 times because he stays 5 Days**
 <!-- 
