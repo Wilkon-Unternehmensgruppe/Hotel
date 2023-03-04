@@ -43,38 +43,21 @@
 ## Softs
 
 #### Bio Zisch Blutorange
-- **Prise**
-  - Somthing
 #### Bio Zisch Zitrone
-- **Prise**
 #### Bitter Lemon 0.2
-- **Prise**
 #### Coc Cola Zero 0,2
-- **Prise**
 #### Cola 0,2
-- **Prise**
 #### Cola 0,4
-- **Prise**
 #### Cola Light 0,2
-- **Prise**
 #### Cola light 0,4
-- **Prise**
 #### Cola Zero 0,4
-- **Prise**
 #### Fanta 0,2
-- **Prise**
 #### Fanta 0,4
-- **Prise**
 #### Ginger Ale 0,2
-- **Prise**
 #### Mezzo Mix 0,2
-- **Prise**
 #### Sprite 0,2
-- **Prise**
 #### Sprite 0,4
-- **Prise**
 #### Tonic Water 0,2
-- **Prise**
 ### Glas
 ## Saft
 ## Wasser
