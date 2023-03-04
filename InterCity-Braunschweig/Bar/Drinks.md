@@ -59,10 +59,53 @@
 ### Sprite 0,4
 ### Tonic Water 0,2
 #### Glas
+<!-- 
+ALL SOFTDRINKS 0.2 COMES IN THE TINY LONG DRINK GLAS , ALL SOFTDRINKS 0.4 COMES IN THE [CHRIS LATTE MACCHIATO GLAS] , FOR ALL SOFTDRINKS ASK THE GUEST IF HE WANTS EIS
+-->
 ## Saft
+<!-- 
+ALL saefte 0.2 COMES IN THE TINY LONG DRINK GLAS , ALL SOFTDRINKS 0.4 COMES IN THE [CHRIS LATTE MACCHIATO GLAS but THE OTHER ONE WITHOUT VIERECK FORM] , FOR ALL SOFTDRINKS ASK THE GUEST IF HE WANTS EIS
+
+fuer schrole nimm 0,4 saft Plus Miniral wasser 
+https://www.google.com/search?q=graf+rudolf+quelle&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiIn8qihcH9AhU8bvEDHT5SAlwQ_AUoAnoECAEQBA&biw=684&bih=757&dpr=1
+
+-->
 ## Wasser
+
+
+Green Meeting , green meeting blau Haben wir nicht mehr
+https://www.google.com/search?q=staatl+fachingen&tbm=isch&ved=2ahUKEwiMtI7IhMH9AhXyQKQEHZlGDOAQ2-cCegQIABAA&oq=staatl+fachingen&gs_lcp=CgNpbWcQAzIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBwgAEIAEEBgyBwgAEIAEEBg6BwgAEIAEEBNQoQlYoQlg1xVoAHAAeACAAUSIAX6SAQEymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=GJMCZIzIKvKBkdUPmY2xgA4&bih=757&biw=684#imgrc=3tWJO5J-gwxHnM
 ## Bier
+Craftbeer haben wir nicht mehr 
+
+aLSTER 0,3 ist halb radeberger bier und halb zitronen brause in unterem glas
+https://www.radeberger-shop.de/radeberger-exklusivpokal
+alster 0,5 ist das selber aber in unterem glas
+https://www.google.com/search?q=0,5+radelberg+glas&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiW4OOGh8H9AhVYR_EDHd2xDgwQ_AUoAnoECAEQBA&biw=684&bih=757&dpr=1#imgrc=ra0unN8ealU3eM
+
+diesel 0,3 und 0,5 ist das selber wie oben aber mit Cola 
+
+(hefe alkfrei , hefe dunkel , hefe kristall 0,5) is weizen oder Hefe Weizen und alle sind Erdinger Bier und alles steht auf dem glas ... weizen bedeutet GAMI7 auf arabisch
+
+jever is Pils alkoholfrei 0,33l und kommt in seinem glas 
+
+koestrizer schwarzbier kommt in seinem glass 
+
+radelberger 0,5 kommt in MAAS glas und es ist zapfen oder zwei kleine flashen
+
+radelber 0,3 ist auch zapfen wenn ich kann und wenn nicht dann eine flashe radelberger und ihr glas 
+https://www.google.com/search?q=radeberger+0%2C3+glas&tbm=isch&ved=2ahUKEwjfr5yWicH9AhV3nCcCHWkIAUwQ2-cCegQIABAA&oq=radeberger+0%2C3+glas&gs_lcp=CgNpbWcQAzoFCAAQgAQ6CAgAEIAEELEDOgQIABAeUI0LWIoxYL0yaABwAHgAgAFkiAGUCpIBBDE5LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=7pcCZN-AD_e4nsEP6ZCE4AQ&bih=757&biw=684#imgrc=eGtVsK31N3W2WM
+
 ## Longdrinks
+alles kommt in long drink glas nicht die coca cola tiny drink glas 
+
+alles kommt mit eis oder kommt auf dem gast an
+
+alle 4cl von dem drink (bacardi , havana , gordens etc) und restliche glas mit schweppes tonic wenn TONIC , oder schweppes lemon wenn LEMON
+https://www.google.com/search?q=tonic+water+schweppes+0%2C2&tbm=isch&ved=2ahUKEwjw-bayjcH9AhUmrycCHSLZC84Q2-cCegQIABAA&oq=tonic+water+schweppes+0%2C2&gs_lcp=CgNpbWcQAzoECAAQQzoFCAAQgAQ6BggAEAcQHjoGCAAQCBAeOgQIABAeOgYIABAFEB5QtAlY7SBg4SJoAHAAeACAAUiIAbwCkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=W5wCZLDgCKbensEPorKv8Aw&bih=757&biw=684
+
+Screw ist voda mit Orangen saft gleiche masshahmen !
+
 ## Cocktails
 ## Alkfrei Coctails
 ## Aperitif
