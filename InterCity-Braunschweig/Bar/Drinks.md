@@ -111,17 +111,55 @@ bacardi cola = 4cl bacardi + Cola
 havana club cola = 4cl havana + Cola
 Jim beam Cola = 4cl ? = cola 
 Gordons Gin Tonic = 4cl Gordons + Schweppes tonic
-Hendricks Gin Tonic = 4cl ? + Schweppes tonic
-Mare Gin Tonic = 4cl ? + Schweppes Tonic
-Monkey 47 Gin Tonic = 4cl ? + Scweppes Tonic
-Tanqueray Gin Tonic = 4cl ? + Scweppes Tonic
+Hendricks Gin Tonic = 4cl Hendricks + Schweppes tonic
+Mare Gin Tonic = 4cl Mare + Schweppes Tonic
+Monkey 47 Gin Tonic = 4cl Monkey 47 + Scweppes Tonic
+Tanqueray Gin Tonic = 4cl Tanqueray + Scweppes Tonic
 Vodka Lemon = 4cl Vodka + Schweppes Lemon
 ## Cocktails
+selber glases wie longdrinks 
 caipi ist nicht da 
-cuba libre ist [bacardi , havana](rum) + Cola + 
+cocktail vergess es haben wir nicht
+cuba libre ist 4cl[bacardi , havana](rum) + Cola + ein halben limetten in glas + Limtetten zerquetschen in dem glas
+Gimlet chris weisst es nicht
+Long island ice tea haben wir nicht
+Mai Tai chris weiss es nicht 
+mojito ist eine sorte von kukki cocktail
+pica colade haben wir nicht
+sex on the beach ist eine sorte von kukki cocktail
+sunrise  comes in a glas like that :
+https://www.barstuff.de/images/catalog/product/440x/029-2-3_arc-54584-hurricane-cocktail-44cl_low.jpg
+erstmal eiswurfel dann 4cl Tequila und dann orangensaft und dann apfelgranate sirup
+whiskey sour look in google
 ## Alkfrei Coctails
+weisst alles chris nicht
 ## Aperitif
+aperol glas in a glas like that :
+https://www.barstuff.de/images/catalog/product/440x/029-2-3_arc-54584-hurricane-cocktail-44cl_low.jpg
+and zutaten i have a printed paper form gutekueche.at
+campari orange in a glas like that :
+https://www.barstuff.de/images/catalog/product/440x/029-2-3_arc-54584-hurricane-cocktail-44cl_low.jpg
+zutaten i have a printed paper from gutekueche.at
+campari soda in a glas like that :
+https://www.barstuff.de/images/catalog/product/440x/029-2-3_arc-54584-hurricane-cocktail-44cl_low.jpg
+zutaten etc etc like the above
+Hugo in a glas like that :
+https://www.barstuff.de/images/catalog/product/440x/029-2-3_arc-54584-hurricane-cocktail-44cl_low.jpg
+zutaten like the above
+Lillet wild berry in a glas like jasmin
+eis + rosefarbige schweppes + 3 blaetter mint + 4cl Lillet + beeren wenn vorhanden 
+martini weiss in fancy martini glass like james bond und 5cl martini
+sherry weiss chris nicht 
 ## Schaumwein
+prosecco 0,1 comes in this glas 
+https://www.google.com/search?q=sekt+glas&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjvibvL4M39AhWLcvEDHeXzBVAQ_AUoAnoECAIQBA&biw=684&bih=757&dpr=1#imgrc=gqZhXRlj9AQPnM
+
+and we fil til the strich without eis
+
+sekt 0,1 steigenberger tradition sekt
+the same as procecco glas and the same scenario 
+
+the 0,75 means a whole bottle
 ## Spirituosen
 ## Wein
 ## Hot Drinks
