@@ -41,6 +41,8 @@
 - **Terminal Report(Bericht)**
   - *press Yellow* > *Press ABSCHLUSS* > *TA*
 
+- **Room Categories**
+
 |Room|Category|
 |:--:|:--:|
 |Park Shower King|PSK|
