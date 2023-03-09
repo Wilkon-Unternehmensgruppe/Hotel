@@ -122,6 +122,7 @@
 - allocate over *Service,FO,BO*
   - *Service : On Service Bankett*
   - *FO : Put it In the Black Presentation Folder which is right betweeen the Cashier and the colored Drawer Box*
+    - throw away the old one !
   - *BO : Frau H. Richter office*
 
 <a href="#top">Back to top</a>
@@ -159,7 +160,9 @@
 ### Micros
 - *Miscellaneous* > *Reports* > *micros* 
 #### Note
+- **Firstly** sorting the from the Service given Reciepts and then we Print out the Micros !
 - **Micros** are similar to **12.029j** of Intercity
+- **Zimmerzahlungsbeleg** has *NOTHING* to do with Working on Micros
 
 <a href="#top">Back to top</a>
 
@@ -172,6 +175,8 @@
 #### Note
 - Reciept of Service looks different form the Reciepts from Front Office *Terminal Standal in Front Office*
   - *For that Reason* On Micros we stable Reciepts from Service together and *right next to it* we staple Reciepts from Front Office together
+- **STORNO RECIEPTS** comes under Storno Slide in the black Accounting Folder
+- **In the Kellner Silde** there are also Reciepts that has to be sorted and worked on 
 
 <a href="#top">Back to top</a>
 
@@ -241,7 +246,7 @@
 
 ### Check out 9000 & 9500 and all PM Accounts with the Amount of ZERO
 - *Cashiering* > *Quick Check Out* > *9000,9500 and ALL PM Accounts with **AMOUNT Zero*** > *C/O Zero*
-  - *If the PM Account has an Amount then we have to extend it*
+  - *If the PM Account **ausser Cash und LP Micros** has an Amount then we have to extend it*
 <!-- OR wenn pm konto einen betrag hat , ODER WAS NOCH ?-->
 
 <a href="#top">Back to top</a>

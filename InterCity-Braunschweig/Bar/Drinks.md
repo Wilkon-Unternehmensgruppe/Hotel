@@ -101,12 +101,24 @@ alles kommt in long drink glas nicht die coca cola tiny drink glas
 
 alles kommt mit eis oder kommt auf dem gast an
 
-alle 4cl von dem drink (bacardi , havana , gordens etc) und restliche glas mit schweppes tonic wenn TONIC , oder schweppes lemon wenn LEMON
+alle 4cl von dem drink (bacardi , havana , gordens etc) und restliche glas mit schweppes tonic wenn TONIC , oder schweppes lemon wenn LEMON Oder cola
 https://www.google.com/search?q=tonic+water+schweppes+0%2C2&tbm=isch&ved=2ahUKEwjw-bayjcH9AhUmrycCHSLZC84Q2-cCegQIABAA&oq=tonic+water+schweppes+0%2C2&gs_lcp=CgNpbWcQAzoECAAQQzoFCAAQgAQ6BggAEAcQHjoGCAAQCBAeOgQIABAeOgYIABAFEB5QtAlY7SBg4SJoAHAAeACAAUiIAbwCkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=W5wCZLDgCKbensEPorKv8Aw&bih=757&biw=684
 
-Screw ist voda mit Orangen saft gleiche masshahmen !
-
+Screw ist vodka mit Orangen saft gleiche masshahmen !
+gordens = gin
+bacardi , havana = rum
+bacardi cola = 4cl bacardi + Cola 
+havana club cola = 4cl havana + Cola
+Jim beam Cola = 4cl ? = cola 
+Gordons Gin Tonic = 4cl Gordons + Schweppes tonic
+Hendricks Gin Tonic = 4cl ? + Schweppes tonic
+Mare Gin Tonic = 4cl ? + Schweppes Tonic
+Monkey 47 Gin Tonic = 4cl ? + Scweppes Tonic
+Tanqueray Gin Tonic = 4cl ? + Scweppes Tonic
+Vodka Lemon = 4cl Vodka + Schweppes Lemon
 ## Cocktails
+caipi ist nicht da 
+cuba libre ist [bacardi , havana](rum) + Cola + 
 ## Alkfrei Coctails
 ## Aperitif
 ## Schaumwein

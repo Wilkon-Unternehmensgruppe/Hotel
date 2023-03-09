@@ -119,7 +119,7 @@
         - *darauf* Gesamte Übersicht *meaning this one here * **D140 ABER NICHT MIT CASSIERERNUMMER SONDER EINFACH ALL MEANING BY CASHIER TYPE NOTHING**
  - **Auschecken von 9000,9500 und alle PM Konton die Beitrag Null haben** 
      - Cashiering ↓ Billing ↓ 9000,9500 and **ALL PM KONTEN** **BETRAG NULL** ↓ auschecken
-       - **WENN DAS PM KONTO EINEN BETRAG HAT , DANN VERLÄNGERN**
+       - **WENN DAS PM KONTO *ausser Cash und LP Micros* EINEN BETRAG HAT , DANN VERLÄNGERN**
  - **Cashier Shift close**
      - Cashiering ↓ Cashier Shift Close
        - *Report von Cashier Shift Close in der Kasse Legen von die dass sehen dann in der schwarzenfmappe unter kasse legen*
@@ -195,7 +195,7 @@
                       - *schweidler@baum-gruppe.de*
 
 
-YOURCHOISE SETZEN 
-IN HOUSE GUEST , SEARCH NAME , OPTIONS , FACILITY SCHEDULER , ONE CLICK ON DATE , CUSTOMIZE , ARE YOU SURE ? : YES ,  TAG AUSSUCEHN , DEN TAG MARKIEREN NICHT MIT X HACKEN , UNTEN DOUBLE CLICK THE DAY OR EDIT , ARROW DOWN ON TASK , CHOOSE YOUR CHOISE , AND THEN OK , 
+<!--
 - Quick Preferences check out (a114)
   - 
+-->
